@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Standard_Price,COGS_Pct,Launch_Year
+P001,Laptop Pro 15,Electronics,1200,0.52,2020
+P002,Wireless Mouse,Electronics,35,0.4,2021
+P003,Office Chair,Furniture,350,0.55,2019
+P004,Standing Desk,Furniture,620,0.58,2019
+P005,Monitor 27inch,Electronics,450,0.48,2019
+P006,Accounting Software,Software,299,0.2,2019
+P007,ERP License,Software,1800,0.18,2021
+P008,Mechanical Keyboard,Electronics,95,0.42,2021
+P009,Webcam HD,Electronics,79,0.44,2021
+P010,Headset Pro,Electronics,149,0.46,2020

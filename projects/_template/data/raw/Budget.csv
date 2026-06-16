@@ -1,0 +1,1801 @@
+Year,Month_Num,Month_Name,Quarter,Region,Product_ID,Product_Name,Category,Budgeted_Revenue,Budgeted_COGS,Budgeted_GP,Budgeted_Units
+2022,1,January,Q1,North,P001,Laptop Pro 15,Electronics,6473.95,3366.45,3107.5,72
+2022,1,January,Q1,South,P001,Laptop Pro 15,Electronics,24886.15,12940.8,11945.35,188
+2022,1,January,Q1,East,P001,Laptop Pro 15,Electronics,19205.13,9986.67,9218.46,190
+2022,1,January,Q1,West,P001,Laptop Pro 15,Electronics,13745.27,7147.54,6597.73,281
+2022,1,January,Q1,Central,P001,Laptop Pro 15,Electronics,11945.64,6211.73,5733.91,154
+2022,1,January,Q1,North,P002,Wireless Mouse,Electronics,22859.84,9143.94,13715.9,229
+2022,1,January,Q1,South,P002,Wireless Mouse,Electronics,32557.29,13022.92,19534.37,85
+2022,1,January,Q1,East,P002,Wireless Mouse,Electronics,36291.3,14516.52,21774.78,63
+2022,1,January,Q1,West,P002,Wireless Mouse,Electronics,38288.6,15315.44,22973.16,134
+2022,1,January,Q1,Central,P002,Wireless Mouse,Electronics,5862.63,2345.05,3517.58,196
+2022,1,January,Q1,North,P003,Office Chair,Furniture,39465.64,21706.1,17759.54,32
+2022,1,January,Q1,South,P003,Office Chair,Furniture,18865.7,10376.14,8489.56,79
+2022,1,January,Q1,East,P003,Office Chair,Furniture,12872.57,7079.91,5792.66,247
+2022,1,January,Q1,West,P003,Office Chair,Furniture,22810.88,12545.98,10264.9,142
+2022,1,January,Q1,Central,P003,Office Chair,Furniture,30577.57,16817.66,13759.91,27
+2022,1,January,Q1,North,P004,Standing Desk,Furniture,26571.61,15411.53,11160.08,185
+2022,1,January,Q1,South,P004,Standing Desk,Furniture,29240.82,16959.68,12281.14,210
+2022,1,January,Q1,East,P004,Standing Desk,Furniture,24949.79,14470.88,10478.91,30
+2022,1,January,Q1,West,P004,Standing Desk,Furniture,41024.57,23794.25,17230.32,115
+2022,1,January,Q1,Central,P004,Standing Desk,Furniture,5334.12,3093.79,2240.33,240
+2022,1,January,Q1,North,P005,Monitor 27inch,Electronics,8303.15,3985.51,4317.64,203
+2022,1,January,Q1,South,P005,Monitor 27inch,Electronics,14055.5,6746.64,7308.86,298
+2022,1,January,Q1,East,P005,Monitor 27inch,Electronics,28894.55,13869.38,15025.17,54
+2022,1,January,Q1,West,P005,Monitor 27inch,Electronics,7821.61,3754.37,4067.24,235
+2022,1,January,Q1,Central,P005,Monitor 27inch,Electronics,32236.03,15473.29,16762.74,251
+2022,1,January,Q1,North,P006,Accounting Software,Software,21433.52,4286.7,17146.82,42
+2022,1,January,Q1,South,P006,Accounting Software,Software,9798.15,1959.63,7838.52,93
+2022,1,January,Q1,East,P006,Accounting Software,Software,32434.87,6486.97,25947.9,134
+2022,1,January,Q1,West,P006,Accounting Software,Software,32016.07,6403.21,25612.86,55
+2022,1,January,Q1,Central,P006,Accounting Software,Software,24421.18,4884.24,19536.94,49
+2022,1,January,Q1,North,P007,ERP License,Software,12630.06,2273.41,10356.65,30
+2022,1,January,Q1,South,P007,ERP License,Software,35374.61,6367.43,29007.18,265
+2022,1,January,Q1,East,P007,ERP License,Software,30695.79,5525.24,25170.55,102
+2022,1,January,Q1,West,P007,ERP License,Software,28774.57,5179.42,23595.15,174
+2022,1,January,Q1,Central,P007,ERP License,Software,35862.33,6455.22,29407.11,275
+2022,1,January,Q1,North,P008,Mechanical Keyboard,Electronics,15433.95,6482.26,8951.69,24
+2022,1,January,Q1,South,P008,Mechanical Keyboard,Electronics,37299.48,15665.78,21633.7,114
+2022,1,January,Q1,East,P008,Mechanical Keyboard,Electronics,20975.79,8809.83,12165.96,148
+2022,1,January,Q1,West,P008,Mechanical Keyboard,Electronics,15080.29,6333.72,8746.57,282
+2022,1,January,Q1,Central,P008,Mechanical Keyboard,Electronics,5266.79,2212.05,3054.74,160
+2022,1,January,Q1,North,P009,Webcam HD,Electronics,9908.74,4359.85,5548.89,84
+2022,1,January,Q1,South,P009,Webcam HD,Electronics,22130.93,9737.61,12393.32,189
+2022,1,January,Q1,East,P009,Webcam HD,Electronics,24682.32,10860.22,13822.1,223
+2022,1,January,Q1,West,P009,Webcam HD,Electronics,10620.78,4673.14,5947.64,193
+2022,1,January,Q1,Central,P009,Webcam HD,Electronics,24792.68,10908.78,13883.9,34
+2022,1,January,Q1,North,P010,Headset Pro,Electronics,27109.88,12470.54,14639.34,275
+2022,1,January,Q1,South,P010,Headset Pro,Electronics,26186.69,12045.88,14140.81,162
+2022,1,January,Q1,East,P010,Headset Pro,Electronics,14606.77,6719.11,7887.66,51
+2022,1,January,Q1,West,P010,Headset Pro,Electronics,21987.0,10114.02,11872.98,129
+2022,1,January,Q1,Central,P010,Headset Pro,Electronics,19597.2,9014.71,10582.49,193
+2022,2,February,Q1,North,P001,Laptop Pro 15,Electronics,22350.65,11622.34,10728.31,133
+2022,2,February,Q1,South,P001,Laptop Pro 15,Electronics,9644.32,5015.05,4629.27,295
+2022,2,February,Q1,East,P001,Laptop Pro 15,Electronics,13065.94,6794.29,6271.65,135
+2022,2,February,Q1,West,P001,Laptop Pro 15,Electronics,6691.35,3479.5,3211.85,91
+2022,2,February,Q1,Central,P001,Laptop Pro 15,Electronics,31310.78,16281.61,15029.17,66
+2022,2,February,Q1,North,P002,Wireless Mouse,Electronics,30742.35,12296.94,18445.41,268
+2022,2,February,Q1,South,P002,Wireless Mouse,Electronics,25075.88,10030.35,15045.53,91
+2022,2,February,Q1,East,P002,Wireless Mouse,Electronics,11768.75,4707.5,7061.25,64
+2022,2,February,Q1,West,P002,Wireless Mouse,Electronics,30776.87,12310.75,18466.12,110
+2022,2,February,Q1,Central,P002,Wireless Mouse,Electronics,11662.04,4664.82,6997.22,143
+2022,2,February,Q1,North,P003,Office Chair,Furniture,17279.51,9503.73,7775.78,215
+2022,2,February,Q1,South,P003,Office Chair,Furniture,17909.42,9850.18,8059.24,22
+2022,2,February,Q1,East,P003,Office Chair,Furniture,28327.74,15580.26,12747.48,84
+2022,2,February,Q1,West,P003,Office Chair,Furniture,28358.23,15597.03,12761.2,130
+2022,2,February,Q1,Central,P003,Office Chair,Furniture,12813.6,7047.48,5766.12,100
+2022,2,February,Q1,North,P004,Standing Desk,Furniture,33634.17,19507.82,14126.35,292
+2022,2,February,Q1,South,P004,Standing Desk,Furniture,24340.99,14117.77,10223.22,97
+2022,2,February,Q1,East,P004,Standing Desk,Furniture,6885.18,3993.4,2891.78,44
+2022,2,February,Q1,West,P004,Standing Desk,Furniture,11168.2,6477.56,4690.64,144
+2022,2,February,Q1,Central,P004,Standing Desk,Furniture,17545.22,10176.23,7368.99,135
+2022,2,February,Q1,North,P005,Monitor 27inch,Electronics,36750.21,17640.1,19110.11,63
+2022,2,February,Q1,South,P005,Monitor 27inch,Electronics,7203.3,3457.58,3745.72,31
+2022,2,February,Q1,East,P005,Monitor 27inch,Electronics,16667.95,8000.62,8667.33,194
+2022,2,February,Q1,West,P005,Monitor 27inch,Electronics,29436.48,14129.51,15306.97,94
+2022,2,February,Q1,Central,P005,Monitor 27inch,Electronics,17093.4,8204.83,8888.57,212
+2022,2,February,Q1,North,P006,Accounting Software,Software,22880.06,4576.01,18304.05,52
+2022,2,February,Q1,South,P006,Accounting Software,Software,38775.72,7755.14,31020.58,201
+2022,2,February,Q1,East,P006,Accounting Software,Software,21611.8,4322.36,17289.44,250
+2022,2,February,Q1,West,P006,Accounting Software,Software,13235.33,2647.07,10588.26,166
+2022,2,February,Q1,Central,P006,Accounting Software,Software,28225.56,5645.11,22580.45,131
+2022,2,February,Q1,North,P007,ERP License,Software,13631.54,2453.68,11177.86,62
+2022,2,February,Q1,South,P007,ERP License,Software,29875.16,5377.53,24497.63,259
+2022,2,February,Q1,East,P007,ERP License,Software,36829.13,6629.24,30199.89,293
+2022,2,February,Q1,West,P007,ERP License,Software,8612.75,1550.29,7062.46,212
+2022,2,February,Q1,Central,P007,ERP License,Software,22729.02,4091.22,18637.8,167
+2022,2,February,Q1,North,P008,Mechanical Keyboard,Electronics,19775.75,8305.82,11469.93,80
+2022,2,February,Q1,South,P008,Mechanical Keyboard,Electronics,25046.91,10519.7,14527.21,200
+2022,2,February,Q1,East,P008,Mechanical Keyboard,Electronics,17604.11,7393.73,10210.38,73
+2022,2,February,Q1,West,P008,Mechanical Keyboard,Electronics,10340.16,4342.87,5997.29,275
+2022,2,February,Q1,Central,P008,Mechanical Keyboard,Electronics,35002.86,14701.2,20301.66,239
+2022,2,February,Q1,North,P009,Webcam HD,Electronics,23703.75,10429.65,13274.1,110
+2022,2,February,Q1,South,P009,Webcam HD,Electronics,36036.72,15856.16,20180.56,234
+2022,2,February,Q1,East,P009,Webcam HD,Electronics,8325.04,3663.02,4662.02,101
+2022,2,February,Q1,West,P009,Webcam HD,Electronics,36692.32,16144.62,20547.7,184
+2022,2,February,Q1,Central,P009,Webcam HD,Electronics,35332.08,15546.12,19785.96,228
+2022,2,February,Q1,North,P010,Headset Pro,Electronics,9534.88,4386.04,5148.84,50
+2022,2,February,Q1,South,P010,Headset Pro,Electronics,12969.73,5966.08,7003.65,55
+2022,2,February,Q1,East,P010,Headset Pro,Electronics,11737.9,5399.43,6338.47,300
+2022,2,February,Q1,West,P010,Headset Pro,Electronics,29858.67,13734.99,16123.68,264
+2022,2,February,Q1,Central,P010,Headset Pro,Electronics,30108.79,13850.04,16258.75,145
+2022,3,March,Q1,North,P001,Laptop Pro 15,Electronics,12093.04,6288.38,5804.66,268
+2022,3,March,Q1,South,P001,Laptop Pro 15,Electronics,12093.96,6288.86,5805.1,99
+2022,3,March,Q1,East,P001,Laptop Pro 15,Electronics,9664.21,5025.39,4638.82,213
+2022,3,March,Q1,West,P001,Laptop Pro 15,Electronics,39675.51,20631.27,19044.24,282
+2022,3,March,Q1,Central,P001,Laptop Pro 15,Electronics,27518.88,14309.82,13209.06,274
+2022,3,March,Q1,North,P002,Wireless Mouse,Electronics,9166.25,3666.5,5499.75,97
+2022,3,March,Q1,South,P002,Wireless Mouse,Electronics,22524.31,9009.72,13514.59,40
+2022,3,March,Q1,East,P002,Wireless Mouse,Electronics,6526.75,2610.7,3916.05,145
+2022,3,March,Q1,West,P002,Wireless Mouse,Electronics,36245.21,14498.08,21747.13,145
+2022,3,March,Q1,Central,P002,Wireless Mouse,Electronics,39503.87,15801.55,23702.32,96
+2022,3,March,Q1,North,P003,Office Chair,Furniture,20812.16,11446.69,9365.47,57
+2022,3,March,Q1,South,P003,Office Chair,Furniture,16715.52,9193.54,7521.98,243
+2022,3,March,Q1,East,P003,Office Chair,Furniture,27536.97,15145.33,12391.64,277
+2022,3,March,Q1,West,P003,Office Chair,Furniture,28303.94,15567.17,12736.77,126
+2022,3,March,Q1,Central,P003,Office Chair,Furniture,14224.34,7823.39,6400.95,294
+2022,3,March,Q1,North,P004,Standing Desk,Furniture,19333.78,11213.59,8120.19,123
+2022,3,March,Q1,South,P004,Standing Desk,Furniture,35371.69,20515.58,14856.11,56
+2022,3,March,Q1,East,P004,Standing Desk,Furniture,28056.69,16272.88,11783.81,288
+2022,3,March,Q1,West,P004,Standing Desk,Furniture,11807.23,6848.19,4959.04,70
+2022,3,March,Q1,Central,P004,Standing Desk,Furniture,22736.12,13186.95,9549.17,35
+2022,3,March,Q1,North,P005,Monitor 27inch,Electronics,30762.21,14765.86,15996.35,103
+2022,3,March,Q1,South,P005,Monitor 27inch,Electronics,31314.68,15031.05,16283.63,114
+2022,3,March,Q1,East,P005,Monitor 27inch,Electronics,31648.75,15191.4,16457.35,132
+2022,3,March,Q1,West,P005,Monitor 27inch,Electronics,25556.24,12267.0,13289.24,93
+2022,3,March,Q1,Central,P005,Monitor 27inch,Electronics,33718.17,16184.72,17533.45,163
+2022,3,March,Q1,North,P006,Accounting Software,Software,27215.34,5443.07,21772.27,132
+2022,3,March,Q1,South,P006,Accounting Software,Software,19956.04,3991.21,15964.83,207
+2022,3,March,Q1,East,P006,Accounting Software,Software,28884.09,5776.82,23107.27,217
+2022,3,March,Q1,West,P006,Accounting Software,Software,38341.99,7668.4,30673.59,153
+2022,3,March,Q1,Central,P006,Accounting Software,Software,37553.78,7510.76,30043.02,170
+2022,3,March,Q1,North,P007,ERP License,Software,29822.35,5368.02,24454.33,162
+2022,3,March,Q1,South,P007,ERP License,Software,23957.53,4312.36,19645.17,81
+2022,3,March,Q1,East,P007,ERP License,Software,5768.19,1038.27,4729.92,90
+2022,3,March,Q1,West,P007,ERP License,Software,22529.07,4055.23,18473.84,231
+2022,3,March,Q1,Central,P007,ERP License,Software,14223.81,2560.29,11663.52,234
+2022,3,March,Q1,North,P008,Mechanical Keyboard,Electronics,24415.39,10254.46,14160.93,190
+2022,3,March,Q1,South,P008,Mechanical Keyboard,Electronics,11143.19,4680.14,6463.05,47
+2022,3,March,Q1,East,P008,Mechanical Keyboard,Electronics,32648.68,13712.45,18936.23,249
+2022,3,March,Q1,West,P008,Mechanical Keyboard,Electronics,32307.96,13569.34,18738.62,111
+2022,3,March,Q1,Central,P008,Mechanical Keyboard,Electronics,19910.84,8362.55,11548.29,31
+2022,3,March,Q1,North,P009,Webcam HD,Electronics,33556.42,14764.82,18791.6,130
+2022,3,March,Q1,South,P009,Webcam HD,Electronics,21776.22,9581.54,12194.68,157
+2022,3,March,Q1,East,P009,Webcam HD,Electronics,11889.67,5231.45,6658.22,76
+2022,3,March,Q1,West,P009,Webcam HD,Electronics,23698.01,10427.12,13270.89,210
+2022,3,March,Q1,Central,P009,Webcam HD,Electronics,4686.05,2061.86,2624.19,120
+2022,3,March,Q1,North,P010,Headset Pro,Electronics,24807.71,11411.55,13396.16,256
+2022,3,March,Q1,South,P010,Headset Pro,Electronics,43871.73,20181.0,23690.73,23
+2022,3,March,Q1,East,P010,Headset Pro,Electronics,24889.26,11449.06,13440.2,272
+2022,3,March,Q1,West,P010,Headset Pro,Electronics,36434.19,16759.73,19674.46,90
+2022,3,March,Q1,Central,P010,Headset Pro,Electronics,25850.82,11891.38,13959.44,286
+2022,4,April,Q2,North,P001,Laptop Pro 15,Electronics,23911.33,12433.89,11477.44,46
+2022,4,April,Q2,South,P001,Laptop Pro 15,Electronics,30764.75,15997.67,14767.08,137
+2022,4,April,Q2,East,P001,Laptop Pro 15,Electronics,35218.05,18313.39,16904.66,169
+2022,4,April,Q2,West,P001,Laptop Pro 15,Electronics,33366.3,17350.48,16015.82,93
+2022,4,April,Q2,Central,P001,Laptop Pro 15,Electronics,18772.27,9761.58,9010.69,99
+2022,4,April,Q2,North,P002,Wireless Mouse,Electronics,8682.34,3472.94,5209.4,158
+2022,4,April,Q2,South,P002,Wireless Mouse,Electronics,22820.16,9128.06,13692.1,222
+2022,4,April,Q2,East,P002,Wireless Mouse,Electronics,35281.45,14112.58,21168.87,247
+2022,4,April,Q2,West,P002,Wireless Mouse,Electronics,4895.42,1958.17,2937.25,228
+2022,4,April,Q2,Central,P002,Wireless Mouse,Electronics,19649.43,7859.77,11789.66,286
+2022,4,April,Q2,North,P003,Office Chair,Furniture,30082.95,16545.62,13537.33,77
+2022,4,April,Q2,South,P003,Office Chair,Furniture,9879.19,5433.55,4445.64,97
+2022,4,April,Q2,East,P003,Office Chair,Furniture,6386.05,3512.33,2873.72,45
+2022,4,April,Q2,West,P003,Office Chair,Furniture,36420.55,20031.3,16389.25,157
+2022,4,April,Q2,Central,P003,Office Chair,Furniture,12708.02,6989.41,5718.61,149
+2022,4,April,Q2,North,P004,Standing Desk,Furniture,36687.61,21278.81,15408.8,128
+2022,4,April,Q2,South,P004,Standing Desk,Furniture,34234.34,19855.92,14378.42,215
+2022,4,April,Q2,East,P004,Standing Desk,Furniture,6536.4,3791.11,2745.29,280
+2022,4,April,Q2,West,P004,Standing Desk,Furniture,16315.51,9463.0,6852.51,296
+2022,4,April,Q2,Central,P004,Standing Desk,Furniture,29992.59,17395.7,12596.89,63
+2022,4,April,Q2,North,P005,Monitor 27inch,Electronics,17572.29,8434.7,9137.59,191
+2022,4,April,Q2,South,P005,Monitor 27inch,Electronics,21447.68,10294.89,11152.79,166
+2022,4,April,Q2,East,P005,Monitor 27inch,Electronics,34410.93,16517.25,17893.68,88
+2022,4,April,Q2,West,P005,Monitor 27inch,Electronics,6074.75,2915.88,3158.87,209
+2022,4,April,Q2,Central,P005,Monitor 27inch,Electronics,29635.58,14225.08,15410.5,46
+2022,4,April,Q2,North,P006,Accounting Software,Software,12881.01,2576.2,10304.81,94
+2022,4,April,Q2,South,P006,Accounting Software,Software,21510.85,4302.17,17208.68,67
+2022,4,April,Q2,East,P006,Accounting Software,Software,17547.12,3509.42,14037.7,20
+2022,4,April,Q2,West,P006,Accounting Software,Software,8294.91,1658.98,6635.93,189
+2022,4,April,Q2,Central,P006,Accounting Software,Software,22500.92,4500.18,18000.74,263
+2022,4,April,Q2,North,P007,ERP License,Software,28550.25,5139.05,23411.2,291
+2022,4,April,Q2,South,P007,ERP License,Software,8065.43,1451.78,6613.65,44
+2022,4,April,Q2,East,P007,ERP License,Software,19625.97,3532.67,16093.3,280
+2022,4,April,Q2,West,P007,ERP License,Software,6700.18,1206.03,5494.15,54
+2022,4,April,Q2,Central,P007,ERP License,Software,7650.95,1377.17,6273.78,159
+2022,4,April,Q2,North,P008,Mechanical Keyboard,Electronics,18255.5,7667.31,10588.19,227
+2022,4,April,Q2,South,P008,Mechanical Keyboard,Electronics,31283.02,13138.87,18144.15,194
+2022,4,April,Q2,East,P008,Mechanical Keyboard,Electronics,9336.79,3921.45,5415.34,189
+2022,4,April,Q2,West,P008,Mechanical Keyboard,Electronics,17076.3,7172.05,9904.25,72
+2022,4,April,Q2,Central,P008,Mechanical Keyboard,Electronics,22066.23,9267.82,12798.41,131
+2022,4,April,Q2,North,P009,Webcam HD,Electronics,33672.06,14815.71,18856.35,183
+2022,4,April,Q2,South,P009,Webcam HD,Electronics,27030.7,11893.51,15137.19,120
+2022,4,April,Q2,East,P009,Webcam HD,Electronics,7174.25,3156.67,4017.58,26
+2022,4,April,Q2,West,P009,Webcam HD,Electronics,11928.78,5248.66,6680.12,284
+2022,4,April,Q2,Central,P009,Webcam HD,Electronics,24407.17,10739.15,13668.02,249
+2022,4,April,Q2,North,P010,Headset Pro,Electronics,11968.94,5505.71,6463.23,250
+2022,4,April,Q2,South,P010,Headset Pro,Electronics,38098.11,17525.13,20572.98,66
+2022,4,April,Q2,East,P010,Headset Pro,Electronics,6516.67,2997.67,3519.0,256
+2022,4,April,Q2,West,P010,Headset Pro,Electronics,10790.56,4963.66,5826.9,289
+2022,4,April,Q2,Central,P010,Headset Pro,Electronics,41166.7,18936.68,22230.02,124
+2022,5,May,Q2,North,P001,Laptop Pro 15,Electronics,36412.09,18934.29,17477.8,243
+2022,5,May,Q2,South,P001,Laptop Pro 15,Electronics,9213.41,4790.97,4422.44,284
+2022,5,May,Q2,East,P001,Laptop Pro 15,Electronics,28560.9,14851.67,13709.23,284
+2022,5,May,Q2,West,P001,Laptop Pro 15,Electronics,29522.07,15351.48,14170.59,260
+2022,5,May,Q2,Central,P001,Laptop Pro 15,Electronics,28643.54,14894.64,13748.9,286
+2022,5,May,Q2,North,P002,Wireless Mouse,Electronics,17557.58,7023.03,10534.55,101
+2022,5,May,Q2,South,P002,Wireless Mouse,Electronics,28307.17,11322.87,16984.3,41
+2022,5,May,Q2,East,P002,Wireless Mouse,Electronics,26824.19,10729.68,16094.51,190
+2022,5,May,Q2,West,P002,Wireless Mouse,Electronics,36717.56,14687.02,22030.54,117
+2022,5,May,Q2,Central,P002,Wireless Mouse,Electronics,20397.46,8158.98,12238.48,296
+2022,5,May,Q2,North,P003,Office Chair,Furniture,9158.51,5037.18,4121.33,236
+2022,5,May,Q2,South,P003,Office Chair,Furniture,24698.66,13584.26,11114.4,96
+2022,5,May,Q2,East,P003,Office Chair,Furniture,37983.02,20890.66,17092.36,206
+2022,5,May,Q2,West,P003,Office Chair,Furniture,21949.56,12072.26,9877.3,280
+2022,5,May,Q2,Central,P003,Office Chair,Furniture,14346.87,7890.78,6456.09,218
+2022,5,May,Q2,North,P004,Standing Desk,Furniture,30956.75,17954.91,13001.84,68
+2022,5,May,Q2,South,P004,Standing Desk,Furniture,36756.87,21318.98,15437.89,266
+2022,5,May,Q2,East,P004,Standing Desk,Furniture,26309.7,15259.63,11050.07,54
+2022,5,May,Q2,West,P004,Standing Desk,Furniture,26205.01,15198.91,11006.1,157
+2022,5,May,Q2,Central,P004,Standing Desk,Furniture,31537.64,18291.83,13245.81,268
+2022,5,May,Q2,North,P005,Monitor 27inch,Electronics,16215.48,7783.43,8432.05,123
+2022,5,May,Q2,South,P005,Monitor 27inch,Electronics,4651.62,2232.78,2418.84,283
+2022,5,May,Q2,East,P005,Monitor 27inch,Electronics,24463.44,11742.45,12720.99,256
+2022,5,May,Q2,West,P005,Monitor 27inch,Electronics,15932.77,7647.73,8285.04,216
+2022,5,May,Q2,Central,P005,Monitor 27inch,Electronics,32592.17,15644.24,16947.93,133
+2022,5,May,Q2,North,P006,Accounting Software,Software,20229.95,4045.99,16183.96,209
+2022,5,May,Q2,South,P006,Accounting Software,Software,7463.37,1492.67,5970.7,84
+2022,5,May,Q2,East,P006,Accounting Software,Software,37016.69,7403.34,29613.35,173
+2022,5,May,Q2,West,P006,Accounting Software,Software,29481.57,5896.31,23585.26,142
+2022,5,May,Q2,Central,P006,Accounting Software,Software,5303.79,1060.76,4243.03,259
+2022,5,May,Q2,North,P007,ERP License,Software,18500.68,3330.12,15170.56,23
+2022,5,May,Q2,South,P007,ERP License,Software,42245.56,7604.2,34641.36,261
+2022,5,May,Q2,East,P007,ERP License,Software,14003.6,2520.65,11482.95,24
+2022,5,May,Q2,West,P007,ERP License,Software,35805.57,6445.0,29360.57,134
+2022,5,May,Q2,Central,P007,ERP License,Software,42920.23,7725.64,35194.59,105
+2022,5,May,Q2,North,P008,Mechanical Keyboard,Electronics,37053.51,15562.47,21491.04,260
+2022,5,May,Q2,South,P008,Mechanical Keyboard,Electronics,36855.01,15479.1,21375.91,79
+2022,5,May,Q2,East,P008,Mechanical Keyboard,Electronics,12909.17,5421.85,7487.32,276
+2022,5,May,Q2,West,P008,Mechanical Keyboard,Electronics,21344.96,8964.88,12380.08,85
+2022,5,May,Q2,Central,P008,Mechanical Keyboard,Electronics,36067.31,15148.27,20919.04,219
+2022,5,May,Q2,North,P009,Webcam HD,Electronics,15303.73,6733.64,8570.09,51
+2022,5,May,Q2,South,P009,Webcam HD,Electronics,4942.59,2174.74,2767.85,62
+2022,5,May,Q2,East,P009,Webcam HD,Electronics,12804.91,5634.16,7170.75,92
+2022,5,May,Q2,West,P009,Webcam HD,Electronics,20419.57,8984.61,11434.96,171
+2022,5,May,Q2,Central,P009,Webcam HD,Electronics,22948.76,10097.45,12851.31,46
+2022,5,May,Q2,North,P010,Headset Pro,Electronics,28289.84,13013.33,15276.51,267
+2022,5,May,Q2,South,P010,Headset Pro,Electronics,36204.01,16653.84,19550.17,68
+2022,5,May,Q2,East,P010,Headset Pro,Electronics,34781.92,15999.68,18782.24,263
+2022,5,May,Q2,West,P010,Headset Pro,Electronics,10727.64,4934.71,5792.93,242
+2022,5,May,Q2,Central,P010,Headset Pro,Electronics,28468.16,13095.35,15372.81,226
+2022,6,June,Q2,North,P001,Laptop Pro 15,Electronics,33365.69,17350.16,16015.53,40
+2022,6,June,Q2,South,P001,Laptop Pro 15,Electronics,29139.29,15152.43,13986.86,140
+2022,6,June,Q2,East,P001,Laptop Pro 15,Electronics,16277.75,8464.43,7813.32,156
+2022,6,June,Q2,West,P001,Laptop Pro 15,Electronics,5420.96,2818.9,2602.06,207
+2022,6,June,Q2,Central,P001,Laptop Pro 15,Electronics,13052.14,6787.11,6265.03,164
+2022,6,June,Q2,North,P002,Wireless Mouse,Electronics,14264.68,5705.87,8558.81,214
+2022,6,June,Q2,South,P002,Wireless Mouse,Electronics,26299.15,10519.66,15779.49,254
+2022,6,June,Q2,East,P002,Wireless Mouse,Electronics,18554.44,7421.78,11132.66,113
+2022,6,June,Q2,West,P002,Wireless Mouse,Electronics,13878.25,5551.3,8326.95,58
+2022,6,June,Q2,Central,P002,Wireless Mouse,Electronics,19924.28,7969.71,11954.57,26
+2022,6,June,Q2,North,P003,Office Chair,Furniture,30744.51,16909.48,13835.03,165
+2022,6,June,Q2,South,P003,Office Chair,Furniture,36202.33,19911.28,16291.05,235
+2022,6,June,Q2,East,P003,Office Chair,Furniture,8419.62,4630.79,3788.83,191
+2022,6,June,Q2,West,P003,Office Chair,Furniture,38077.85,20942.82,17135.03,78
+2022,6,June,Q2,Central,P003,Office Chair,Furniture,10815.75,5948.66,4867.09,188
+2022,6,June,Q2,North,P004,Standing Desk,Furniture,7343.31,4259.12,3084.19,69
+2022,6,June,Q2,South,P004,Standing Desk,Furniture,6396.94,3710.23,2686.71,97
+2022,6,June,Q2,East,P004,Standing Desk,Furniture,27955.26,16214.05,11741.21,278
+2022,6,June,Q2,West,P004,Standing Desk,Furniture,6488.37,3763.25,2725.12,198
+2022,6,June,Q2,Central,P004,Standing Desk,Furniture,40574.56,23533.24,17041.32,126
+2022,6,June,Q2,North,P005,Monitor 27inch,Electronics,22447.72,10774.91,11672.81,192
+2022,6,June,Q2,South,P005,Monitor 27inch,Electronics,36471.92,17506.52,18965.4,124
+2022,6,June,Q2,East,P005,Monitor 27inch,Electronics,18310.85,8789.21,9521.64,279
+2022,6,June,Q2,West,P005,Monitor 27inch,Electronics,38581.6,18519.17,20062.43,203
+2022,6,June,Q2,Central,P005,Monitor 27inch,Electronics,38839.9,18643.15,20196.75,115
+2022,6,June,Q2,North,P006,Accounting Software,Software,10524.11,2104.82,8419.29,226
+2022,6,June,Q2,South,P006,Accounting Software,Software,35490.94,7098.19,28392.75,149
+2022,6,June,Q2,East,P006,Accounting Software,Software,27506.3,5501.26,22005.04,278
+2022,6,June,Q2,West,P006,Accounting Software,Software,34006.7,6801.34,27205.36,218
+2022,6,June,Q2,Central,P006,Accounting Software,Software,23822.38,4764.48,19057.9,142
+2022,6,June,Q2,North,P007,ERP License,Software,12664.25,2279.57,10384.68,126
+2022,6,June,Q2,South,P007,ERP License,Software,10884.82,1959.27,8925.55,273
+2022,6,June,Q2,East,P007,ERP License,Software,13824.95,2488.49,11336.46,228
+2022,6,June,Q2,West,P007,ERP License,Software,31135.15,5604.33,25530.82,285
+2022,6,June,Q2,Central,P007,ERP License,Software,13469.06,2424.43,11044.63,295
+2022,6,June,Q2,North,P008,Mechanical Keyboard,Electronics,24772.12,10404.29,14367.83,105
+2022,6,June,Q2,South,P008,Mechanical Keyboard,Electronics,37222.64,15633.51,21589.13,168
+2022,6,June,Q2,East,P008,Mechanical Keyboard,Electronics,4539.4,1906.55,2632.85,37
+2022,6,June,Q2,West,P008,Mechanical Keyboard,Electronics,12658.22,5316.45,7341.77,220
+2022,6,June,Q2,Central,P008,Mechanical Keyboard,Electronics,7338.18,3082.04,4256.14,213
+2022,6,June,Q2,North,P009,Webcam HD,Electronics,5783.56,2544.77,3238.79,32
+2022,6,June,Q2,South,P009,Webcam HD,Electronics,42125.52,18535.23,23590.29,163
+2022,6,June,Q2,East,P009,Webcam HD,Electronics,19166.05,8433.06,10732.99,273
+2022,6,June,Q2,West,P009,Webcam HD,Electronics,11761.55,5175.08,6586.47,123
+2022,6,June,Q2,Central,P009,Webcam HD,Electronics,8606.57,3786.89,4819.68,121
+2022,6,June,Q2,North,P010,Headset Pro,Electronics,19281.07,8869.29,10411.78,235
+2022,6,June,Q2,South,P010,Headset Pro,Electronics,17573.0,8083.58,9489.42,122
+2022,6,June,Q2,East,P010,Headset Pro,Electronics,4589.41,2111.13,2478.28,49
+2022,6,June,Q2,West,P010,Headset Pro,Electronics,8355.81,3843.67,4512.14,46
+2022,6,June,Q2,Central,P010,Headset Pro,Electronics,40437.74,18601.36,21836.38,140
+2022,7,July,Q3,North,P001,Laptop Pro 15,Electronics,9095.48,4729.65,4365.83,286
+2022,7,July,Q3,South,P001,Laptop Pro 15,Electronics,12545.08,6523.44,6021.64,178
+2022,7,July,Q3,East,P001,Laptop Pro 15,Electronics,42643.98,22174.87,20469.11,108
+2022,7,July,Q3,West,P001,Laptop Pro 15,Electronics,39092.1,20327.89,18764.21,138
+2022,7,July,Q3,Central,P001,Laptop Pro 15,Electronics,27034.91,14058.15,12976.76,162
+2022,7,July,Q3,North,P002,Wireless Mouse,Electronics,8703.19,3481.28,5221.91,112
+2022,7,July,Q3,South,P002,Wireless Mouse,Electronics,8194.62,3277.85,4916.77,137
+2022,7,July,Q3,East,P002,Wireless Mouse,Electronics,8677.54,3471.02,5206.52,132
+2022,7,July,Q3,West,P002,Wireless Mouse,Electronics,32453.25,12981.3,19471.95,65
+2022,7,July,Q3,Central,P002,Wireless Mouse,Electronics,21081.26,8432.5,12648.76,221
+2022,7,July,Q3,North,P003,Office Chair,Furniture,15101.37,8305.75,6795.62,32
+2022,7,July,Q3,South,P003,Office Chair,Furniture,39137.64,21525.7,17611.94,62
+2022,7,July,Q3,East,P003,Office Chair,Furniture,14261.12,7843.62,6417.5,239
+2022,7,July,Q3,West,P003,Office Chair,Furniture,34707.53,19089.14,15618.39,175
+2022,7,July,Q3,Central,P003,Office Chair,Furniture,36680.08,20174.04,16506.04,151
+2022,7,July,Q3,North,P004,Standing Desk,Furniture,36358.27,21087.8,15270.47,197
+2022,7,July,Q3,South,P004,Standing Desk,Furniture,17379.87,10080.32,7299.55,65
+2022,7,July,Q3,East,P004,Standing Desk,Furniture,7671.27,4449.34,3221.93,300
+2022,7,July,Q3,West,P004,Standing Desk,Furniture,18627.64,10804.03,7823.61,145
+2022,7,July,Q3,Central,P004,Standing Desk,Furniture,5362.02,3109.97,2252.05,241
+2022,7,July,Q3,North,P005,Monitor 27inch,Electronics,39095.05,18765.62,20329.43,249
+2022,7,July,Q3,South,P005,Monitor 27inch,Electronics,35447.6,17014.85,18432.75,91
+2022,7,July,Q3,East,P005,Monitor 27inch,Electronics,11126.94,5340.93,5786.01,83
+2022,7,July,Q3,West,P005,Monitor 27inch,Electronics,22271.67,10690.4,11581.27,236
+2022,7,July,Q3,Central,P005,Monitor 27inch,Electronics,18902.61,9073.25,9829.36,228
+2022,7,July,Q3,North,P006,Accounting Software,Software,27797.25,5559.45,22237.8,73
+2022,7,July,Q3,South,P006,Accounting Software,Software,31873.77,6374.75,25499.02,238
+2022,7,July,Q3,East,P006,Accounting Software,Software,36330.55,7266.11,29064.44,70
+2022,7,July,Q3,West,P006,Accounting Software,Software,36964.77,7392.95,29571.82,223
+2022,7,July,Q3,Central,P006,Accounting Software,Software,13411.33,2682.27,10729.06,297
+2022,7,July,Q3,North,P007,ERP License,Software,17673.0,3181.14,14491.86,140
+2022,7,July,Q3,South,P007,ERP License,Software,32286.38,5811.55,26474.83,203
+2022,7,July,Q3,East,P007,ERP License,Software,5505.34,990.96,4514.38,223
+2022,7,July,Q3,West,P007,ERP License,Software,14879.67,2678.34,12201.33,225
+2022,7,July,Q3,Central,P007,ERP License,Software,16294.8,2933.06,13361.74,114
+2022,7,July,Q3,North,P008,Mechanical Keyboard,Electronics,31566.43,13257.9,18308.53,247
+2022,7,July,Q3,South,P008,Mechanical Keyboard,Electronics,39447.94,16568.13,22879.81,283
+2022,7,July,Q3,East,P008,Mechanical Keyboard,Electronics,5069.88,2129.35,2940.53,119
+2022,7,July,Q3,West,P008,Mechanical Keyboard,Electronics,33947.64,14258.01,19689.63,63
+2022,7,July,Q3,Central,P008,Mechanical Keyboard,Electronics,32937.06,13833.57,19103.49,186
+2022,7,July,Q3,North,P009,Webcam HD,Electronics,14061.78,6187.18,7874.6,295
+2022,7,July,Q3,South,P009,Webcam HD,Electronics,4963.8,2184.07,2779.73,143
+2022,7,July,Q3,East,P009,Webcam HD,Electronics,25328.0,11144.32,14183.68,74
+2022,7,July,Q3,West,P009,Webcam HD,Electronics,12540.99,5518.04,7022.95,264
+2022,7,July,Q3,Central,P009,Webcam HD,Electronics,34753.97,15291.75,19462.22,242
+2022,7,July,Q3,North,P010,Headset Pro,Electronics,27372.66,12591.42,14781.24,273
+2022,7,July,Q3,South,P010,Headset Pro,Electronics,27819.04,12796.76,15022.28,116
+2022,7,July,Q3,East,P010,Headset Pro,Electronics,38954.86,17919.24,21035.62,292
+2022,7,July,Q3,West,P010,Headset Pro,Electronics,5780.51,2659.03,3121.48,57
+2022,7,July,Q3,Central,P010,Headset Pro,Electronics,21274.07,9786.07,11488.0,245
+2022,8,August,Q3,North,P001,Laptop Pro 15,Electronics,11862.27,6168.38,5693.89,218
+2022,8,August,Q3,South,P001,Laptop Pro 15,Electronics,25910.8,13473.62,12437.18,116
+2022,8,August,Q3,East,P001,Laptop Pro 15,Electronics,9816.12,5104.38,4711.74,91
+2022,8,August,Q3,West,P001,Laptop Pro 15,Electronics,28983.97,15071.66,13912.31,199
+2022,8,August,Q3,Central,P001,Laptop Pro 15,Electronics,10068.77,5235.76,4833.01,245
+2022,8,August,Q3,North,P002,Wireless Mouse,Electronics,10296.57,4118.63,6177.94,177
+2022,8,August,Q3,South,P002,Wireless Mouse,Electronics,37456.83,14982.73,22474.1,48
+2022,8,August,Q3,East,P002,Wireless Mouse,Electronics,29533.66,11813.46,17720.2,22
+2022,8,August,Q3,West,P002,Wireless Mouse,Electronics,15238.05,6095.22,9142.83,112
+2022,8,August,Q3,Central,P002,Wireless Mouse,Electronics,41404.0,16561.6,24842.4,271
+2022,8,August,Q3,North,P003,Office Chair,Furniture,27753.04,15264.17,12488.87,45
+2022,8,August,Q3,South,P003,Office Chair,Furniture,19541.73,10747.95,8793.78,92
+2022,8,August,Q3,East,P003,Office Chair,Furniture,15361.26,8448.69,6912.57,72
+2022,8,August,Q3,West,P003,Office Chair,Furniture,13551.71,7453.44,6098.27,26
+2022,8,August,Q3,Central,P003,Office Chair,Furniture,9258.74,5092.31,4166.43,220
+2022,8,August,Q3,North,P004,Standing Desk,Furniture,6990.77,4054.65,2936.12,107
+2022,8,August,Q3,South,P004,Standing Desk,Furniture,5881.8,3411.44,2470.36,196
+2022,8,August,Q3,East,P004,Standing Desk,Furniture,15387.3,8924.63,6462.67,102
+2022,8,August,Q3,West,P004,Standing Desk,Furniture,20333.73,11793.56,8540.17,228
+2022,8,August,Q3,Central,P004,Standing Desk,Furniture,19155.02,11109.91,8045.11,28
+2022,8,August,Q3,North,P005,Monitor 27inch,Electronics,27075.26,12996.12,14079.14,41
+2022,8,August,Q3,South,P005,Monitor 27inch,Electronics,5282.46,2535.58,2746.88,275
+2022,8,August,Q3,East,P005,Monitor 27inch,Electronics,15367.36,7376.33,7991.03,89
+2022,8,August,Q3,West,P005,Monitor 27inch,Electronics,22199.08,10655.56,11543.52,217
+2022,8,August,Q3,Central,P005,Monitor 27inch,Electronics,29688.91,14250.68,15438.23,251
+2022,8,August,Q3,North,P006,Accounting Software,Software,26539.62,5307.92,21231.7,167
+2022,8,August,Q3,South,P006,Accounting Software,Software,6236.74,1247.35,4989.39,187
+2022,8,August,Q3,East,P006,Accounting Software,Software,38765.73,7753.15,31012.58,67
+2022,8,August,Q3,West,P006,Accounting Software,Software,21142.33,4228.47,16913.86,208
+2022,8,August,Q3,Central,P006,Accounting Software,Software,32105.39,6421.08,25684.31,273
+2022,8,August,Q3,North,P007,ERP License,Software,19108.74,3439.57,15669.17,214
+2022,8,August,Q3,South,P007,ERP License,Software,42145.1,7586.12,34558.98,126
+2022,8,August,Q3,East,P007,ERP License,Software,28817.27,5187.11,23630.16,149
+2022,8,August,Q3,West,P007,ERP License,Software,26425.67,4756.62,21669.05,189
+2022,8,August,Q3,Central,P007,ERP License,Software,8605.24,1548.94,7056.3,239
+2022,8,August,Q3,North,P008,Mechanical Keyboard,Electronics,43801.47,18396.62,25404.85,234
+2022,8,August,Q3,South,P008,Mechanical Keyboard,Electronics,29308.38,12309.52,16998.86,283
+2022,8,August,Q3,East,P008,Mechanical Keyboard,Electronics,17565.27,7377.41,10187.86,157
+2022,8,August,Q3,West,P008,Mechanical Keyboard,Electronics,34767.41,14602.31,20165.1,171
+2022,8,August,Q3,Central,P008,Mechanical Keyboard,Electronics,41931.27,17611.13,24320.14,137
+2022,8,August,Q3,North,P009,Webcam HD,Electronics,27836.54,12248.08,15588.46,239
+2022,8,August,Q3,South,P009,Webcam HD,Electronics,16064.03,7068.17,8995.86,273
+2022,8,August,Q3,East,P009,Webcam HD,Electronics,17763.04,7815.74,9947.3,220
+2022,8,August,Q3,West,P009,Webcam HD,Electronics,24084.41,10597.14,13487.27,143
+2022,8,August,Q3,Central,P009,Webcam HD,Electronics,12682.04,5580.1,7101.94,255
+2022,8,August,Q3,North,P010,Headset Pro,Electronics,34054.43,15665.04,18389.39,261
+2022,8,August,Q3,South,P010,Headset Pro,Electronics,5424.31,2495.18,2929.13,168
+2022,8,August,Q3,East,P010,Headset Pro,Electronics,18636.27,8572.68,10063.59,229
+2022,8,August,Q3,West,P010,Headset Pro,Electronics,37747.54,17363.87,20383.67,148
+2022,8,August,Q3,Central,P010,Headset Pro,Electronics,22770.5,10474.43,12296.07,240
+2022,9,September,Q3,North,P001,Laptop Pro 15,Electronics,27905.91,14511.07,13394.84,36
+2022,9,September,Q3,South,P001,Laptop Pro 15,Electronics,24428.41,12702.77,11725.64,176
+2022,9,September,Q3,East,P001,Laptop Pro 15,Electronics,26498.55,13779.25,12719.3,204
+2022,9,September,Q3,West,P001,Laptop Pro 15,Electronics,7134.23,3709.8,3424.43,292
+2022,9,September,Q3,Central,P001,Laptop Pro 15,Electronics,21563.93,11213.24,10350.69,104
+2022,9,September,Q3,North,P002,Wireless Mouse,Electronics,4551.14,1820.46,2730.68,120
+2022,9,September,Q3,South,P002,Wireless Mouse,Electronics,20557.75,8223.1,12334.65,120
+2022,9,September,Q3,East,P002,Wireless Mouse,Electronics,7275.72,2910.29,4365.43,248
+2022,9,September,Q3,West,P002,Wireless Mouse,Electronics,20575.78,8230.31,12345.47,270
+2022,9,September,Q3,Central,P002,Wireless Mouse,Electronics,14964.7,5985.88,8978.82,181
+2022,9,September,Q3,North,P003,Office Chair,Furniture,22593.72,12426.55,10167.17,196
+2022,9,September,Q3,South,P003,Office Chair,Furniture,4741.69,2607.93,2133.76,34
+2022,9,September,Q3,East,P003,Office Chair,Furniture,8859.08,4872.49,3986.59,191
+2022,9,September,Q3,West,P003,Office Chair,Furniture,43942.45,24168.35,19774.1,76
+2022,9,September,Q3,Central,P003,Office Chair,Furniture,24507.64,13479.2,11028.44,87
+2022,9,September,Q3,North,P004,Standing Desk,Furniture,4799.9,2783.94,2015.96,195
+2022,9,September,Q3,South,P004,Standing Desk,Furniture,6189.52,3589.92,2599.6,68
+2022,9,September,Q3,East,P004,Standing Desk,Furniture,22606.65,13111.86,9494.79,136
+2022,9,September,Q3,West,P004,Standing Desk,Furniture,8350.68,4843.39,3507.29,257
+2022,9,September,Q3,Central,P004,Standing Desk,Furniture,22141.47,12842.05,9299.42,139
+2022,9,September,Q3,North,P005,Monitor 27inch,Electronics,19952.27,9577.09,10375.18,189
+2022,9,September,Q3,South,P005,Monitor 27inch,Electronics,15567.48,7472.39,8095.09,71
+2022,9,September,Q3,East,P005,Monitor 27inch,Electronics,11141.37,5347.86,5793.51,200
+2022,9,September,Q3,West,P005,Monitor 27inch,Electronics,5729.73,2750.27,2979.46,105
+2022,9,September,Q3,Central,P005,Monitor 27inch,Electronics,29147.82,13990.95,15156.87,255
+2022,9,September,Q3,North,P006,Accounting Software,Software,19525.75,3905.15,15620.6,242
+2022,9,September,Q3,South,P006,Accounting Software,Software,31355.44,6271.09,25084.35,196
+2022,9,September,Q3,East,P006,Accounting Software,Software,12460.56,2492.11,9968.45,288
+2022,9,September,Q3,West,P006,Accounting Software,Software,27977.1,5595.42,22381.68,290
+2022,9,September,Q3,Central,P006,Accounting Software,Software,17183.62,3436.72,13746.9,199
+2022,9,September,Q3,North,P007,ERP License,Software,25879.8,4658.36,21221.44,61
+2022,9,September,Q3,South,P007,ERP License,Software,21554.07,3879.73,17674.34,240
+2022,9,September,Q3,East,P007,ERP License,Software,7417.46,1335.14,6082.32,61
+2022,9,September,Q3,West,P007,ERP License,Software,18331.88,3299.74,15032.14,60
+2022,9,September,Q3,Central,P007,ERP License,Software,36158.94,6508.61,29650.33,175
+2022,9,September,Q3,North,P008,Mechanical Keyboard,Electronics,28775.51,12085.71,16689.8,180
+2022,9,September,Q3,South,P008,Mechanical Keyboard,Electronics,19716.82,8281.06,11435.76,36
+2022,9,September,Q3,East,P008,Mechanical Keyboard,Electronics,28741.42,12071.4,16670.02,115
+2022,9,September,Q3,West,P008,Mechanical Keyboard,Electronics,41692.57,17510.88,24181.69,232
+2022,9,September,Q3,Central,P008,Mechanical Keyboard,Electronics,31958.62,13422.62,18536.0,246
+2022,9,September,Q3,North,P009,Webcam HD,Electronics,20518.14,9027.98,11490.16,91
+2022,9,September,Q3,South,P009,Webcam HD,Electronics,10335.6,4547.66,5787.94,263
+2022,9,September,Q3,East,P009,Webcam HD,Electronics,30594.61,13461.63,17132.98,105
+2022,9,September,Q3,West,P009,Webcam HD,Electronics,30446.9,13396.64,17050.26,71
+2022,9,September,Q3,Central,P009,Webcam HD,Electronics,16810.42,7396.58,9413.84,34
+2022,9,September,Q3,North,P010,Headset Pro,Electronics,35205.79,16194.66,19011.13,80
+2022,9,September,Q3,South,P010,Headset Pro,Electronics,40520.23,18639.31,21880.92,246
+2022,9,September,Q3,East,P010,Headset Pro,Electronics,27958.7,12861.0,15097.7,50
+2022,9,September,Q3,West,P010,Headset Pro,Electronics,32454.53,14929.08,17525.45,62
+2022,9,September,Q3,Central,P010,Headset Pro,Electronics,30339.19,13956.03,16383.16,140
+2022,10,October,Q4,North,P001,Laptop Pro 15,Electronics,28339.07,14736.32,13602.75,243
+2022,10,October,Q4,South,P001,Laptop Pro 15,Electronics,39175.38,20371.2,18804.18,179
+2022,10,October,Q4,East,P001,Laptop Pro 15,Electronics,23568.93,12255.84,11313.09,188
+2022,10,October,Q4,West,P001,Laptop Pro 15,Electronics,36214.14,18831.35,17382.79,84
+2022,10,October,Q4,Central,P001,Laptop Pro 15,Electronics,30632.42,15928.86,14703.56,71
+2022,10,October,Q4,North,P002,Wireless Mouse,Electronics,17447.26,6978.9,10468.36,130
+2022,10,October,Q4,South,P002,Wireless Mouse,Electronics,23239.24,9295.7,13943.54,291
+2022,10,October,Q4,East,P002,Wireless Mouse,Electronics,40244.74,16097.9,24146.84,39
+2022,10,October,Q4,West,P002,Wireless Mouse,Electronics,24009.99,9604.0,14405.99,66
+2022,10,October,Q4,Central,P002,Wireless Mouse,Electronics,23690.98,9476.39,14214.59,49
+2022,10,October,Q4,North,P003,Office Chair,Furniture,13634.03,7498.72,6135.31,144
+2022,10,October,Q4,South,P003,Office Chair,Furniture,28786.68,15832.67,12954.01,43
+2022,10,October,Q4,East,P003,Office Chair,Furniture,14148.34,7781.59,6366.75,141
+2022,10,October,Q4,West,P003,Office Chair,Furniture,10441.9,5743.05,4698.85,87
+2022,10,October,Q4,Central,P003,Office Chair,Furniture,34032.68,18717.97,15314.71,209
+2022,10,October,Q4,North,P004,Standing Desk,Furniture,32198.74,18675.27,13523.47,114
+2022,10,October,Q4,South,P004,Standing Desk,Furniture,8298.36,4813.05,3485.31,189
+2022,10,October,Q4,East,P004,Standing Desk,Furniture,23416.16,13581.37,9834.79,166
+2022,10,October,Q4,West,P004,Standing Desk,Furniture,19715.15,11434.79,8280.36,63
+2022,10,October,Q4,Central,P004,Standing Desk,Furniture,40666.38,23586.5,17079.88,123
+2022,10,October,Q4,North,P005,Monitor 27inch,Electronics,22793.91,10941.08,11852.83,210
+2022,10,October,Q4,South,P005,Monitor 27inch,Electronics,20578.34,9877.6,10700.74,63
+2022,10,October,Q4,East,P005,Monitor 27inch,Electronics,7259.95,3484.78,3775.17,100
+2022,10,October,Q4,West,P005,Monitor 27inch,Electronics,34885.51,16745.04,18140.47,74
+2022,10,October,Q4,Central,P005,Monitor 27inch,Electronics,22579.0,10837.92,11741.08,95
+2022,10,October,Q4,North,P006,Accounting Software,Software,13076.94,2615.39,10461.55,259
+2022,10,October,Q4,South,P006,Accounting Software,Software,12713.55,2542.71,10170.84,193
+2022,10,October,Q4,East,P006,Accounting Software,Software,9737.46,1947.49,7789.97,129
+2022,10,October,Q4,West,P006,Accounting Software,Software,15027.7,3005.54,12022.16,238
+2022,10,October,Q4,Central,P006,Accounting Software,Software,14518.86,2903.77,11615.09,62
+2022,10,October,Q4,North,P007,ERP License,Software,8369.85,1506.57,6863.28,270
+2022,10,October,Q4,South,P007,ERP License,Software,20216.37,3638.95,16577.42,99
+2022,10,October,Q4,East,P007,ERP License,Software,13793.85,2482.89,11310.96,146
+2022,10,October,Q4,West,P007,ERP License,Software,30403.2,5472.58,24930.62,58
+2022,10,October,Q4,Central,P007,ERP License,Software,24713.27,4448.39,20264.88,255
+2022,10,October,Q4,North,P008,Mechanical Keyboard,Electronics,33779.29,14187.3,19591.99,78
+2022,10,October,Q4,South,P008,Mechanical Keyboard,Electronics,5830.78,2448.93,3381.85,283
+2022,10,October,Q4,East,P008,Mechanical Keyboard,Electronics,32916.34,13824.86,19091.48,246
+2022,10,October,Q4,West,P008,Mechanical Keyboard,Electronics,22292.78,9362.97,12929.81,61
+2022,10,October,Q4,Central,P008,Mechanical Keyboard,Electronics,30034.98,12614.69,17420.29,48
+2022,10,October,Q4,North,P009,Webcam HD,Electronics,20051.49,8822.66,11228.83,46
+2022,10,October,Q4,South,P009,Webcam HD,Electronics,5308.86,2335.9,2972.96,110
+2022,10,October,Q4,East,P009,Webcam HD,Electronics,4630.93,2037.61,2593.32,213
+2022,10,October,Q4,West,P009,Webcam HD,Electronics,36054.67,15864.05,20190.62,273
+2022,10,October,Q4,Central,P009,Webcam HD,Electronics,40903.34,17997.47,22905.87,129
+2022,10,October,Q4,North,P010,Headset Pro,Electronics,24662.17,11344.6,13317.57,48
+2022,10,October,Q4,South,P010,Headset Pro,Electronics,15283.34,7030.34,8253.0,277
+2022,10,October,Q4,East,P010,Headset Pro,Electronics,29715.53,13669.14,16046.39,223
+2022,10,October,Q4,West,P010,Headset Pro,Electronics,7580.38,3486.97,4093.41,44
+2022,10,October,Q4,Central,P010,Headset Pro,Electronics,19837.44,9125.22,10712.22,125
+2022,11,November,Q4,North,P001,Laptop Pro 15,Electronics,21595.58,11229.7,10365.88,255
+2022,11,November,Q4,South,P001,Laptop Pro 15,Electronics,25907.03,13471.66,12435.37,55
+2022,11,November,Q4,East,P001,Laptop Pro 15,Electronics,40645.67,21135.75,19509.92,94
+2022,11,November,Q4,West,P001,Laptop Pro 15,Electronics,21155.23,11000.72,10154.51,297
+2022,11,November,Q4,Central,P001,Laptop Pro 15,Electronics,34012.31,17686.4,16325.91,58
+2022,11,November,Q4,North,P002,Wireless Mouse,Electronics,21320.42,8528.17,12792.25,87
+2022,11,November,Q4,South,P002,Wireless Mouse,Electronics,30838.65,12335.46,18503.19,44
+2022,11,November,Q4,East,P002,Wireless Mouse,Electronics,23000.64,9200.26,13800.38,145
+2022,11,November,Q4,West,P002,Wireless Mouse,Electronics,21451.31,8580.52,12870.79,71
+2022,11,November,Q4,Central,P002,Wireless Mouse,Electronics,37521.93,15008.77,22513.16,96
+2022,11,November,Q4,North,P003,Office Chair,Furniture,4598.54,2529.2,2069.34,294
+2022,11,November,Q4,South,P003,Office Chair,Furniture,37352.47,20543.86,16808.61,140
+2022,11,November,Q4,East,P003,Office Chair,Furniture,14500.88,7975.48,6525.4,120
+2022,11,November,Q4,West,P003,Office Chair,Furniture,9686.67,5327.67,4359.0,218
+2022,11,November,Q4,Central,P003,Office Chair,Furniture,35123.84,19318.11,15805.73,230
+2022,11,November,Q4,North,P004,Standing Desk,Furniture,18678.28,10833.4,7844.88,24
+2022,11,November,Q4,South,P004,Standing Desk,Furniture,20149.88,11686.93,8462.95,64
+2022,11,November,Q4,East,P004,Standing Desk,Furniture,38432.5,22290.85,16141.65,214
+2022,11,November,Q4,West,P004,Standing Desk,Furniture,4965.86,2880.2,2085.66,281
+2022,11,November,Q4,Central,P004,Standing Desk,Furniture,24710.48,14332.08,10378.4,239
+2022,11,November,Q4,North,P005,Monitor 27inch,Electronics,32789.31,15738.87,17050.44,41
+2022,11,November,Q4,South,P005,Monitor 27inch,Electronics,5824.31,2795.67,3028.64,61
+2022,11,November,Q4,East,P005,Monitor 27inch,Electronics,21834.75,10480.68,11354.07,71
+2022,11,November,Q4,West,P005,Monitor 27inch,Electronics,8746.44,4198.29,4548.15,24
+2022,11,November,Q4,Central,P005,Monitor 27inch,Electronics,31376.15,15060.55,16315.6,143
+2022,11,November,Q4,North,P006,Accounting Software,Software,22266.77,4453.35,17813.42,34
+2022,11,November,Q4,South,P006,Accounting Software,Software,41636.01,8327.2,33308.81,184
+2022,11,November,Q4,East,P006,Accounting Software,Software,10296.67,2059.33,8237.34,254
+2022,11,November,Q4,West,P006,Accounting Software,Software,5029.09,1005.82,4023.27,61
+2022,11,November,Q4,Central,P006,Accounting Software,Software,12917.17,2583.43,10333.74,61
+2022,11,November,Q4,North,P007,ERP License,Software,22253.9,4005.7,18248.2,175
+2022,11,November,Q4,South,P007,ERP License,Software,26653.43,4797.62,21855.81,206
+2022,11,November,Q4,East,P007,ERP License,Software,31654.15,5697.75,25956.4,92
+2022,11,November,Q4,West,P007,ERP License,Software,29064.7,5231.65,23833.05,219
+2022,11,November,Q4,Central,P007,ERP License,Software,12240.1,2203.22,10036.88,252
+2022,11,November,Q4,North,P008,Mechanical Keyboard,Electronics,31990.5,13436.01,18554.49,140
+2022,11,November,Q4,South,P008,Mechanical Keyboard,Electronics,32644.57,13710.72,18933.85,79
+2022,11,November,Q4,East,P008,Mechanical Keyboard,Electronics,37003.52,15541.48,21462.04,92
+2022,11,November,Q4,West,P008,Mechanical Keyboard,Electronics,30339.31,12742.51,17596.8,201
+2022,11,November,Q4,Central,P008,Mechanical Keyboard,Electronics,27639.31,11608.51,16030.8,225
+2022,11,November,Q4,North,P009,Webcam HD,Electronics,31457.27,13841.2,17616.07,245
+2022,11,November,Q4,South,P009,Webcam HD,Electronics,36806.32,16194.78,20611.54,32
+2022,11,November,Q4,East,P009,Webcam HD,Electronics,27235.36,11983.56,15251.8,126
+2022,11,November,Q4,West,P009,Webcam HD,Electronics,31269.43,13758.55,17510.88,298
+2022,11,November,Q4,Central,P009,Webcam HD,Electronics,37831.49,16645.86,21185.63,166
+2022,11,November,Q4,North,P010,Headset Pro,Electronics,6532.22,3004.82,3527.4,91
+2022,11,November,Q4,South,P010,Headset Pro,Electronics,18674.61,8590.32,10084.29,167
+2022,11,November,Q4,East,P010,Headset Pro,Electronics,31676.21,14571.06,17105.15,174
+2022,11,November,Q4,West,P010,Headset Pro,Electronics,25379.8,11674.71,13705.09,215
+2022,11,November,Q4,Central,P010,Headset Pro,Electronics,15981.57,7351.52,8630.05,124
+2022,12,December,Q4,North,P001,Laptop Pro 15,Electronics,16203.05,8425.59,7777.46,76
+2022,12,December,Q4,South,P001,Laptop Pro 15,Electronics,9549.96,4965.98,4583.98,233
+2022,12,December,Q4,East,P001,Laptop Pro 15,Electronics,11405.24,5930.72,5474.52,109
+2022,12,December,Q4,West,P001,Laptop Pro 15,Electronics,10724.11,5576.54,5147.57,171
+2022,12,December,Q4,Central,P001,Laptop Pro 15,Electronics,34978.06,18188.59,16789.47,223
+2022,12,December,Q4,North,P002,Wireless Mouse,Electronics,40849.55,16339.82,24509.73,126
+2022,12,December,Q4,South,P002,Wireless Mouse,Electronics,29523.98,11809.59,17714.39,33
+2022,12,December,Q4,East,P002,Wireless Mouse,Electronics,20530.85,8212.34,12318.51,213
+2022,12,December,Q4,West,P002,Wireless Mouse,Electronics,42720.27,17088.11,25632.16,218
+2022,12,December,Q4,Central,P002,Wireless Mouse,Electronics,39977.72,15991.09,23986.63,31
+2022,12,December,Q4,North,P003,Office Chair,Furniture,17558.66,9657.26,7901.4,138
+2022,12,December,Q4,South,P003,Office Chair,Furniture,4528.31,2490.57,2037.74,297
+2022,12,December,Q4,East,P003,Office Chair,Furniture,18948.4,10421.62,8526.78,136
+2022,12,December,Q4,West,P003,Office Chair,Furniture,31373.62,17255.49,14118.13,60
+2022,12,December,Q4,Central,P003,Office Chair,Furniture,27413.93,15077.66,12336.27,112
+2022,12,December,Q4,North,P004,Standing Desk,Furniture,14782.5,8573.85,6208.65,78
+2022,12,December,Q4,South,P004,Standing Desk,Furniture,14947.66,8669.64,6278.02,49
+2022,12,December,Q4,East,P004,Standing Desk,Furniture,28013.02,16247.55,11765.47,134
+2022,12,December,Q4,West,P004,Standing Desk,Furniture,20083.42,11648.38,8435.04,155
+2022,12,December,Q4,Central,P004,Standing Desk,Furniture,7803.39,4525.97,3277.42,94
+2022,12,December,Q4,North,P005,Monitor 27inch,Electronics,10080.3,4838.54,5241.76,251
+2022,12,December,Q4,South,P005,Monitor 27inch,Electronics,13884.85,6664.73,7220.12,100
+2022,12,December,Q4,East,P005,Monitor 27inch,Electronics,21911.18,10517.37,11393.81,285
+2022,12,December,Q4,West,P005,Monitor 27inch,Electronics,15369.44,7377.33,7992.11,294
+2022,12,December,Q4,Central,P005,Monitor 27inch,Electronics,11871.24,5698.2,6173.04,225
+2022,12,December,Q4,North,P006,Accounting Software,Software,8556.77,1711.35,6845.42,265
+2022,12,December,Q4,South,P006,Accounting Software,Software,26921.15,5384.23,21536.92,289
+2022,12,December,Q4,East,P006,Accounting Software,Software,39186.88,7837.38,31349.5,264
+2022,12,December,Q4,West,P006,Accounting Software,Software,23375.52,4675.1,18700.42,249
+2022,12,December,Q4,Central,P006,Accounting Software,Software,7705.16,1541.03,6164.13,89
+2022,12,December,Q4,North,P007,ERP License,Software,10978.73,1976.17,9002.56,76
+2022,12,December,Q4,South,P007,ERP License,Software,22203.66,3996.66,18207.0,229
+2022,12,December,Q4,East,P007,ERP License,Software,28536.79,5136.62,23400.17,202
+2022,12,December,Q4,West,P007,ERP License,Software,39807.05,7165.27,32641.78,293
+2022,12,December,Q4,Central,P007,ERP License,Software,12088.78,2175.98,9912.8,24
+2022,12,December,Q4,North,P008,Mechanical Keyboard,Electronics,29292.6,12302.89,16989.71,128
+2022,12,December,Q4,South,P008,Mechanical Keyboard,Electronics,24531.91,10303.4,14228.51,144
+2022,12,December,Q4,East,P008,Mechanical Keyboard,Electronics,12084.94,5075.67,7009.27,122
+2022,12,December,Q4,West,P008,Mechanical Keyboard,Electronics,10269.96,4313.38,5956.58,256
+2022,12,December,Q4,Central,P008,Mechanical Keyboard,Electronics,29863.7,12542.75,17320.95,249
+2022,12,December,Q4,North,P009,Webcam HD,Electronics,16783.51,7384.74,9398.77,232
+2022,12,December,Q4,South,P009,Webcam HD,Electronics,10820.82,4761.16,6059.66,176
+2022,12,December,Q4,East,P009,Webcam HD,Electronics,29251.1,12870.48,16380.62,279
+2022,12,December,Q4,West,P009,Webcam HD,Electronics,8259.62,3634.23,4625.39,128
+2022,12,December,Q4,Central,P009,Webcam HD,Electronics,40682.39,17900.25,22782.14,47
+2022,12,December,Q4,North,P010,Headset Pro,Electronics,30182.41,13883.91,16298.5,105
+2022,12,December,Q4,South,P010,Headset Pro,Electronics,7382.13,3395.78,3986.35,126
+2022,12,December,Q4,East,P010,Headset Pro,Electronics,4999.59,2299.81,2699.78,238
+2022,12,December,Q4,West,P010,Headset Pro,Electronics,34906.02,16056.77,18849.25,107
+2022,12,December,Q4,Central,P010,Headset Pro,Electronics,11733.64,5397.47,6336.17,119
+2023,1,January,Q1,North,P001,Laptop Pro 15,Electronics,33609.72,17477.05,16132.67,143
+2023,1,January,Q1,South,P001,Laptop Pro 15,Electronics,8946.37,4652.11,4294.26,289
+2023,1,January,Q1,East,P001,Laptop Pro 15,Electronics,24792.36,12892.03,11900.33,38
+2023,1,January,Q1,West,P001,Laptop Pro 15,Electronics,6734.66,3502.02,3232.64,48
+2023,1,January,Q1,Central,P001,Laptop Pro 15,Electronics,19904.89,10350.54,9554.35,103
+2023,1,January,Q1,North,P002,Wireless Mouse,Electronics,28348.57,11339.43,17009.14,210
+2023,1,January,Q1,South,P002,Wireless Mouse,Electronics,40101.59,16040.64,24060.95,277
+2023,1,January,Q1,East,P002,Wireless Mouse,Electronics,18398.64,7359.46,11039.18,235
+2023,1,January,Q1,West,P002,Wireless Mouse,Electronics,20720.33,8288.13,12432.2,300
+2023,1,January,Q1,Central,P002,Wireless Mouse,Electronics,11167.56,4467.02,6700.54,162
+2023,1,January,Q1,North,P003,Office Chair,Furniture,18373.52,10105.44,8268.08,98
+2023,1,January,Q1,South,P003,Office Chair,Furniture,15150.17,8332.59,6817.58,195
+2023,1,January,Q1,East,P003,Office Chair,Furniture,10863.48,5974.91,4888.57,159
+2023,1,January,Q1,West,P003,Office Chair,Furniture,9600.53,5280.29,4320.24,114
+2023,1,January,Q1,Central,P003,Office Chair,Furniture,25288.26,13908.54,11379.72,54
+2023,1,January,Q1,North,P004,Standing Desk,Furniture,22394.7,12988.93,9405.77,235
+2023,1,January,Q1,South,P004,Standing Desk,Furniture,17294.73,10030.94,7263.79,74
+2023,1,January,Q1,East,P004,Standing Desk,Furniture,16661.34,9663.58,6997.76,227
+2023,1,January,Q1,West,P004,Standing Desk,Furniture,6470.12,3752.67,2717.45,297
+2023,1,January,Q1,Central,P004,Standing Desk,Furniture,28399.63,16471.79,11927.84,153
+2023,1,January,Q1,North,P005,Monitor 27inch,Electronics,25694.32,12333.27,13361.05,126
+2023,1,January,Q1,South,P005,Monitor 27inch,Electronics,38013.51,18246.48,19767.03,139
+2023,1,January,Q1,East,P005,Monitor 27inch,Electronics,10590.69,5083.53,5507.16,131
+2023,1,January,Q1,West,P005,Monitor 27inch,Electronics,8164.97,3919.19,4245.78,24
+2023,1,January,Q1,Central,P005,Monitor 27inch,Electronics,35684.71,17128.66,18556.05,286
+2023,1,January,Q1,North,P006,Accounting Software,Software,27430.88,5486.18,21944.7,43
+2023,1,January,Q1,South,P006,Accounting Software,Software,33252.89,6650.58,26602.31,176
+2023,1,January,Q1,East,P006,Accounting Software,Software,30138.8,6027.76,24111.04,295
+2023,1,January,Q1,West,P006,Accounting Software,Software,31522.16,6304.43,25217.73,162
+2023,1,January,Q1,Central,P006,Accounting Software,Software,7087.36,1417.47,5669.89,110
+2023,1,January,Q1,North,P007,ERP License,Software,10913.98,1964.52,8949.46,116
+2023,1,January,Q1,South,P007,ERP License,Software,26784.42,4821.2,21963.22,67
+2023,1,January,Q1,East,P007,ERP License,Software,30382.85,5468.91,24913.94,52
+2023,1,January,Q1,West,P007,ERP License,Software,9679.22,1742.26,7936.96,130
+2023,1,January,Q1,Central,P007,ERP License,Software,32844.77,5912.06,26932.71,239
+2023,1,January,Q1,North,P008,Mechanical Keyboard,Electronics,29889.97,12553.79,17336.18,89
+2023,1,January,Q1,South,P008,Mechanical Keyboard,Electronics,11949.17,5018.65,6930.52,135
+2023,1,January,Q1,East,P008,Mechanical Keyboard,Electronics,25183.26,10576.97,14606.29,112
+2023,1,January,Q1,West,P008,Mechanical Keyboard,Electronics,22236.5,9339.33,12897.17,107
+2023,1,January,Q1,Central,P008,Mechanical Keyboard,Electronics,15704.93,6596.07,9108.86,158
+2023,1,January,Q1,North,P009,Webcam HD,Electronics,11414.36,5022.32,6392.04,288
+2023,1,January,Q1,South,P009,Webcam HD,Electronics,20180.88,8879.59,11301.29,51
+2023,1,January,Q1,East,P009,Webcam HD,Electronics,32077.0,14113.88,17963.12,145
+2023,1,January,Q1,West,P009,Webcam HD,Electronics,16747.26,7368.79,9378.47,242
+2023,1,January,Q1,Central,P009,Webcam HD,Electronics,24042.71,10578.79,13463.92,27
+2023,1,January,Q1,North,P010,Headset Pro,Electronics,11861.43,5456.26,6405.17,71
+2023,1,January,Q1,South,P010,Headset Pro,Electronics,22992.91,10576.74,12416.17,106
+2023,1,January,Q1,East,P010,Headset Pro,Electronics,24199.58,11131.81,13067.77,158
+2023,1,January,Q1,West,P010,Headset Pro,Electronics,14474.33,6658.19,7816.14,35
+2023,1,January,Q1,Central,P010,Headset Pro,Electronics,15579.38,7166.51,8412.87,145
+2023,2,February,Q1,North,P001,Laptop Pro 15,Electronics,25241.01,13125.33,12115.68,177
+2023,2,February,Q1,South,P001,Laptop Pro 15,Electronics,32414.93,16855.76,15559.17,66
+2023,2,February,Q1,East,P001,Laptop Pro 15,Electronics,12403.94,6450.05,5953.89,283
+2023,2,February,Q1,West,P001,Laptop Pro 15,Electronics,33007.17,17163.73,15843.44,192
+2023,2,February,Q1,Central,P001,Laptop Pro 15,Electronics,34036.1,17698.77,16337.33,24
+2023,2,February,Q1,North,P002,Wireless Mouse,Electronics,21174.03,8469.61,12704.42,273
+2023,2,February,Q1,South,P002,Wireless Mouse,Electronics,25338.99,10135.6,15203.39,296
+2023,2,February,Q1,East,P002,Wireless Mouse,Electronics,9715.06,3886.02,5829.04,259
+2023,2,February,Q1,West,P002,Wireless Mouse,Electronics,6747.89,2699.16,4048.73,88
+2023,2,February,Q1,Central,P002,Wireless Mouse,Electronics,25626.1,10250.44,15375.66,67
+2023,2,February,Q1,North,P003,Office Chair,Furniture,8013.71,4407.54,3606.17,111
+2023,2,February,Q1,South,P003,Office Chair,Furniture,31088.45,17098.65,13989.8,56
+2023,2,February,Q1,East,P003,Office Chair,Furniture,6171.61,3394.39,2777.22,182
+2023,2,February,Q1,West,P003,Office Chair,Furniture,27953.24,15374.28,12578.96,156
+2023,2,February,Q1,Central,P003,Office Chair,Furniture,16797.92,9238.86,7559.06,109
+2023,2,February,Q1,North,P004,Standing Desk,Furniture,7187.84,4168.95,3018.89,109
+2023,2,February,Q1,South,P004,Standing Desk,Furniture,19921.14,11554.26,8366.88,215
+2023,2,February,Q1,East,P004,Standing Desk,Furniture,32531.75,18868.41,13663.34,236
+2023,2,February,Q1,West,P004,Standing Desk,Furniture,16881.18,9791.08,7090.1,197
+2023,2,February,Q1,Central,P004,Standing Desk,Furniture,17980.51,10428.7,7551.81,216
+2023,2,February,Q1,North,P005,Monitor 27inch,Electronics,10137.36,4865.93,5271.43,67
+2023,2,February,Q1,South,P005,Monitor 27inch,Electronics,9225.2,4428.1,4797.1,297
+2023,2,February,Q1,East,P005,Monitor 27inch,Electronics,17370.02,8337.61,9032.41,28
+2023,2,February,Q1,West,P005,Monitor 27inch,Electronics,20077.08,9637.0,10440.08,176
+2023,2,February,Q1,Central,P005,Monitor 27inch,Electronics,12429.15,5965.99,6463.16,96
+2023,2,February,Q1,North,P006,Accounting Software,Software,20710.12,4142.02,16568.1,237
+2023,2,February,Q1,South,P006,Accounting Software,Software,16039.64,3207.93,12831.71,116
+2023,2,February,Q1,East,P006,Accounting Software,Software,21604.49,4320.9,17283.59,123
+2023,2,February,Q1,West,P006,Accounting Software,Software,24837.82,4967.56,19870.26,295
+2023,2,February,Q1,Central,P006,Accounting Software,Software,20718.63,4143.73,16574.9,151
+2023,2,February,Q1,North,P007,ERP License,Software,17901.5,3222.27,14679.23,72
+2023,2,February,Q1,South,P007,ERP License,Software,37097.49,6677.55,30419.94,150
+2023,2,February,Q1,East,P007,ERP License,Software,7010.82,1261.95,5748.87,205
+2023,2,February,Q1,West,P007,ERP License,Software,21508.35,3871.5,17636.85,147
+2023,2,February,Q1,Central,P007,ERP License,Software,37412.76,6734.3,30678.46,88
+2023,2,February,Q1,North,P008,Mechanical Keyboard,Electronics,38638.16,16228.03,22410.13,30
+2023,2,February,Q1,South,P008,Mechanical Keyboard,Electronics,31475.32,13219.63,18255.69,194
+2023,2,February,Q1,East,P008,Mechanical Keyboard,Electronics,6093.14,2559.12,3534.02,197
+2023,2,February,Q1,West,P008,Mechanical Keyboard,Electronics,16422.24,6897.34,9524.9,287
+2023,2,February,Q1,Central,P008,Mechanical Keyboard,Electronics,28609.16,12015.85,16593.31,265
+2023,2,February,Q1,North,P009,Webcam HD,Electronics,4748.74,2089.45,2659.29,238
+2023,2,February,Q1,South,P009,Webcam HD,Electronics,30613.63,13470.0,17143.63,127
+2023,2,February,Q1,East,P009,Webcam HD,Electronics,25504.7,11222.07,14282.63,260
+2023,2,February,Q1,West,P009,Webcam HD,Electronics,28968.82,12746.28,16222.54,152
+2023,2,February,Q1,Central,P009,Webcam HD,Electronics,31447.29,13836.81,17610.48,287
+2023,2,February,Q1,North,P010,Headset Pro,Electronics,15315.4,7045.08,8270.32,194
+2023,2,February,Q1,South,P010,Headset Pro,Electronics,20400.05,9384.02,11016.03,280
+2023,2,February,Q1,East,P010,Headset Pro,Electronics,32043.41,14739.97,17303.44,160
+2023,2,February,Q1,West,P010,Headset Pro,Electronics,24102.03,11086.93,13015.1,225
+2023,2,February,Q1,Central,P010,Headset Pro,Electronics,29094.8,13383.61,15711.19,242
+2023,3,March,Q1,North,P001,Laptop Pro 15,Electronics,31679.83,16473.51,15206.32,295
+2023,3,March,Q1,South,P001,Laptop Pro 15,Electronics,20819.34,10826.06,9993.28,229
+2023,3,March,Q1,East,P001,Laptop Pro 15,Electronics,10906.67,5671.47,5235.2,31
+2023,3,March,Q1,West,P001,Laptop Pro 15,Electronics,32539.15,16920.36,15618.79,63
+2023,3,March,Q1,Central,P001,Laptop Pro 15,Electronics,21509.15,11184.76,10324.39,62
+2023,3,March,Q1,North,P002,Wireless Mouse,Electronics,9052.63,3621.05,5431.58,130
+2023,3,March,Q1,South,P002,Wireless Mouse,Electronics,36181.4,14472.56,21708.84,249
+2023,3,March,Q1,East,P002,Wireless Mouse,Electronics,10640.79,4256.32,6384.47,265
+2023,3,March,Q1,West,P002,Wireless Mouse,Electronics,26561.69,10624.68,15937.01,186
+2023,3,March,Q1,Central,P002,Wireless Mouse,Electronics,5152.62,2061.05,3091.57,59
+2023,3,March,Q1,North,P003,Office Chair,Furniture,40778.18,22428.0,18350.18,236
+2023,3,March,Q1,South,P003,Office Chair,Furniture,6223.47,3422.91,2800.56,216
+2023,3,March,Q1,East,P003,Office Chair,Furniture,37167.74,20442.26,16725.48,153
+2023,3,March,Q1,West,P003,Office Chair,Furniture,15054.11,8279.76,6774.35,126
+2023,3,March,Q1,Central,P003,Office Chair,Furniture,28619.9,15740.95,12878.95,242
+2023,3,March,Q1,North,P004,Standing Desk,Furniture,36690.26,21280.35,15409.91,162
+2023,3,March,Q1,South,P004,Standing Desk,Furniture,26297.34,15252.46,11044.88,28
+2023,3,March,Q1,East,P004,Standing Desk,Furniture,27464.01,15929.13,11534.88,229
+2023,3,March,Q1,West,P004,Standing Desk,Furniture,18941.0,10985.78,7955.22,179
+2023,3,March,Q1,Central,P004,Standing Desk,Furniture,6490.0,3764.2,2725.8,155
+2023,3,March,Q1,North,P005,Monitor 27inch,Electronics,16945.3,8133.74,8811.56,242
+2023,3,March,Q1,South,P005,Monitor 27inch,Electronics,8948.93,4295.49,4653.44,294
+2023,3,March,Q1,East,P005,Monitor 27inch,Electronics,16198.53,7775.29,8423.24,248
+2023,3,March,Q1,West,P005,Monitor 27inch,Electronics,11521.59,5530.36,5991.23,37
+2023,3,March,Q1,Central,P005,Monitor 27inch,Electronics,12559.14,6028.39,6530.75,143
+2023,3,March,Q1,North,P006,Accounting Software,Software,37625.06,7525.01,30100.05,271
+2023,3,March,Q1,South,P006,Accounting Software,Software,33565.24,6713.05,26852.19,212
+2023,3,March,Q1,East,P006,Accounting Software,Software,24067.98,4813.6,19254.38,56
+2023,3,March,Q1,West,P006,Accounting Software,Software,32615.67,6523.13,26092.54,147
+2023,3,March,Q1,Central,P006,Accounting Software,Software,39115.87,7823.17,31292.7,145
+2023,3,March,Q1,North,P007,ERP License,Software,33228.6,5981.15,27247.45,46
+2023,3,March,Q1,South,P007,ERP License,Software,27236.0,4902.48,22333.52,282
+2023,3,March,Q1,East,P007,ERP License,Software,25491.97,4588.55,20903.42,63
+2023,3,March,Q1,West,P007,ERP License,Software,6323.74,1138.27,5185.47,92
+2023,3,March,Q1,Central,P007,ERP License,Software,33325.19,5998.53,27326.66,213
+2023,3,March,Q1,North,P008,Mechanical Keyboard,Electronics,23837.11,10011.59,13825.52,126
+2023,3,March,Q1,South,P008,Mechanical Keyboard,Electronics,5259.09,2208.82,3050.27,277
+2023,3,March,Q1,East,P008,Mechanical Keyboard,Electronics,26025.61,10930.76,15094.85,270
+2023,3,March,Q1,West,P008,Mechanical Keyboard,Electronics,32981.89,13852.39,19129.5,212
+2023,3,March,Q1,Central,P008,Mechanical Keyboard,Electronics,31841.41,13373.39,18468.02,130
+2023,3,March,Q1,North,P009,Webcam HD,Electronics,27999.78,12319.9,15679.88,95
+2023,3,March,Q1,South,P009,Webcam HD,Electronics,8712.57,3833.53,4879.04,236
+2023,3,March,Q1,East,P009,Webcam HD,Electronics,17113.43,7529.91,9583.52,164
+2023,3,March,Q1,West,P009,Webcam HD,Electronics,18463.92,8124.12,10339.8,152
+2023,3,March,Q1,Central,P009,Webcam HD,Electronics,30052.02,13222.89,16829.13,213
+2023,3,March,Q1,North,P010,Headset Pro,Electronics,18930.52,8708.04,10222.48,295
+2023,3,March,Q1,South,P010,Headset Pro,Electronics,9313.68,4284.29,5029.39,97
+2023,3,March,Q1,East,P010,Headset Pro,Electronics,16055.99,7385.76,8670.23,245
+2023,3,March,Q1,West,P010,Headset Pro,Electronics,28450.42,13087.19,15363.23,44
+2023,3,March,Q1,Central,P010,Headset Pro,Electronics,35526.45,16342.17,19184.28,83
+2023,4,April,Q2,North,P001,Laptop Pro 15,Electronics,31689.59,16478.59,15211.0,202
+2023,4,April,Q2,South,P001,Laptop Pro 15,Electronics,33738.55,17544.05,16194.5,239
+2023,4,April,Q2,East,P001,Laptop Pro 15,Electronics,16560.65,8611.54,7949.11,89
+2023,4,April,Q2,West,P001,Laptop Pro 15,Electronics,27521.02,14310.93,13210.09,220
+2023,4,April,Q2,Central,P001,Laptop Pro 15,Electronics,33252.01,17291.05,15960.96,41
+2023,4,April,Q2,North,P002,Wireless Mouse,Electronics,37845.47,15138.19,22707.28,270
+2023,4,April,Q2,South,P002,Wireless Mouse,Electronics,34307.76,13723.1,20584.66,273
+2023,4,April,Q2,East,P002,Wireless Mouse,Electronics,28634.34,11453.74,17180.6,166
+2023,4,April,Q2,West,P002,Wireless Mouse,Electronics,21763.8,8705.52,13058.28,277
+2023,4,April,Q2,Central,P002,Wireless Mouse,Electronics,24119.35,9647.74,14471.61,201
+2023,4,April,Q2,North,P003,Office Chair,Furniture,16816.83,9249.26,7567.57,255
+2023,4,April,Q2,South,P003,Office Chair,Furniture,22588.35,12423.59,10164.76,34
+2023,4,April,Q2,East,P003,Office Chair,Furniture,19904.79,10947.63,8957.16,258
+2023,4,April,Q2,West,P003,Office Chair,Furniture,31356.95,17246.32,14110.63,164
+2023,4,April,Q2,Central,P003,Office Chair,Furniture,5718.17,3144.99,2573.18,96
+2023,4,April,Q2,North,P004,Standing Desk,Furniture,6549.96,3798.98,2750.98,265
+2023,4,April,Q2,South,P004,Standing Desk,Furniture,30796.92,17862.21,12934.71,61
+2023,4,April,Q2,East,P004,Standing Desk,Furniture,24464.51,14189.42,10275.09,199
+2023,4,April,Q2,West,P004,Standing Desk,Furniture,16313.36,9461.75,6851.61,58
+2023,4,April,Q2,Central,P004,Standing Desk,Furniture,26271.91,15237.71,11034.2,126
+2023,4,April,Q2,North,P005,Monitor 27inch,Electronics,16413.82,7878.63,8535.19,49
+2023,4,April,Q2,South,P005,Monitor 27inch,Electronics,7200.69,3456.33,3744.36,43
+2023,4,April,Q2,East,P005,Monitor 27inch,Electronics,23049.29,11063.66,11985.63,229
+2023,4,April,Q2,West,P005,Monitor 27inch,Electronics,27431.2,13166.98,14264.22,279
+2023,4,April,Q2,Central,P005,Monitor 27inch,Electronics,13278.07,6373.47,6904.6,168
+2023,4,April,Q2,North,P006,Accounting Software,Software,20342.3,4068.46,16273.84,288
+2023,4,April,Q2,South,P006,Accounting Software,Software,26804.41,5360.88,21443.53,236
+2023,4,April,Q2,East,P006,Accounting Software,Software,26577.61,5315.52,21262.09,112
+2023,4,April,Q2,West,P006,Accounting Software,Software,18240.73,3648.15,14592.58,86
+2023,4,April,Q2,Central,P006,Accounting Software,Software,30564.99,6113.0,24451.99,36
+2023,4,April,Q2,North,P007,ERP License,Software,5361.7,965.11,4396.59,38
+2023,4,April,Q2,South,P007,ERP License,Software,20858.94,3754.61,17104.33,60
+2023,4,April,Q2,East,P007,ERP License,Software,8207.87,1477.42,6730.45,145
+2023,4,April,Q2,West,P007,ERP License,Software,24407.59,4393.37,20014.22,205
+2023,4,April,Q2,Central,P007,ERP License,Software,28382.34,5108.82,23273.52,276
+2023,4,April,Q2,North,P008,Mechanical Keyboard,Electronics,32001.29,13440.54,18560.75,61
+2023,4,April,Q2,South,P008,Mechanical Keyboard,Electronics,10095.24,4240.0,5855.24,182
+2023,4,April,Q2,East,P008,Mechanical Keyboard,Electronics,34891.27,14654.33,20236.94,249
+2023,4,April,Q2,West,P008,Mechanical Keyboard,Electronics,21567.89,9058.51,12509.38,59
+2023,4,April,Q2,Central,P008,Mechanical Keyboard,Electronics,25104.8,10544.02,14560.78,260
+2023,4,April,Q2,North,P009,Webcam HD,Electronics,32505.33,14302.35,18202.98,67
+2023,4,April,Q2,South,P009,Webcam HD,Electronics,38056.99,16745.08,21311.91,229
+2023,4,April,Q2,East,P009,Webcam HD,Electronics,36902.77,16237.22,20665.55,20
+2023,4,April,Q2,West,P009,Webcam HD,Electronics,22970.41,10106.98,12863.43,230
+2023,4,April,Q2,Central,P009,Webcam HD,Electronics,31027.29,13652.01,17375.28,216
+2023,4,April,Q2,North,P010,Headset Pro,Electronics,43083.51,19818.41,23265.1,28
+2023,4,April,Q2,South,P010,Headset Pro,Electronics,29187.28,13426.15,15761.13,208
+2023,4,April,Q2,East,P010,Headset Pro,Electronics,29058.56,13366.94,15691.62,211
+2023,4,April,Q2,West,P010,Headset Pro,Electronics,6032.1,2774.77,3257.33,54
+2023,4,April,Q2,Central,P010,Headset Pro,Electronics,22960.65,10561.9,12398.75,139
+2023,5,May,Q2,North,P001,Laptop Pro 15,Electronics,17113.71,8899.13,8214.58,112
+2023,5,May,Q2,South,P001,Laptop Pro 15,Electronics,15988.41,8313.97,7674.44,166
+2023,5,May,Q2,East,P001,Laptop Pro 15,Electronics,5778.65,3004.9,2773.75,266
+2023,5,May,Q2,West,P001,Laptop Pro 15,Electronics,20492.57,10656.14,9836.43,236
+2023,5,May,Q2,Central,P001,Laptop Pro 15,Electronics,17326.8,9009.94,8316.86,54
+2023,5,May,Q2,North,P002,Wireless Mouse,Electronics,19130.14,7652.06,11478.08,54
+2023,5,May,Q2,South,P002,Wireless Mouse,Electronics,19352.41,7740.96,11611.45,292
+2023,5,May,Q2,East,P002,Wireless Mouse,Electronics,28281.36,11312.54,16968.82,177
+2023,5,May,Q2,West,P002,Wireless Mouse,Electronics,34614.2,13845.68,20768.52,144
+2023,5,May,Q2,Central,P002,Wireless Mouse,Electronics,18186.35,7274.54,10911.81,66
+2023,5,May,Q2,North,P003,Office Chair,Furniture,20805.89,11443.24,9362.65,276
+2023,5,May,Q2,South,P003,Office Chair,Furniture,24271.83,13349.51,10922.32,253
+2023,5,May,Q2,East,P003,Office Chair,Furniture,25750.77,14162.92,11587.85,85
+2023,5,May,Q2,West,P003,Office Chair,Furniture,4687.98,2578.39,2109.59,154
+2023,5,May,Q2,Central,P003,Office Chair,Furniture,21174.31,11645.87,9528.44,105
+2023,5,May,Q2,North,P004,Standing Desk,Furniture,20075.75,11643.93,8431.82,266
+2023,5,May,Q2,South,P004,Standing Desk,Furniture,20285.55,11765.62,8519.93,62
+2023,5,May,Q2,East,P004,Standing Desk,Furniture,42243.06,24500.97,17742.09,228
+2023,5,May,Q2,West,P004,Standing Desk,Furniture,29822.58,17297.1,12525.48,274
+2023,5,May,Q2,Central,P004,Standing Desk,Furniture,33617.12,19497.93,14119.19,124
+2023,5,May,Q2,North,P005,Monitor 27inch,Electronics,10938.75,5250.6,5688.15,207
+2023,5,May,Q2,South,P005,Monitor 27inch,Electronics,9009.87,4324.74,4685.13,116
+2023,5,May,Q2,East,P005,Monitor 27inch,Electronics,4641.35,2227.85,2413.5,283
+2023,5,May,Q2,West,P005,Monitor 27inch,Electronics,26295.33,12621.76,13673.57,234
+2023,5,May,Q2,Central,P005,Monitor 27inch,Electronics,25172.56,12082.83,13089.73,60
+2023,5,May,Q2,North,P006,Accounting Software,Software,25434.2,5086.84,20347.36,289
+2023,5,May,Q2,South,P006,Accounting Software,Software,37944.5,7588.9,30355.6,105
+2023,5,May,Q2,East,P006,Accounting Software,Software,11973.5,2394.7,9578.8,187
+2023,5,May,Q2,West,P006,Accounting Software,Software,27959.49,5591.9,22367.59,49
+2023,5,May,Q2,Central,P006,Accounting Software,Software,36507.27,7301.45,29205.82,58
+2023,5,May,Q2,North,P007,ERP License,Software,16413.38,2954.41,13458.97,212
+2023,5,May,Q2,South,P007,ERP License,Software,25277.23,4549.9,20727.33,285
+2023,5,May,Q2,East,P007,ERP License,Software,11704.3,2106.77,9597.53,196
+2023,5,May,Q2,West,P007,ERP License,Software,15088.42,2715.92,12372.5,125
+2023,5,May,Q2,Central,P007,ERP License,Software,11192.71,2014.69,9178.02,179
+2023,5,May,Q2,North,P008,Mechanical Keyboard,Electronics,41045.2,17238.98,23806.22,66
+2023,5,May,Q2,South,P008,Mechanical Keyboard,Electronics,43132.23,18115.54,25016.69,41
+2023,5,May,Q2,East,P008,Mechanical Keyboard,Electronics,8788.4,3691.13,5097.27,292
+2023,5,May,Q2,West,P008,Mechanical Keyboard,Electronics,9574.42,4021.26,5553.16,217
+2023,5,May,Q2,Central,P008,Mechanical Keyboard,Electronics,16180.99,6796.02,9384.97,108
+2023,5,May,Q2,North,P009,Webcam HD,Electronics,25990.69,11435.9,14554.79,72
+2023,5,May,Q2,South,P009,Webcam HD,Electronics,28415.71,12502.91,15912.8,143
+2023,5,May,Q2,East,P009,Webcam HD,Electronics,8544.67,3759.65,4785.02,72
+2023,5,May,Q2,West,P009,Webcam HD,Electronics,14602.61,6425.15,8177.46,180
+2023,5,May,Q2,Central,P009,Webcam HD,Electronics,13922.11,6125.73,7796.38,118
+2023,5,May,Q2,North,P010,Headset Pro,Electronics,21117.12,9713.88,11403.24,64
+2023,5,May,Q2,South,P010,Headset Pro,Electronics,24029.15,11053.41,12975.74,65
+2023,5,May,Q2,East,P010,Headset Pro,Electronics,16148.16,7428.15,8720.01,190
+2023,5,May,Q2,West,P010,Headset Pro,Electronics,26257.19,12078.31,14178.88,47
+2023,5,May,Q2,Central,P010,Headset Pro,Electronics,8677.31,3991.56,4685.75,39
+2023,6,June,Q2,North,P001,Laptop Pro 15,Electronics,15500.21,8060.11,7440.1,177
+2023,6,June,Q2,South,P001,Laptop Pro 15,Electronics,20747.21,10788.55,9958.66,245
+2023,6,June,Q2,East,P001,Laptop Pro 15,Electronics,35786.02,18608.73,17177.29,71
+2023,6,June,Q2,West,P001,Laptop Pro 15,Electronics,8186.62,4257.04,3929.58,228
+2023,6,June,Q2,Central,P001,Laptop Pro 15,Electronics,28637.9,14891.71,13746.19,175
+2023,6,June,Q2,North,P002,Wireless Mouse,Electronics,24098.83,9639.53,14459.3,228
+2023,6,June,Q2,South,P002,Wireless Mouse,Electronics,30319.24,12127.7,18191.54,176
+2023,6,June,Q2,East,P002,Wireless Mouse,Electronics,27439.77,10975.91,16463.86,175
+2023,6,June,Q2,West,P002,Wireless Mouse,Electronics,12679.41,5071.76,7607.65,114
+2023,6,June,Q2,Central,P002,Wireless Mouse,Electronics,10210.99,4084.4,6126.59,156
+2023,6,June,Q2,North,P003,Office Chair,Furniture,24194.04,13306.72,10887.32,233
+2023,6,June,Q2,South,P003,Office Chair,Furniture,24885.29,13686.91,11198.38,72
+2023,6,June,Q2,East,P003,Office Chair,Furniture,5903.22,3246.77,2656.45,73
+2023,6,June,Q2,West,P003,Office Chair,Furniture,31796.77,17488.22,14308.55,214
+2023,6,June,Q2,Central,P003,Office Chair,Furniture,9034.54,4969.0,4065.54,289
+2023,6,June,Q2,North,P004,Standing Desk,Furniture,12116.1,7027.34,5088.76,148
+2023,6,June,Q2,South,P004,Standing Desk,Furniture,13780.16,7992.49,5787.67,83
+2023,6,June,Q2,East,P004,Standing Desk,Furniture,30213.28,17523.7,12689.58,233
+2023,6,June,Q2,West,P004,Standing Desk,Furniture,40145.41,23284.34,16861.07,97
+2023,6,June,Q2,Central,P004,Standing Desk,Furniture,10265.64,5954.07,4311.57,275
+2023,6,June,Q2,North,P005,Monitor 27inch,Electronics,29310.5,14069.04,15241.46,225
+2023,6,June,Q2,South,P005,Monitor 27inch,Electronics,15451.15,7416.55,8034.6,215
+2023,6,June,Q2,East,P005,Monitor 27inch,Electronics,31636.7,15185.62,16451.08,35
+2023,6,June,Q2,West,P005,Monitor 27inch,Electronics,35671.0,17122.08,18548.92,158
+2023,6,June,Q2,Central,P005,Monitor 27inch,Electronics,36525.13,17532.06,18993.07,64
+2023,6,June,Q2,North,P006,Accounting Software,Software,4511.12,902.22,3608.9,137
+2023,6,June,Q2,South,P006,Accounting Software,Software,13421.33,2684.27,10737.06,200
+2023,6,June,Q2,East,P006,Accounting Software,Software,33332.45,6666.49,26665.96,87
+2023,6,June,Q2,West,P006,Accounting Software,Software,41018.38,8203.68,32814.7,45
+2023,6,June,Q2,Central,P006,Accounting Software,Software,15836.86,3167.37,12669.49,35
+2023,6,June,Q2,North,P007,ERP License,Software,7644.23,1375.96,6268.27,257
+2023,6,June,Q2,South,P007,ERP License,Software,22258.97,4006.61,18252.36,272
+2023,6,June,Q2,East,P007,ERP License,Software,12360.63,2224.91,10135.72,117
+2023,6,June,Q2,West,P007,ERP License,Software,39704.65,7146.84,32557.81,82
+2023,6,June,Q2,Central,P007,ERP License,Software,14308.17,2575.47,11732.7,65
+2023,6,June,Q2,North,P008,Mechanical Keyboard,Electronics,22239.51,9340.59,12898.92,42
+2023,6,June,Q2,South,P008,Mechanical Keyboard,Electronics,26919.84,11306.33,15613.51,282
+2023,6,June,Q2,East,P008,Mechanical Keyboard,Electronics,6247.8,2624.08,3623.72,95
+2023,6,June,Q2,West,P008,Mechanical Keyboard,Electronics,37235.7,15638.99,21596.71,214
+2023,6,June,Q2,Central,P008,Mechanical Keyboard,Electronics,6703.25,2815.36,3887.89,34
+2023,6,June,Q2,North,P009,Webcam HD,Electronics,16932.14,7450.14,9482.0,113
+2023,6,June,Q2,South,P009,Webcam HD,Electronics,18953.73,8339.64,10614.09,203
+2023,6,June,Q2,East,P009,Webcam HD,Electronics,25854.76,11376.09,14478.67,154
+2023,6,June,Q2,West,P009,Webcam HD,Electronics,36000.49,15840.22,20160.27,224
+2023,6,June,Q2,Central,P009,Webcam HD,Electronics,23616.62,10391.31,13225.31,31
+2023,6,June,Q2,North,P010,Headset Pro,Electronics,22556.62,10376.05,12180.57,277
+2023,6,June,Q2,South,P010,Headset Pro,Electronics,35745.57,16442.96,19302.61,220
+2023,6,June,Q2,East,P010,Headset Pro,Electronics,19757.8,9088.59,10669.21,68
+2023,6,June,Q2,West,P010,Headset Pro,Electronics,28009.53,12884.38,15125.15,201
+2023,6,June,Q2,Central,P010,Headset Pro,Electronics,33953.66,15618.68,18334.98,132
+2023,7,July,Q3,North,P001,Laptop Pro 15,Electronics,37435.59,19466.51,17969.08,291
+2023,7,July,Q3,South,P001,Laptop Pro 15,Electronics,40157.92,20882.12,19275.8,246
+2023,7,July,Q3,East,P001,Laptop Pro 15,Electronics,28116.05,14620.35,13495.7,141
+2023,7,July,Q3,West,P001,Laptop Pro 15,Electronics,8470.81,4404.82,4065.99,46
+2023,7,July,Q3,Central,P001,Laptop Pro 15,Electronics,31912.36,16594.43,15317.93,90
+2023,7,July,Q3,North,P002,Wireless Mouse,Electronics,6461.67,2584.67,3877.0,70
+2023,7,July,Q3,South,P002,Wireless Mouse,Electronics,17190.44,6876.18,10314.26,24
+2023,7,July,Q3,East,P002,Wireless Mouse,Electronics,21920.78,8768.31,13152.47,161
+2023,7,July,Q3,West,P002,Wireless Mouse,Electronics,35656.84,14262.74,21394.1,60
+2023,7,July,Q3,Central,P002,Wireless Mouse,Electronics,4714.32,1885.73,2828.59,28
+2023,7,July,Q3,North,P003,Office Chair,Furniture,17385.38,9561.96,7823.42,151
+2023,7,July,Q3,South,P003,Office Chair,Furniture,38660.16,21263.09,17397.07,185
+2023,7,July,Q3,East,P003,Office Chair,Furniture,20240.48,11132.26,9108.22,168
+2023,7,July,Q3,West,P003,Office Chair,Furniture,21952.41,12073.83,9878.58,82
+2023,7,July,Q3,Central,P003,Office Chair,Furniture,20830.33,11456.68,9373.65,44
+2023,7,July,Q3,North,P004,Standing Desk,Furniture,26506.81,15373.95,11132.86,245
+2023,7,July,Q3,South,P004,Standing Desk,Furniture,13158.07,7631.68,5526.39,203
+2023,7,July,Q3,East,P004,Standing Desk,Furniture,10914.63,6330.49,4584.14,229
+2023,7,July,Q3,West,P004,Standing Desk,Furniture,33005.37,19143.11,13862.26,48
+2023,7,July,Q3,Central,P004,Standing Desk,Furniture,27189.31,15769.8,11419.51,84
+2023,7,July,Q3,North,P005,Monitor 27inch,Electronics,29960.55,14381.06,15579.49,150
+2023,7,July,Q3,South,P005,Monitor 27inch,Electronics,38917.63,18680.46,20237.17,226
+2023,7,July,Q3,East,P005,Monitor 27inch,Electronics,39886.43,19145.49,20740.94,231
+2023,7,July,Q3,West,P005,Monitor 27inch,Electronics,25375.99,12180.48,13195.51,96
+2023,7,July,Q3,Central,P005,Monitor 27inch,Electronics,14602.68,7009.29,7593.39,293
+2023,7,July,Q3,North,P006,Accounting Software,Software,17192.44,3438.49,13753.95,101
+2023,7,July,Q3,South,P006,Accounting Software,Software,41087.37,8217.47,32869.9,294
+2023,7,July,Q3,East,P006,Accounting Software,Software,5260.14,1052.03,4208.11,76
+2023,7,July,Q3,West,P006,Accounting Software,Software,35859.34,7171.87,28687.47,145
+2023,7,July,Q3,Central,P006,Accounting Software,Software,26374.14,5274.83,21099.31,243
+2023,7,July,Q3,North,P007,ERP License,Software,37105.37,6678.97,30426.4,238
+2023,7,July,Q3,South,P007,ERP License,Software,40774.45,7339.4,33435.05,236
+2023,7,July,Q3,East,P007,ERP License,Software,38927.86,7007.01,31920.85,273
+2023,7,July,Q3,West,P007,ERP License,Software,33436.69,6018.6,27418.09,224
+2023,7,July,Q3,Central,P007,ERP License,Software,21225.37,3820.57,17404.8,132
+2023,7,July,Q3,North,P008,Mechanical Keyboard,Electronics,38314.96,16092.28,22222.68,163
+2023,7,July,Q3,South,P008,Mechanical Keyboard,Electronics,26654.75,11194.99,15459.76,263
+2023,7,July,Q3,East,P008,Mechanical Keyboard,Electronics,24162.11,10148.09,14014.02,138
+2023,7,July,Q3,West,P008,Mechanical Keyboard,Electronics,27735.36,11648.85,16086.51,61
+2023,7,July,Q3,Central,P008,Mechanical Keyboard,Electronics,33756.64,14177.79,19578.85,196
+2023,7,July,Q3,North,P009,Webcam HD,Electronics,26518.44,11668.11,14850.33,101
+2023,7,July,Q3,South,P009,Webcam HD,Electronics,38480.15,16931.27,21548.88,270
+2023,7,July,Q3,East,P009,Webcam HD,Electronics,22164.78,9752.5,12412.28,254
+2023,7,July,Q3,West,P009,Webcam HD,Electronics,20182.74,8880.41,11302.33,52
+2023,7,July,Q3,Central,P009,Webcam HD,Electronics,25165.37,11072.76,14092.61,217
+2023,7,July,Q3,North,P010,Headset Pro,Electronics,14785.63,6801.39,7984.24,185
+2023,7,July,Q3,South,P010,Headset Pro,Electronics,12813.67,5894.29,6919.38,80
+2023,7,July,Q3,East,P010,Headset Pro,Electronics,35455.69,16309.62,19146.07,191
+2023,7,July,Q3,West,P010,Headset Pro,Electronics,18119.24,8334.85,9784.39,228
+2023,7,July,Q3,Central,P010,Headset Pro,Electronics,28550.5,13133.23,15417.27,56
+2023,8,August,Q3,North,P001,Laptop Pro 15,Electronics,28504.71,14822.45,13682.26,243
+2023,8,August,Q3,South,P001,Laptop Pro 15,Electronics,25856.26,13445.26,12411.0,226
+2023,8,August,Q3,East,P001,Laptop Pro 15,Electronics,33193.96,17260.86,15933.1,238
+2023,8,August,Q3,West,P001,Laptop Pro 15,Electronics,21741.46,11305.56,10435.9,24
+2023,8,August,Q3,Central,P001,Laptop Pro 15,Electronics,8105.16,4214.68,3890.48,125
+2023,8,August,Q3,North,P002,Wireless Mouse,Electronics,28276.55,11310.62,16965.93,114
+2023,8,August,Q3,South,P002,Wireless Mouse,Electronics,8536.11,3414.44,5121.67,222
+2023,8,August,Q3,East,P002,Wireless Mouse,Electronics,18146.22,7258.49,10887.73,63
+2023,8,August,Q3,West,P002,Wireless Mouse,Electronics,25378.04,10151.22,15226.82,99
+2023,8,August,Q3,Central,P002,Wireless Mouse,Electronics,17350.29,6940.12,10410.17,94
+2023,8,August,Q3,North,P003,Office Chair,Furniture,13063.25,7184.79,5878.46,297
+2023,8,August,Q3,South,P003,Office Chair,Furniture,17299.11,9514.51,7784.6,105
+2023,8,August,Q3,East,P003,Office Chair,Furniture,34170.99,18794.04,15376.95,44
+2023,8,August,Q3,West,P003,Office Chair,Furniture,40023.82,22013.1,18010.72,243
+2023,8,August,Q3,Central,P003,Office Chair,Furniture,8727.87,4800.33,3927.54,279
+2023,8,August,Q3,North,P004,Standing Desk,Furniture,6684.43,3876.97,2807.46,124
+2023,8,August,Q3,South,P004,Standing Desk,Furniture,18393.96,10668.5,7725.46,22
+2023,8,August,Q3,East,P004,Standing Desk,Furniture,9609.31,5573.4,4035.91,190
+2023,8,August,Q3,West,P004,Standing Desk,Furniture,18766.81,10884.75,7882.06,143
+2023,8,August,Q3,Central,P004,Standing Desk,Furniture,29649.54,17196.73,12452.81,289
+2023,8,August,Q3,North,P005,Monitor 27inch,Electronics,29401.47,14112.71,15288.76,268
+2023,8,August,Q3,South,P005,Monitor 27inch,Electronics,11942.8,5732.54,6210.26,187
+2023,8,August,Q3,East,P005,Monitor 27inch,Electronics,20044.78,9621.49,10423.29,28
+2023,8,August,Q3,West,P005,Monitor 27inch,Electronics,25623.26,12299.16,13324.1,98
+2023,8,August,Q3,Central,P005,Monitor 27inch,Electronics,27245.42,13077.8,14167.62,243
+2023,8,August,Q3,North,P006,Accounting Software,Software,38561.7,7712.34,30849.36,226
+2023,8,August,Q3,South,P006,Accounting Software,Software,12989.01,2597.8,10391.21,44
+2023,8,August,Q3,East,P006,Accounting Software,Software,27296.81,5459.36,21837.45,222
+2023,8,August,Q3,West,P006,Accounting Software,Software,24595.44,4919.09,19676.35,52
+2023,8,August,Q3,Central,P006,Accounting Software,Software,11218.46,2243.69,8974.77,98
+2023,8,August,Q3,North,P007,ERP License,Software,40439.69,7279.14,33160.55,198
+2023,8,August,Q3,South,P007,ERP License,Software,30655.57,5518.0,25137.57,98
+2023,8,August,Q3,East,P007,ERP License,Software,35996.79,6479.42,29517.37,41
+2023,8,August,Q3,West,P007,ERP License,Software,16443.35,2959.8,13483.55,202
+2023,8,August,Q3,Central,P007,ERP License,Software,26113.27,4700.39,21412.88,131
+2023,8,August,Q3,North,P008,Mechanical Keyboard,Electronics,37967.2,15946.22,22020.98,30
+2023,8,August,Q3,South,P008,Mechanical Keyboard,Electronics,35668.72,14980.86,20687.86,183
+2023,8,August,Q3,East,P008,Mechanical Keyboard,Electronics,37110.08,15586.23,21523.85,101
+2023,8,August,Q3,West,P008,Mechanical Keyboard,Electronics,27157.88,11406.31,15751.57,153
+2023,8,August,Q3,Central,P008,Mechanical Keyboard,Electronics,19592.61,8228.9,11363.71,209
+2023,8,August,Q3,North,P009,Webcam HD,Electronics,29866.16,13141.11,16725.05,282
+2023,8,August,Q3,South,P009,Webcam HD,Electronics,21069.71,9270.67,11799.04,222
+2023,8,August,Q3,East,P009,Webcam HD,Electronics,4945.81,2176.16,2769.65,31
+2023,8,August,Q3,West,P009,Webcam HD,Electronics,37310.95,16416.82,20894.13,62
+2023,8,August,Q3,Central,P009,Webcam HD,Electronics,11235.73,4943.72,6292.01,53
+2023,8,August,Q3,North,P010,Headset Pro,Electronics,33886.27,15587.68,18298.59,209
+2023,8,August,Q3,South,P010,Headset Pro,Electronics,8375.72,3852.83,4522.89,161
+2023,8,August,Q3,East,P010,Headset Pro,Electronics,22060.69,10147.92,11912.77,177
+2023,8,August,Q3,West,P010,Headset Pro,Electronics,14517.16,6677.89,7839.27,71
+2023,8,August,Q3,Central,P010,Headset Pro,Electronics,34672.98,15949.57,18723.41,297
+2023,9,September,Q3,North,P001,Laptop Pro 15,Electronics,16064.04,8353.3,7710.74,145
+2023,9,September,Q3,South,P001,Laptop Pro 15,Electronics,40132.74,20869.02,19263.72,192
+2023,9,September,Q3,East,P001,Laptop Pro 15,Electronics,33404.79,17370.49,16034.3,247
+2023,9,September,Q3,West,P001,Laptop Pro 15,Electronics,31043.23,16142.48,14900.75,183
+2023,9,September,Q3,Central,P001,Laptop Pro 15,Electronics,6973.97,3626.46,3347.51,205
+2023,9,September,Q3,North,P002,Wireless Mouse,Electronics,24014.96,9605.98,14408.98,154
+2023,9,September,Q3,South,P002,Wireless Mouse,Electronics,18499.13,7399.65,11099.48,176
+2023,9,September,Q3,East,P002,Wireless Mouse,Electronics,20839.16,8335.66,12503.5,241
+2023,9,September,Q3,West,P002,Wireless Mouse,Electronics,38771.85,15508.74,23263.11,272
+2023,9,September,Q3,Central,P002,Wireless Mouse,Electronics,10639.83,4255.93,6383.9,230
+2023,9,September,Q3,North,P003,Office Chair,Furniture,17442.4,9593.32,7849.08,21
+2023,9,September,Q3,South,P003,Office Chair,Furniture,23177.8,12747.79,10430.01,47
+2023,9,September,Q3,East,P003,Office Chair,Furniture,35315.39,19423.46,15891.93,143
+2023,9,September,Q3,West,P003,Office Chair,Furniture,25752.62,14163.94,11588.68,197
+2023,9,September,Q3,Central,P003,Office Chair,Furniture,17495.79,9622.68,7873.11,257
+2023,9,September,Q3,North,P004,Standing Desk,Furniture,31449.93,18240.96,13208.97,46
+2023,9,September,Q3,South,P004,Standing Desk,Furniture,7375.66,4277.88,3097.78,190
+2023,9,September,Q3,East,P004,Standing Desk,Furniture,20841.84,12088.27,8753.57,137
+2023,9,September,Q3,West,P004,Standing Desk,Furniture,23526.98,13645.65,9881.33,154
+2023,9,September,Q3,Central,P004,Standing Desk,Furniture,20652.85,11978.65,8674.2,154
+2023,9,September,Q3,North,P005,Monitor 27inch,Electronics,38873.3,18659.18,20214.12,108
+2023,9,September,Q3,South,P005,Monitor 27inch,Electronics,29389.96,14107.18,15282.78,259
+2023,9,September,Q3,East,P005,Monitor 27inch,Electronics,35792.07,17180.19,18611.88,150
+2023,9,September,Q3,West,P005,Monitor 27inch,Electronics,10391.15,4987.75,5403.4,158
+2023,9,September,Q3,Central,P005,Monitor 27inch,Electronics,34624.95,16619.98,18004.97,221
+2023,9,September,Q3,North,P006,Accounting Software,Software,37664.63,7532.93,30131.7,211
+2023,9,September,Q3,South,P006,Accounting Software,Software,32055.18,6411.04,25644.14,180
+2023,9,September,Q3,East,P006,Accounting Software,Software,13265.8,2653.16,10612.64,94
+2023,9,September,Q3,West,P006,Accounting Software,Software,37960.4,7592.08,30368.32,210
+2023,9,September,Q3,Central,P006,Accounting Software,Software,27284.51,5456.9,21827.61,196
+2023,9,September,Q3,North,P007,ERP License,Software,37777.23,6799.9,30977.33,174
+2023,9,September,Q3,South,P007,ERP License,Software,35007.3,6301.31,28705.99,276
+2023,9,September,Q3,East,P007,ERP License,Software,11337.97,2040.83,9297.14,226
+2023,9,September,Q3,West,P007,ERP License,Software,6517.54,1173.16,5344.38,291
+2023,9,September,Q3,Central,P007,ERP License,Software,21537.89,3876.82,17661.07,80
+2023,9,September,Q3,North,P008,Mechanical Keyboard,Electronics,16695.85,7012.26,9683.59,142
+2023,9,September,Q3,South,P008,Mechanical Keyboard,Electronics,18869.99,7925.4,10944.59,174
+2023,9,September,Q3,East,P008,Mechanical Keyboard,Electronics,29712.41,12479.21,17233.2,29
+2023,9,September,Q3,West,P008,Mechanical Keyboard,Electronics,31291.98,13142.63,18149.35,225
+2023,9,September,Q3,Central,P008,Mechanical Keyboard,Electronics,33881.75,14230.33,19651.42,69
+2023,9,September,Q3,North,P009,Webcam HD,Electronics,21964.04,9664.18,12299.86,272
+2023,9,September,Q3,South,P009,Webcam HD,Electronics,37586.62,16538.11,21048.51,145
+2023,9,September,Q3,East,P009,Webcam HD,Electronics,21272.63,9359.96,11912.67,198
+2023,9,September,Q3,West,P009,Webcam HD,Electronics,25359.53,11158.19,14201.34,41
+2023,9,September,Q3,Central,P009,Webcam HD,Electronics,39617.8,17431.83,22185.97,275
+2023,9,September,Q3,North,P010,Headset Pro,Electronics,22415.17,10310.98,12104.19,226
+2023,9,September,Q3,South,P010,Headset Pro,Electronics,6471.73,2977.0,3494.73,33
+2023,9,September,Q3,East,P010,Headset Pro,Electronics,17368.84,7989.67,9379.17,218
+2023,9,September,Q3,West,P010,Headset Pro,Electronics,9942.45,4573.53,5368.92,255
+2023,9,September,Q3,Central,P010,Headset Pro,Electronics,27625.18,12707.58,14917.6,35
+2023,10,October,Q4,North,P001,Laptop Pro 15,Electronics,7361.17,3827.81,3533.36,244
+2023,10,October,Q4,South,P001,Laptop Pro 15,Electronics,7616.16,3960.4,3655.76,255
+2023,10,October,Q4,East,P001,Laptop Pro 15,Electronics,22328.35,11610.74,10717.61,270
+2023,10,October,Q4,West,P001,Laptop Pro 15,Electronics,38473.31,20006.12,18467.19,111
+2023,10,October,Q4,Central,P001,Laptop Pro 15,Electronics,36575.77,19019.4,17556.37,70
+2023,10,October,Q4,North,P002,Wireless Mouse,Electronics,32423.19,12969.28,19453.91,99
+2023,10,October,Q4,South,P002,Wireless Mouse,Electronics,12598.23,5039.29,7558.94,206
+2023,10,October,Q4,East,P002,Wireless Mouse,Electronics,20658.33,8263.33,12395.0,237
+2023,10,October,Q4,West,P002,Wireless Mouse,Electronics,32351.91,12940.76,19411.15,147
+2023,10,October,Q4,Central,P002,Wireless Mouse,Electronics,29690.36,11876.14,17814.22,239
+2023,10,October,Q4,North,P003,Office Chair,Furniture,39598.97,21779.43,17819.54,208
+2023,10,October,Q4,South,P003,Office Chair,Furniture,28097.45,15453.6,12643.85,228
+2023,10,October,Q4,East,P003,Office Chair,Furniture,6984.67,3841.57,3143.1,252
+2023,10,October,Q4,West,P003,Office Chair,Furniture,12045.38,6624.96,5420.42,295
+2023,10,October,Q4,Central,P003,Office Chair,Furniture,17172.33,9444.78,7727.55,63
+2023,10,October,Q4,North,P004,Standing Desk,Furniture,17029.74,9877.25,7152.49,196
+2023,10,October,Q4,South,P004,Standing Desk,Furniture,11557.22,6703.19,4854.03,23
+2023,10,October,Q4,East,P004,Standing Desk,Furniture,8589.79,4982.08,3607.71,44
+2023,10,October,Q4,West,P004,Standing Desk,Furniture,36793.27,21340.1,15453.17,178
+2023,10,October,Q4,Central,P004,Standing Desk,Furniture,14977.5,8686.95,6290.55,178
+2023,10,October,Q4,North,P005,Monitor 27inch,Electronics,18742.41,8996.36,9746.05,135
+2023,10,October,Q4,South,P005,Monitor 27inch,Electronics,24898.92,11951.48,12947.44,231
+2023,10,October,Q4,East,P005,Monitor 27inch,Electronics,34772.93,16691.01,18081.92,52
+2023,10,October,Q4,West,P005,Monitor 27inch,Electronics,22088.7,10602.58,11486.12,31
+2023,10,October,Q4,Central,P005,Monitor 27inch,Electronics,17692.22,8492.27,9199.95,25
+2023,10,October,Q4,North,P006,Accounting Software,Software,8662.68,1732.54,6930.14,136
+2023,10,October,Q4,South,P006,Accounting Software,Software,29535.4,5907.08,23628.32,243
+2023,10,October,Q4,East,P006,Accounting Software,Software,28340.03,5668.01,22672.02,98
+2023,10,October,Q4,West,P006,Accounting Software,Software,30881.3,6176.26,24705.04,282
+2023,10,October,Q4,Central,P006,Accounting Software,Software,17517.79,3503.56,14014.23,195
+2023,10,October,Q4,North,P007,ERP License,Software,17435.47,3138.38,14297.09,232
+2023,10,October,Q4,South,P007,ERP License,Software,21587.71,3885.79,17701.92,261
+2023,10,October,Q4,East,P007,ERP License,Software,21871.68,3936.9,17934.78,54
+2023,10,October,Q4,West,P007,ERP License,Software,15081.8,2714.72,12367.08,287
+2023,10,October,Q4,Central,P007,ERP License,Software,28589.15,5146.05,23443.1,73
+2023,10,October,Q4,North,P008,Mechanical Keyboard,Electronics,10620.5,4460.61,6159.89,85
+2023,10,October,Q4,South,P008,Mechanical Keyboard,Electronics,18009.0,7563.78,10445.22,105
+2023,10,October,Q4,East,P008,Mechanical Keyboard,Electronics,8574.94,3601.47,4973.47,105
+2023,10,October,Q4,West,P008,Mechanical Keyboard,Electronics,26833.69,11270.15,15563.54,213
+2023,10,October,Q4,Central,P008,Mechanical Keyboard,Electronics,10846.55,4555.55,6291.0,270
+2023,10,October,Q4,North,P009,Webcam HD,Electronics,39527.35,17392.03,22135.32,95
+2023,10,October,Q4,South,P009,Webcam HD,Electronics,27612.06,12149.31,15462.75,176
+2023,10,October,Q4,East,P009,Webcam HD,Electronics,32860.47,14458.61,18401.86,183
+2023,10,October,Q4,West,P009,Webcam HD,Electronics,36060.82,15866.76,20194.06,159
+2023,10,October,Q4,Central,P009,Webcam HD,Electronics,31405.34,13818.35,17586.99,129
+2023,10,October,Q4,North,P010,Headset Pro,Electronics,15599.31,7175.68,8423.63,182
+2023,10,October,Q4,South,P010,Headset Pro,Electronics,21060.2,9687.69,11372.51,59
+2023,10,October,Q4,East,P010,Headset Pro,Electronics,12049.85,5542.93,6506.92,292
+2023,10,October,Q4,West,P010,Headset Pro,Electronics,23843.71,10968.11,12875.6,215
+2023,10,October,Q4,Central,P010,Headset Pro,Electronics,30938.03,14231.49,16706.54,29
+2023,11,November,Q4,North,P001,Laptop Pro 15,Electronics,24150.8,12558.42,11592.38,125
+2023,11,November,Q4,South,P001,Laptop Pro 15,Electronics,42604.24,22154.2,20450.04,296
+2023,11,November,Q4,East,P001,Laptop Pro 15,Electronics,11418.04,5937.38,5480.66,130
+2023,11,November,Q4,West,P001,Laptop Pro 15,Electronics,35227.51,18318.31,16909.2,239
+2023,11,November,Q4,Central,P001,Laptop Pro 15,Electronics,35526.72,18473.89,17052.83,71
+2023,11,November,Q4,North,P002,Wireless Mouse,Electronics,41173.04,16469.22,24703.82,163
+2023,11,November,Q4,South,P002,Wireless Mouse,Electronics,39161.52,15664.61,23496.91,153
+2023,11,November,Q4,East,P002,Wireless Mouse,Electronics,29990.41,11996.16,17994.25,104
+2023,11,November,Q4,West,P002,Wireless Mouse,Electronics,6535.34,2614.14,3921.2,153
+2023,11,November,Q4,Central,P002,Wireless Mouse,Electronics,36053.11,14421.24,21631.87,144
+2023,11,November,Q4,North,P003,Office Chair,Furniture,23834.81,13109.15,10725.66,50
+2023,11,November,Q4,South,P003,Office Chair,Furniture,10144.84,5579.66,4565.18,246
+2023,11,November,Q4,East,P003,Office Chair,Furniture,15125.11,8318.81,6806.3,219
+2023,11,November,Q4,West,P003,Office Chair,Furniture,4695.6,2582.58,2113.02,280
+2023,11,November,Q4,Central,P003,Office Chair,Furniture,37649.15,20707.03,16942.12,222
+2023,11,November,Q4,North,P004,Standing Desk,Furniture,22856.08,13256.53,9599.55,267
+2023,11,November,Q4,South,P004,Standing Desk,Furniture,7325.24,4248.64,3076.6,25
+2023,11,November,Q4,East,P004,Standing Desk,Furniture,32000.68,18560.39,13440.29,267
+2023,11,November,Q4,West,P004,Standing Desk,Furniture,29493.81,17106.41,12387.4,298
+2023,11,November,Q4,Central,P004,Standing Desk,Furniture,21101.92,12239.11,8862.81,213
+2023,11,November,Q4,North,P005,Monitor 27inch,Electronics,14673.3,7043.18,7630.12,211
+2023,11,November,Q4,South,P005,Monitor 27inch,Electronics,4983.18,2391.93,2591.25,267
+2023,11,November,Q4,East,P005,Monitor 27inch,Electronics,9245.72,4437.95,4807.77,114
+2023,11,November,Q4,West,P005,Monitor 27inch,Electronics,10997.77,5278.93,5718.84,41
+2023,11,November,Q4,Central,P005,Monitor 27inch,Electronics,23209.76,11140.68,12069.08,284
+2023,11,November,Q4,North,P006,Accounting Software,Software,30365.48,6073.1,24292.38,173
+2023,11,November,Q4,South,P006,Accounting Software,Software,11002.21,2200.44,8801.77,133
+2023,11,November,Q4,East,P006,Accounting Software,Software,6616.66,1323.33,5293.33,102
+2023,11,November,Q4,West,P006,Accounting Software,Software,31000.71,6200.14,24800.57,188
+2023,11,November,Q4,Central,P006,Accounting Software,Software,28540.22,5708.04,22832.18,239
+2023,11,November,Q4,North,P007,ERP License,Software,32629.87,5873.38,26756.49,62
+2023,11,November,Q4,South,P007,ERP License,Software,27222.03,4899.97,22322.06,138
+2023,11,November,Q4,East,P007,ERP License,Software,5864.28,1055.57,4808.71,148
+2023,11,November,Q4,West,P007,ERP License,Software,7651.36,1377.24,6274.12,269
+2023,11,November,Q4,Central,P007,ERP License,Software,4729.47,851.3,3878.17,86
+2023,11,November,Q4,North,P008,Mechanical Keyboard,Electronics,27634.62,11606.54,16028.08,78
+2023,11,November,Q4,South,P008,Mechanical Keyboard,Electronics,34205.67,14366.38,19839.29,83
+2023,11,November,Q4,East,P008,Mechanical Keyboard,Electronics,36553.21,15352.35,21200.86,211
+2023,11,November,Q4,West,P008,Mechanical Keyboard,Electronics,40590.95,17048.2,23542.75,116
+2023,11,November,Q4,Central,P008,Mechanical Keyboard,Electronics,32960.82,13843.54,19117.28,92
+2023,11,November,Q4,North,P009,Webcam HD,Electronics,29787.28,13106.4,16680.88,25
+2023,11,November,Q4,South,P009,Webcam HD,Electronics,32485.45,14293.6,18191.85,80
+2023,11,November,Q4,East,P009,Webcam HD,Electronics,28195.82,12406.16,15789.66,54
+2023,11,November,Q4,West,P009,Webcam HD,Electronics,20550.47,9042.21,11508.26,223
+2023,11,November,Q4,Central,P009,Webcam HD,Electronics,13730.49,6041.42,7689.07,194
+2023,11,November,Q4,North,P010,Headset Pro,Electronics,14704.59,6764.11,7940.48,21
+2023,11,November,Q4,South,P010,Headset Pro,Electronics,12153.0,5590.38,6562.62,236
+2023,11,November,Q4,East,P010,Headset Pro,Electronics,6060.48,2787.82,3272.66,281
+2023,11,November,Q4,West,P010,Headset Pro,Electronics,33094.5,15223.47,17871.03,161
+2023,11,November,Q4,Central,P010,Headset Pro,Electronics,33377.44,15353.62,18023.82,138
+2023,12,December,Q4,North,P001,Laptop Pro 15,Electronics,17927.19,9322.14,8605.05,208
+2023,12,December,Q4,South,P001,Laptop Pro 15,Electronics,36900.17,19188.09,17712.08,277
+2023,12,December,Q4,East,P001,Laptop Pro 15,Electronics,22522.2,11711.54,10810.66,62
+2023,12,December,Q4,West,P001,Laptop Pro 15,Electronics,4908.25,2552.29,2355.96,249
+2023,12,December,Q4,Central,P001,Laptop Pro 15,Electronics,21541.56,11201.61,10339.95,187
+2023,12,December,Q4,North,P002,Wireless Mouse,Electronics,9960.04,3984.02,5976.02,193
+2023,12,December,Q4,South,P002,Wireless Mouse,Electronics,20485.0,8194.0,12291.0,131
+2023,12,December,Q4,East,P002,Wireless Mouse,Electronics,24959.44,9983.78,14975.66,103
+2023,12,December,Q4,West,P002,Wireless Mouse,Electronics,9608.52,3843.41,5765.11,65
+2023,12,December,Q4,Central,P002,Wireless Mouse,Electronics,15150.47,6060.19,9090.28,145
+2023,12,December,Q4,North,P003,Office Chair,Furniture,15595.05,8577.28,7017.77,189
+2023,12,December,Q4,South,P003,Office Chair,Furniture,28074.07,15440.74,12633.33,266
+2023,12,December,Q4,East,P003,Office Chair,Furniture,5431.73,2987.45,2444.28,193
+2023,12,December,Q4,West,P003,Office Chair,Furniture,31279.77,17203.87,14075.9,272
+2023,12,December,Q4,Central,P003,Office Chair,Furniture,10714.04,5892.72,4821.32,33
+2023,12,December,Q4,North,P004,Standing Desk,Furniture,15411.04,8938.4,6472.64,230
+2023,12,December,Q4,South,P004,Standing Desk,Furniture,36644.07,21253.56,15390.51,49
+2023,12,December,Q4,East,P004,Standing Desk,Furniture,21953.83,12733.22,9220.61,149
+2023,12,December,Q4,West,P004,Standing Desk,Furniture,26127.91,15154.19,10973.72,67
+2023,12,December,Q4,Central,P004,Standing Desk,Furniture,28520.22,16541.73,11978.49,138
+2023,12,December,Q4,North,P005,Monitor 27inch,Electronics,40724.77,19547.89,21176.88,126
+2023,12,December,Q4,South,P005,Monitor 27inch,Electronics,19792.87,9500.58,10292.29,152
+2023,12,December,Q4,East,P005,Monitor 27inch,Electronics,12614.53,6054.97,6559.56,252
+2023,12,December,Q4,West,P005,Monitor 27inch,Electronics,29745.03,14277.61,15467.42,243
+2023,12,December,Q4,Central,P005,Monitor 27inch,Electronics,7215.02,3463.21,3751.81,163
+2023,12,December,Q4,North,P006,Accounting Software,Software,18278.62,3655.72,14622.9,252
+2023,12,December,Q4,South,P006,Accounting Software,Software,20302.48,4060.5,16241.98,261
+2023,12,December,Q4,East,P006,Accounting Software,Software,18178.43,3635.69,14542.74,135
+2023,12,December,Q4,West,P006,Accounting Software,Software,15245.43,3049.09,12196.34,235
+2023,12,December,Q4,Central,P006,Accounting Software,Software,31899.98,6380.0,25519.98,275
+2023,12,December,Q4,North,P007,ERP License,Software,23077.09,4153.88,18923.21,194
+2023,12,December,Q4,South,P007,ERP License,Software,12670.76,2280.74,10390.02,174
+2023,12,December,Q4,East,P007,ERP License,Software,37291.07,6712.39,30578.68,293
+2023,12,December,Q4,West,P007,ERP License,Software,7121.31,1281.84,5839.47,244
+2023,12,December,Q4,Central,P007,ERP License,Software,19237.31,3462.72,15774.59,297
+2023,12,December,Q4,North,P008,Mechanical Keyboard,Electronics,10981.65,4612.29,6369.36,218
+2023,12,December,Q4,South,P008,Mechanical Keyboard,Electronics,6427.73,2699.65,3728.08,168
+2023,12,December,Q4,East,P008,Mechanical Keyboard,Electronics,14950.95,6279.4,8671.55,252
+2023,12,December,Q4,West,P008,Mechanical Keyboard,Electronics,29778.72,12507.06,17271.66,173
+2023,12,December,Q4,Central,P008,Mechanical Keyboard,Electronics,34394.9,14445.86,19949.04,80
+2023,12,December,Q4,North,P009,Webcam HD,Electronics,10136.51,4460.06,5676.45,267
+2023,12,December,Q4,South,P009,Webcam HD,Electronics,34245.43,15067.99,19177.44,250
+2023,12,December,Q4,East,P009,Webcam HD,Electronics,26823.61,11802.39,15021.22,199
+2023,12,December,Q4,West,P009,Webcam HD,Electronics,30016.81,13207.4,16809.41,96
+2023,12,December,Q4,Central,P009,Webcam HD,Electronics,37483.03,16492.53,20990.5,253
+2023,12,December,Q4,North,P010,Headset Pro,Electronics,13065.97,6010.35,7055.62,127
+2023,12,December,Q4,South,P010,Headset Pro,Electronics,23031.79,10594.62,12437.17,157
+2023,12,December,Q4,East,P010,Headset Pro,Electronics,6309.85,2902.53,3407.32,25
+2023,12,December,Q4,West,P010,Headset Pro,Electronics,35207.88,16195.62,19012.26,214
+2023,12,December,Q4,Central,P010,Headset Pro,Electronics,40722.86,18732.52,21990.34,233
+2024,1,January,Q1,North,P001,Laptop Pro 15,Electronics,5342.85,2778.28,2564.57,214
+2024,1,January,Q1,South,P001,Laptop Pro 15,Electronics,17350.94,9022.49,8328.45,228
+2024,1,January,Q1,East,P001,Laptop Pro 15,Electronics,8493.27,4416.5,4076.77,87
+2024,1,January,Q1,West,P001,Laptop Pro 15,Electronics,32747.08,17028.48,15718.6,263
+2024,1,January,Q1,Central,P001,Laptop Pro 15,Electronics,7174.71,3730.85,3443.86,246
+2024,1,January,Q1,North,P002,Wireless Mouse,Electronics,35576.45,14230.58,21345.87,244
+2024,1,January,Q1,South,P002,Wireless Mouse,Electronics,27822.97,11129.19,16693.78,125
+2024,1,January,Q1,East,P002,Wireless Mouse,Electronics,28794.75,11517.9,17276.85,134
+2024,1,January,Q1,West,P002,Wireless Mouse,Electronics,35772.74,14309.1,21463.64,114
+2024,1,January,Q1,Central,P002,Wireless Mouse,Electronics,30160.41,12064.16,18096.25,63
+2024,1,January,Q1,North,P003,Office Chair,Furniture,8714.16,4792.79,3921.37,142
+2024,1,January,Q1,South,P003,Office Chair,Furniture,24965.29,13730.91,11234.38,234
+2024,1,January,Q1,East,P003,Office Chair,Furniture,14999.78,8249.88,6749.9,36
+2024,1,January,Q1,West,P003,Office Chair,Furniture,31245.76,17185.17,14060.59,105
+2024,1,January,Q1,Central,P003,Office Chair,Furniture,21627.89,11895.34,9732.55,138
+2024,1,January,Q1,North,P004,Standing Desk,Furniture,17627.0,10223.66,7403.34,143
+2024,1,January,Q1,South,P004,Standing Desk,Furniture,8460.47,4907.07,3553.4,130
+2024,1,January,Q1,East,P004,Standing Desk,Furniture,18058.48,10473.92,7584.56,214
+2024,1,January,Q1,West,P004,Standing Desk,Furniture,6345.0,3680.1,2664.9,34
+2024,1,January,Q1,Central,P004,Standing Desk,Furniture,29382.79,17042.02,12340.77,152
+2024,1,January,Q1,North,P005,Monitor 27inch,Electronics,19684.19,9448.41,10235.78,21
+2024,1,January,Q1,South,P005,Monitor 27inch,Electronics,30671.83,14722.48,15949.35,86
+2024,1,January,Q1,East,P005,Monitor 27inch,Electronics,16459.48,7900.55,8558.93,295
+2024,1,January,Q1,West,P005,Monitor 27inch,Electronics,28938.71,13890.58,15048.13,91
+2024,1,January,Q1,Central,P005,Monitor 27inch,Electronics,22033.65,10576.15,11457.5,278
+2024,1,January,Q1,North,P006,Accounting Software,Software,24660.69,4932.14,19728.55,44
+2024,1,January,Q1,South,P006,Accounting Software,Software,7399.66,1479.93,5919.73,155
+2024,1,January,Q1,East,P006,Accounting Software,Software,21130.46,4226.09,16904.37,192
+2024,1,January,Q1,West,P006,Accounting Software,Software,23145.86,4629.17,18516.69,194
+2024,1,January,Q1,Central,P006,Accounting Software,Software,18426.54,3685.31,14741.23,286
+2024,1,January,Q1,North,P007,ERP License,Software,4755.93,856.07,3899.86,205
+2024,1,January,Q1,South,P007,ERP License,Software,29500.66,5310.12,24190.54,93
+2024,1,January,Q1,East,P007,ERP License,Software,40296.43,7253.36,33043.07,185
+2024,1,January,Q1,West,P007,ERP License,Software,21897.71,3941.59,17956.12,230
+2024,1,January,Q1,Central,P007,ERP License,Software,26258.99,4726.62,21532.37,206
+2024,1,January,Q1,North,P008,Mechanical Keyboard,Electronics,27563.71,11576.76,15986.95,265
+2024,1,January,Q1,South,P008,Mechanical Keyboard,Electronics,42877.12,18008.39,24868.73,237
+2024,1,January,Q1,East,P008,Mechanical Keyboard,Electronics,40240.27,16900.91,23339.36,248
+2024,1,January,Q1,West,P008,Mechanical Keyboard,Electronics,38195.72,16042.2,22153.52,112
+2024,1,January,Q1,Central,P008,Mechanical Keyboard,Electronics,6620.16,2780.47,3839.69,86
+2024,1,January,Q1,North,P009,Webcam HD,Electronics,13867.03,6101.49,7765.54,58
+2024,1,January,Q1,South,P009,Webcam HD,Electronics,31739.28,13965.28,17774.0,67
+2024,1,January,Q1,East,P009,Webcam HD,Electronics,25300.91,11132.4,14168.51,232
+2024,1,January,Q1,West,P009,Webcam HD,Electronics,19625.11,8635.05,10990.06,87
+2024,1,January,Q1,Central,P009,Webcam HD,Electronics,41426.66,18227.73,23198.93,288
+2024,1,January,Q1,North,P010,Headset Pro,Electronics,32616.36,15003.53,17612.83,285
+2024,1,January,Q1,South,P010,Headset Pro,Electronics,33861.48,15576.28,18285.2,59
+2024,1,January,Q1,East,P010,Headset Pro,Electronics,22266.04,10242.38,12023.66,178
+2024,1,January,Q1,West,P010,Headset Pro,Electronics,29664.34,13645.6,16018.74,108
+2024,1,January,Q1,Central,P010,Headset Pro,Electronics,11937.33,5491.17,6446.16,220
+2024,2,February,Q1,North,P001,Laptop Pro 15,Electronics,23042.0,11981.84,11060.16,238
+2024,2,February,Q1,South,P001,Laptop Pro 15,Electronics,4734.45,2461.91,2272.54,113
+2024,2,February,Q1,East,P001,Laptop Pro 15,Electronics,39442.32,20510.01,18932.31,23
+2024,2,February,Q1,West,P001,Laptop Pro 15,Electronics,31531.42,16396.34,15135.08,185
+2024,2,February,Q1,Central,P001,Laptop Pro 15,Electronics,10403.17,5409.65,4993.52,111
+2024,2,February,Q1,North,P002,Wireless Mouse,Electronics,37906.28,15162.51,22743.77,193
+2024,2,February,Q1,South,P002,Wireless Mouse,Electronics,9300.13,3720.05,5580.08,30
+2024,2,February,Q1,East,P002,Wireless Mouse,Electronics,14507.1,5802.84,8704.26,21
+2024,2,February,Q1,West,P002,Wireless Mouse,Electronics,10446.32,4178.53,6267.79,270
+2024,2,February,Q1,Central,P002,Wireless Mouse,Electronics,26866.32,10746.53,16119.79,159
+2024,2,February,Q1,North,P003,Office Chair,Furniture,8817.03,4849.37,3967.66,291
+2024,2,February,Q1,South,P003,Office Chair,Furniture,36860.5,20273.28,16587.22,54
+2024,2,February,Q1,East,P003,Office Chair,Furniture,8589.51,4724.23,3865.28,157
+2024,2,February,Q1,West,P003,Office Chair,Furniture,29490.31,16219.67,13270.64,258
+2024,2,February,Q1,Central,P003,Office Chair,Furniture,25751.17,14163.14,11588.03,29
+2024,2,February,Q1,North,P004,Standing Desk,Furniture,10682.13,6195.64,4486.49,227
+2024,2,February,Q1,South,P004,Standing Desk,Furniture,31368.89,18193.96,13174.93,107
+2024,2,February,Q1,East,P004,Standing Desk,Furniture,7567.7,4389.27,3178.43,223
+2024,2,February,Q1,West,P004,Standing Desk,Furniture,7970.05,4622.63,3347.42,194
+2024,2,February,Q1,Central,P004,Standing Desk,Furniture,24080.74,13966.83,10113.91,116
+2024,2,February,Q1,North,P005,Monitor 27inch,Electronics,15345.55,7365.86,7979.69,210
+2024,2,February,Q1,South,P005,Monitor 27inch,Electronics,40347.37,19366.74,20980.63,92
+2024,2,February,Q1,East,P005,Monitor 27inch,Electronics,20755.18,9962.49,10792.69,130
+2024,2,February,Q1,West,P005,Monitor 27inch,Electronics,30209.45,14500.54,15708.91,25
+2024,2,February,Q1,Central,P005,Monitor 27inch,Electronics,29113.44,13974.45,15138.99,65
+2024,2,February,Q1,North,P006,Accounting Software,Software,20309.41,4061.88,16247.53,98
+2024,2,February,Q1,South,P006,Accounting Software,Software,17611.41,3522.28,14089.13,268
+2024,2,February,Q1,East,P006,Accounting Software,Software,8582.2,1716.44,6865.76,292
+2024,2,February,Q1,West,P006,Accounting Software,Software,26000.87,5200.17,20800.7,71
+2024,2,February,Q1,Central,P006,Accounting Software,Software,30647.38,6129.48,24517.9,206
+2024,2,February,Q1,North,P007,ERP License,Software,7311.31,1316.04,5995.27,241
+2024,2,February,Q1,South,P007,ERP License,Software,36786.99,6621.66,30165.33,267
+2024,2,February,Q1,East,P007,ERP License,Software,11772.04,2118.97,9653.07,86
+2024,2,February,Q1,West,P007,ERP License,Software,24697.52,4445.55,20251.97,86
+2024,2,February,Q1,Central,P007,ERP License,Software,6466.82,1164.03,5302.79,99
+2024,2,February,Q1,North,P008,Mechanical Keyboard,Electronics,41790.58,17552.04,24238.54,200
+2024,2,February,Q1,South,P008,Mechanical Keyboard,Electronics,12319.51,5174.19,7145.32,96
+2024,2,February,Q1,East,P008,Mechanical Keyboard,Electronics,35255.73,14807.41,20448.32,157
+2024,2,February,Q1,West,P008,Mechanical Keyboard,Electronics,17863.43,7502.64,10360.79,194
+2024,2,February,Q1,Central,P008,Mechanical Keyboard,Electronics,34495.29,14488.02,20007.27,72
+2024,2,February,Q1,North,P009,Webcam HD,Electronics,26184.74,11521.29,14663.45,210
+2024,2,February,Q1,South,P009,Webcam HD,Electronics,26552.77,11683.22,14869.55,59
+2024,2,February,Q1,East,P009,Webcam HD,Electronics,34190.83,15043.97,19146.86,247
+2024,2,February,Q1,West,P009,Webcam HD,Electronics,9564.84,4208.53,5356.31,104
+2024,2,February,Q1,Central,P009,Webcam HD,Electronics,6484.85,2853.33,3631.52,258
+2024,2,February,Q1,North,P010,Headset Pro,Electronics,27718.55,12750.53,14968.02,255
+2024,2,February,Q1,South,P010,Headset Pro,Electronics,24940.76,11472.75,13468.01,76
+2024,2,February,Q1,East,P010,Headset Pro,Electronics,25990.75,11955.75,14035.0,173
+2024,2,February,Q1,West,P010,Headset Pro,Electronics,42485.62,19543.39,22942.23,141
+2024,2,February,Q1,Central,P010,Headset Pro,Electronics,28882.4,13285.9,15596.5,86
+2024,3,March,Q1,North,P001,Laptop Pro 15,Electronics,27546.97,14324.42,13222.55,284
+2024,3,March,Q1,South,P001,Laptop Pro 15,Electronics,36954.33,19216.25,17738.08,55
+2024,3,March,Q1,East,P001,Laptop Pro 15,Electronics,15361.21,7987.83,7373.38,260
+2024,3,March,Q1,West,P001,Laptop Pro 15,Electronics,31255.19,16252.7,15002.49,242
+2024,3,March,Q1,Central,P001,Laptop Pro 15,Electronics,33864.11,17609.34,16254.77,152
+2024,3,March,Q1,North,P002,Wireless Mouse,Electronics,22518.09,9007.24,13510.85,176
+2024,3,March,Q1,South,P002,Wireless Mouse,Electronics,17440.86,6976.34,10464.52,195
+2024,3,March,Q1,East,P002,Wireless Mouse,Electronics,24588.65,9835.46,14753.19,256
+2024,3,March,Q1,West,P002,Wireless Mouse,Electronics,37965.1,15186.04,22779.06,212
+2024,3,March,Q1,Central,P002,Wireless Mouse,Electronics,27868.7,11147.48,16721.22,192
+2024,3,March,Q1,North,P003,Office Chair,Furniture,31516.1,17333.85,14182.25,177
+2024,3,March,Q1,South,P003,Office Chair,Furniture,20498.44,11274.14,9224.3,42
+2024,3,March,Q1,East,P003,Office Chair,Furniture,15340.15,8437.08,6903.07,44
+2024,3,March,Q1,West,P003,Office Chair,Furniture,18126.8,9969.74,8157.06,293
+2024,3,March,Q1,Central,P003,Office Chair,Furniture,6168.85,3392.87,2775.98,84
+2024,3,March,Q1,North,P004,Standing Desk,Furniture,22866.14,13262.36,9603.78,234
+2024,3,March,Q1,South,P004,Standing Desk,Furniture,8202.37,4757.37,3445.0,45
+2024,3,March,Q1,East,P004,Standing Desk,Furniture,20743.63,12031.31,8712.32,53
+2024,3,March,Q1,West,P004,Standing Desk,Furniture,32233.81,18695.61,13538.2,267
+2024,3,March,Q1,Central,P004,Standing Desk,Furniture,18915.95,10971.25,7944.7,85
+2024,3,March,Q1,North,P005,Monitor 27inch,Electronics,24743.31,11876.79,12866.52,227
+2024,3,March,Q1,South,P005,Monitor 27inch,Electronics,30128.23,14461.55,15666.68,90
+2024,3,March,Q1,East,P005,Monitor 27inch,Electronics,12651.52,6072.73,6578.79,98
+2024,3,March,Q1,West,P005,Monitor 27inch,Electronics,6609.15,3172.39,3436.76,138
+2024,3,March,Q1,Central,P005,Monitor 27inch,Electronics,8152.69,3913.29,4239.4,63
+2024,3,March,Q1,North,P006,Accounting Software,Software,23860.99,4772.2,19088.79,50
+2024,3,March,Q1,South,P006,Accounting Software,Software,11393.29,2278.66,9114.63,95
+2024,3,March,Q1,East,P006,Accounting Software,Software,32243.74,6448.75,25794.99,78
+2024,3,March,Q1,West,P006,Accounting Software,Software,31853.56,6370.71,25482.85,113
+2024,3,March,Q1,Central,P006,Accounting Software,Software,28864.43,5772.89,23091.54,53
+2024,3,March,Q1,North,P007,ERP License,Software,20963.64,3773.46,17190.18,188
+2024,3,March,Q1,South,P007,ERP License,Software,31443.78,5659.88,25783.9,26
+2024,3,March,Q1,East,P007,ERP License,Software,5134.13,924.14,4209.99,287
+2024,3,March,Q1,West,P007,ERP License,Software,20353.84,3663.69,16690.15,134
+2024,3,March,Q1,Central,P007,ERP License,Software,19724.01,3550.32,16173.69,290
+2024,3,March,Q1,North,P008,Mechanical Keyboard,Electronics,21772.85,9144.6,12628.25,176
+2024,3,March,Q1,South,P008,Mechanical Keyboard,Electronics,13973.74,5868.97,8104.77,295
+2024,3,March,Q1,East,P008,Mechanical Keyboard,Electronics,21336.26,8961.23,12375.03,185
+2024,3,March,Q1,West,P008,Mechanical Keyboard,Electronics,32143.23,13500.16,18643.07,266
+2024,3,March,Q1,Central,P008,Mechanical Keyboard,Electronics,37080.75,15573.91,21506.84,62
+2024,3,March,Q1,North,P009,Webcam HD,Electronics,25645.66,11284.09,14361.57,30
+2024,3,March,Q1,South,P009,Webcam HD,Electronics,13998.49,6159.34,7839.15,103
+2024,3,March,Q1,East,P009,Webcam HD,Electronics,23831.87,10486.02,13345.85,140
+2024,3,March,Q1,West,P009,Webcam HD,Electronics,28946.68,12736.54,16210.14,41
+2024,3,March,Q1,Central,P009,Webcam HD,Electronics,15787.05,6946.3,8840.75,28
+2024,3,March,Q1,North,P010,Headset Pro,Electronics,7284.44,3350.84,3933.6,48
+2024,3,March,Q1,South,P010,Headset Pro,Electronics,30723.93,14133.01,16590.92,252
+2024,3,March,Q1,East,P010,Headset Pro,Electronics,28318.83,13026.66,15292.17,179
+2024,3,March,Q1,West,P010,Headset Pro,Electronics,22299.12,10257.6,12041.52,277
+2024,3,March,Q1,Central,P010,Headset Pro,Electronics,34195.82,15730.08,18465.74,186
+2024,4,April,Q2,North,P001,Laptop Pro 15,Electronics,23799.04,12375.5,11423.54,46
+2024,4,April,Q2,South,P001,Laptop Pro 15,Electronics,21509.77,11185.08,10324.69,147
+2024,4,April,Q2,East,P001,Laptop Pro 15,Electronics,11761.33,6115.89,5645.44,272
+2024,4,April,Q2,West,P001,Laptop Pro 15,Electronics,14627.53,7606.32,7021.21,51
+2024,4,April,Q2,Central,P001,Laptop Pro 15,Electronics,31634.4,16449.89,15184.51,206
+2024,4,April,Q2,North,P002,Wireless Mouse,Electronics,23962.79,9585.12,14377.67,135
+2024,4,April,Q2,South,P002,Wireless Mouse,Electronics,16339.64,6535.86,9803.78,138
+2024,4,April,Q2,East,P002,Wireless Mouse,Electronics,30524.89,12209.96,18314.93,161
+2024,4,April,Q2,West,P002,Wireless Mouse,Electronics,26768.36,10707.34,16061.02,113
+2024,4,April,Q2,Central,P002,Wireless Mouse,Electronics,25242.39,10096.96,15145.43,260
+2024,4,April,Q2,North,P003,Office Chair,Furniture,41551.31,22853.22,18698.09,191
+2024,4,April,Q2,South,P003,Office Chair,Furniture,31947.27,17571.0,14376.27,281
+2024,4,April,Q2,East,P003,Office Chair,Furniture,11862.26,6524.24,5338.02,146
+2024,4,April,Q2,West,P003,Office Chair,Furniture,6521.1,3586.61,2934.49,139
+2024,4,April,Q2,Central,P003,Office Chair,Furniture,21297.7,11713.74,9583.96,126
+2024,4,April,Q2,North,P004,Standing Desk,Furniture,7489.26,4343.77,3145.49,137
+2024,4,April,Q2,South,P004,Standing Desk,Furniture,30785.45,17855.56,12929.89,111
+2024,4,April,Q2,East,P004,Standing Desk,Furniture,13420.74,7784.03,5636.71,263
+2024,4,April,Q2,West,P004,Standing Desk,Furniture,18990.88,11014.71,7976.17,295
+2024,4,April,Q2,Central,P004,Standing Desk,Furniture,26268.91,15235.97,11032.94,254
+2024,4,April,Q2,North,P005,Monitor 27inch,Electronics,13664.89,6559.15,7105.74,137
+2024,4,April,Q2,South,P005,Monitor 27inch,Electronics,24542.04,11780.18,12761.86,57
+2024,4,April,Q2,East,P005,Monitor 27inch,Electronics,27289.19,13098.81,14190.38,147
+2024,4,April,Q2,West,P005,Monitor 27inch,Electronics,12549.3,6023.66,6525.64,34
+2024,4,April,Q2,Central,P005,Monitor 27inch,Electronics,37502.65,18001.27,19501.38,207
+2024,4,April,Q2,North,P006,Accounting Software,Software,26051.04,5210.21,20840.83,275
+2024,4,April,Q2,South,P006,Accounting Software,Software,8486.35,1697.27,6789.08,156
+2024,4,April,Q2,East,P006,Accounting Software,Software,7637.41,1527.48,6109.93,97
+2024,4,April,Q2,West,P006,Accounting Software,Software,26142.26,5228.45,20913.81,221
+2024,4,April,Q2,Central,P006,Accounting Software,Software,21941.79,4388.36,17553.43,100
+2024,4,April,Q2,North,P007,ERP License,Software,29752.87,5355.52,24397.35,64
+2024,4,April,Q2,South,P007,ERP License,Software,12533.93,2256.11,10277.82,281
+2024,4,April,Q2,East,P007,ERP License,Software,7617.93,1371.23,6246.7,284
+2024,4,April,Q2,West,P007,ERP License,Software,9155.49,1647.99,7507.5,147
+2024,4,April,Q2,Central,P007,ERP License,Software,29178.46,5252.12,23926.34,198
+2024,4,April,Q2,North,P008,Mechanical Keyboard,Electronics,19871.06,8345.85,11525.21,178
+2024,4,April,Q2,South,P008,Mechanical Keyboard,Electronics,22812.72,9581.34,13231.38,55
+2024,4,April,Q2,East,P008,Mechanical Keyboard,Electronics,32270.53,13553.62,18716.91,274
+2024,4,April,Q2,West,P008,Mechanical Keyboard,Electronics,24289.71,10201.68,14088.03,82
+2024,4,April,Q2,Central,P008,Mechanical Keyboard,Electronics,29593.46,12429.25,17164.21,138
+2024,4,April,Q2,North,P009,Webcam HD,Electronics,17468.14,7685.98,9782.16,87
+2024,4,April,Q2,South,P009,Webcam HD,Electronics,21602.15,9504.95,12097.2,28
+2024,4,April,Q2,East,P009,Webcam HD,Electronics,29570.08,13010.84,16559.24,230
+2024,4,April,Q2,West,P009,Webcam HD,Electronics,13897.98,6115.11,7782.87,58
+2024,4,April,Q2,Central,P009,Webcam HD,Electronics,40225.64,17699.28,22526.36,241
+2024,4,April,Q2,North,P010,Headset Pro,Electronics,19263.77,8861.33,10402.44,24
+2024,4,April,Q2,South,P010,Headset Pro,Electronics,4958.2,2280.77,2677.43,57
+2024,4,April,Q2,East,P010,Headset Pro,Electronics,22707.68,10445.53,12262.15,98
+2024,4,April,Q2,West,P010,Headset Pro,Electronics,7703.03,3543.39,4159.64,217
+2024,4,April,Q2,Central,P010,Headset Pro,Electronics,39284.2,18070.73,21213.47,235
+2024,5,May,Q2,North,P001,Laptop Pro 15,Electronics,32739.82,17024.71,15715.11,59
+2024,5,May,Q2,South,P001,Laptop Pro 15,Electronics,22511.27,11705.86,10805.41,130
+2024,5,May,Q2,East,P001,Laptop Pro 15,Electronics,28953.46,15055.8,13897.66,278
+2024,5,May,Q2,West,P001,Laptop Pro 15,Electronics,7343.23,3818.48,3524.75,39
+2024,5,May,Q2,Central,P001,Laptop Pro 15,Electronics,9997.09,5198.49,4798.6,165
+2024,5,May,Q2,North,P002,Wireless Mouse,Electronics,32442.95,12977.18,19465.77,45
+2024,5,May,Q2,South,P002,Wireless Mouse,Electronics,18359.62,7343.85,11015.77,268
+2024,5,May,Q2,East,P002,Wireless Mouse,Electronics,37180.89,14872.36,22308.53,70
+2024,5,May,Q2,West,P002,Wireless Mouse,Electronics,39732.4,15892.96,23839.44,39
+2024,5,May,Q2,Central,P002,Wireless Mouse,Electronics,23316.69,9326.68,13990.01,220
+2024,5,May,Q2,North,P003,Office Chair,Furniture,11726.1,6449.36,5276.74,144
+2024,5,May,Q2,South,P003,Office Chair,Furniture,40184.02,22101.21,18082.81,228
+2024,5,May,Q2,East,P003,Office Chair,Furniture,36801.18,20240.65,16560.53,294
+2024,5,May,Q2,West,P003,Office Chair,Furniture,24778.41,13628.13,11150.28,200
+2024,5,May,Q2,Central,P003,Office Chair,Furniture,33671.97,18519.58,15152.39,43
+2024,5,May,Q2,North,P004,Standing Desk,Furniture,27689.64,16059.99,11629.65,215
+2024,5,May,Q2,South,P004,Standing Desk,Furniture,28564.96,16567.68,11997.28,294
+2024,5,May,Q2,East,P004,Standing Desk,Furniture,14640.58,8491.54,6149.04,110
+2024,5,May,Q2,West,P004,Standing Desk,Furniture,34460.49,19987.08,14473.41,265
+2024,5,May,Q2,Central,P004,Standing Desk,Furniture,14600.7,8468.41,6132.29,100
+2024,5,May,Q2,North,P005,Monitor 27inch,Electronics,5224.0,2507.52,2716.48,77
+2024,5,May,Q2,South,P005,Monitor 27inch,Electronics,22758.17,10923.92,11834.25,118
+2024,5,May,Q2,East,P005,Monitor 27inch,Electronics,32033.29,15375.98,16657.31,235
+2024,5,May,Q2,West,P005,Monitor 27inch,Electronics,20781.62,9975.18,10806.44,284
+2024,5,May,Q2,Central,P005,Monitor 27inch,Electronics,19863.18,9534.33,10328.85,34
+2024,5,May,Q2,North,P006,Accounting Software,Software,36831.17,7366.23,29464.94,224
+2024,5,May,Q2,South,P006,Accounting Software,Software,35985.18,7197.04,28788.14,286
+2024,5,May,Q2,East,P006,Accounting Software,Software,25778.15,5155.63,20622.52,150
+2024,5,May,Q2,West,P006,Accounting Software,Software,29575.49,5915.1,23660.39,300
+2024,5,May,Q2,Central,P006,Accounting Software,Software,17681.96,3536.39,14145.57,60
+2024,5,May,Q2,North,P007,ERP License,Software,20527.62,3694.97,16832.65,154
+2024,5,May,Q2,South,P007,ERP License,Software,7621.35,1371.84,6249.51,214
+2024,5,May,Q2,East,P007,ERP License,Software,38114.78,6860.66,31254.12,233
+2024,5,May,Q2,West,P007,ERP License,Software,32158.99,5788.62,26370.37,192
+2024,5,May,Q2,Central,P007,ERP License,Software,38831.15,6989.61,31841.54,63
+2024,5,May,Q2,North,P008,Mechanical Keyboard,Electronics,30747.66,12914.02,17833.64,240
+2024,5,May,Q2,South,P008,Mechanical Keyboard,Electronics,6791.53,2852.44,3939.09,207
+2024,5,May,Q2,East,P008,Mechanical Keyboard,Electronics,28243.37,11862.22,16381.15,175
+2024,5,May,Q2,West,P008,Mechanical Keyboard,Electronics,21704.51,9115.89,12588.62,65
+2024,5,May,Q2,Central,P008,Mechanical Keyboard,Electronics,33661.23,14137.72,19523.51,244
+2024,5,May,Q2,North,P009,Webcam HD,Electronics,18318.86,8060.3,10258.56,95
+2024,5,May,Q2,South,P009,Webcam HD,Electronics,6263.71,2756.03,3507.68,88
+2024,5,May,Q2,East,P009,Webcam HD,Electronics,27157.98,11949.51,15208.47,197
+2024,5,May,Q2,West,P009,Webcam HD,Electronics,30920.17,13604.87,17315.3,129
+2024,5,May,Q2,Central,P009,Webcam HD,Electronics,21082.12,9276.13,11805.99,264
+2024,5,May,Q2,North,P010,Headset Pro,Electronics,37062.21,17048.62,20013.59,29
+2024,5,May,Q2,South,P010,Headset Pro,Electronics,15638.03,7193.49,8444.54,273
+2024,5,May,Q2,East,P010,Headset Pro,Electronics,39848.25,18330.19,21518.06,102
+2024,5,May,Q2,West,P010,Headset Pro,Electronics,28567.93,13141.25,15426.68,164
+2024,5,May,Q2,Central,P010,Headset Pro,Electronics,39843.89,18328.19,21515.7,98
+2024,6,June,Q2,North,P001,Laptop Pro 15,Electronics,5352.11,2783.1,2569.01,93
+2024,6,June,Q2,South,P001,Laptop Pro 15,Electronics,21692.1,11279.89,10412.21,90
+2024,6,June,Q2,East,P001,Laptop Pro 15,Electronics,30549.71,15885.85,14663.86,168
+2024,6,June,Q2,West,P001,Laptop Pro 15,Electronics,25070.5,13036.66,12033.84,49
+2024,6,June,Q2,Central,P001,Laptop Pro 15,Electronics,24938.09,12967.81,11970.28,36
+2024,6,June,Q2,North,P002,Wireless Mouse,Electronics,40652.11,16260.84,24391.27,38
+2024,6,June,Q2,South,P002,Wireless Mouse,Electronics,42743.45,17097.38,25646.07,273
+2024,6,June,Q2,East,P002,Wireless Mouse,Electronics,30786.58,12314.63,18471.95,141
+2024,6,June,Q2,West,P002,Wireless Mouse,Electronics,38076.01,15230.4,22845.61,89
+2024,6,June,Q2,Central,P002,Wireless Mouse,Electronics,23412.03,9364.81,14047.22,220
+2024,6,June,Q2,North,P003,Office Chair,Furniture,16247.48,8936.11,7311.37,164
+2024,6,June,Q2,South,P003,Office Chair,Furniture,20104.61,11057.54,9047.07,50
+2024,6,June,Q2,East,P003,Office Chair,Furniture,5435.89,2989.74,2446.15,60
+2024,6,June,Q2,West,P003,Office Chair,Furniture,21727.65,11950.21,9777.44,100
+2024,6,June,Q2,Central,P003,Office Chair,Furniture,24568.61,13512.74,11055.87,135
+2024,6,June,Q2,North,P004,Standing Desk,Furniture,5990.06,3474.23,2515.83,162
+2024,6,June,Q2,South,P004,Standing Desk,Furniture,10862.9,6300.48,4562.42,231
+2024,6,June,Q2,East,P004,Standing Desk,Furniture,27451.85,15922.07,11529.78,231
+2024,6,June,Q2,West,P004,Standing Desk,Furniture,26985.1,15651.36,11333.74,274
+2024,6,June,Q2,Central,P004,Standing Desk,Furniture,16521.37,9582.39,6938.98,287
+2024,6,June,Q2,North,P005,Monitor 27inch,Electronics,27009.22,12964.43,14044.79,192
+2024,6,June,Q2,South,P005,Monitor 27inch,Electronics,13866.56,6655.95,7210.61,187
+2024,6,June,Q2,East,P005,Monitor 27inch,Electronics,27334.12,13120.38,14213.74,104
+2024,6,June,Q2,West,P005,Monitor 27inch,Electronics,12349.51,5927.76,6421.75,86
+2024,6,June,Q2,Central,P005,Monitor 27inch,Electronics,20507.23,9843.47,10663.76,166
+2024,6,June,Q2,North,P006,Accounting Software,Software,6821.19,1364.24,5456.95,259
+2024,6,June,Q2,South,P006,Accounting Software,Software,35330.56,7066.11,28264.45,72
+2024,6,June,Q2,East,P006,Accounting Software,Software,15550.16,3110.03,12440.13,208
+2024,6,June,Q2,West,P006,Accounting Software,Software,38485.35,7697.07,30788.28,42
+2024,6,June,Q2,Central,P006,Accounting Software,Software,19329.61,3865.92,15463.69,284
+2024,6,June,Q2,North,P007,ERP License,Software,15816.61,2846.99,12969.62,279
+2024,6,June,Q2,South,P007,ERP License,Software,4836.81,870.63,3966.18,231
+2024,6,June,Q2,East,P007,ERP License,Software,29588.14,5325.87,24262.27,297
+2024,6,June,Q2,West,P007,ERP License,Software,12839.52,2311.11,10528.41,131
+2024,6,June,Q2,Central,P007,ERP License,Software,12968.27,2334.29,10633.98,170
+2024,6,June,Q2,North,P008,Mechanical Keyboard,Electronics,21938.02,9213.97,12724.05,37
+2024,6,June,Q2,South,P008,Mechanical Keyboard,Electronics,39052.94,16402.23,22650.71,119
+2024,6,June,Q2,East,P008,Mechanical Keyboard,Electronics,28413.97,11933.87,16480.1,91
+2024,6,June,Q2,West,P008,Mechanical Keyboard,Electronics,34236.36,14379.27,19857.09,185
+2024,6,June,Q2,Central,P008,Mechanical Keyboard,Electronics,42482.51,17842.65,24639.86,164
+2024,6,June,Q2,North,P009,Webcam HD,Electronics,23054.07,10143.79,12910.28,27
+2024,6,June,Q2,South,P009,Webcam HD,Electronics,13048.2,5741.21,7306.99,152
+2024,6,June,Q2,East,P009,Webcam HD,Electronics,37193.4,16365.1,20828.3,294
+2024,6,June,Q2,West,P009,Webcam HD,Electronics,41623.86,18314.5,23309.36,117
+2024,6,June,Q2,Central,P009,Webcam HD,Electronics,8539.77,3757.5,4782.27,256
+2024,6,June,Q2,North,P010,Headset Pro,Electronics,19848.09,9130.12,10717.97,173
+2024,6,June,Q2,South,P010,Headset Pro,Electronics,25432.69,11699.04,13733.65,57
+2024,6,June,Q2,East,P010,Headset Pro,Electronics,12992.16,5976.39,7015.77,36
+2024,6,June,Q2,West,P010,Headset Pro,Electronics,13664.73,6285.78,7378.95,214
+2024,6,June,Q2,Central,P010,Headset Pro,Electronics,13008.21,5983.78,7024.43,82
+2024,7,July,Q3,North,P001,Laptop Pro 15,Electronics,20678.14,10752.63,9925.51,229
+2024,7,July,Q3,South,P001,Laptop Pro 15,Electronics,4883.23,2539.28,2343.95,32
+2024,7,July,Q3,East,P001,Laptop Pro 15,Electronics,20807.64,10819.97,9987.67,67
+2024,7,July,Q3,West,P001,Laptop Pro 15,Electronics,37502.17,19501.13,18001.04,83
+2024,7,July,Q3,Central,P001,Laptop Pro 15,Electronics,11692.08,6079.88,5612.2,84
+2024,7,July,Q3,North,P002,Wireless Mouse,Electronics,26734.99,10694.0,16040.99,213
+2024,7,July,Q3,South,P002,Wireless Mouse,Electronics,15087.49,6035.0,9052.49,268
+2024,7,July,Q3,East,P002,Wireless Mouse,Electronics,31373.23,12549.29,18823.94,128
+2024,7,July,Q3,West,P002,Wireless Mouse,Electronics,20991.6,8396.64,12594.96,43
+2024,7,July,Q3,Central,P002,Wireless Mouse,Electronics,18094.97,7237.99,10856.98,163
+2024,7,July,Q3,North,P003,Office Chair,Furniture,9396.01,5167.81,4228.2,55
+2024,7,July,Q3,South,P003,Office Chair,Furniture,34987.7,19243.24,15744.46,73
+2024,7,July,Q3,East,P003,Office Chair,Furniture,21646.6,11905.63,9740.97,195
+2024,7,July,Q3,West,P003,Office Chair,Furniture,10394.82,5717.15,4677.67,138
+2024,7,July,Q3,Central,P003,Office Chair,Furniture,14444.59,7944.52,6500.07,79
+2024,7,July,Q3,North,P004,Standing Desk,Furniture,35467.57,20571.19,14896.38,21
+2024,7,July,Q3,South,P004,Standing Desk,Furniture,23096.73,13396.1,9700.63,39
+2024,7,July,Q3,East,P004,Standing Desk,Furniture,35972.57,20864.09,15108.48,20
+2024,7,July,Q3,West,P004,Standing Desk,Furniture,23286.49,13506.16,9780.33,217
+2024,7,July,Q3,Central,P004,Standing Desk,Furniture,31280.59,18142.74,13137.85,277
+2024,7,July,Q3,North,P005,Monitor 27inch,Electronics,34180.66,16406.72,17773.94,55
+2024,7,July,Q3,South,P005,Monitor 27inch,Electronics,5637.52,2706.01,2931.51,154
+2024,7,July,Q3,East,P005,Monitor 27inch,Electronics,28419.81,13641.51,14778.3,219
+2024,7,July,Q3,West,P005,Monitor 27inch,Electronics,21184.69,10168.65,11016.04,84
+2024,7,July,Q3,Central,P005,Monitor 27inch,Electronics,13881.63,6663.18,7218.45,261
+2024,7,July,Q3,North,P006,Accounting Software,Software,23278.46,4655.69,18622.77,252
+2024,7,July,Q3,South,P006,Accounting Software,Software,19920.21,3984.04,15936.17,129
+2024,7,July,Q3,East,P006,Accounting Software,Software,31452.46,6290.49,25161.97,288
+2024,7,July,Q3,West,P006,Accounting Software,Software,29724.49,5944.9,23779.59,137
+2024,7,July,Q3,Central,P006,Accounting Software,Software,20433.83,4086.77,16347.06,137
+2024,7,July,Q3,North,P007,ERP License,Software,31486.76,5667.62,25819.14,167
+2024,7,July,Q3,South,P007,ERP License,Software,9371.64,1686.9,7684.74,227
+2024,7,July,Q3,East,P007,ERP License,Software,21939.88,3949.18,17990.7,217
+2024,7,July,Q3,West,P007,ERP License,Software,5668.98,1020.42,4648.56,238
+2024,7,July,Q3,Central,P007,ERP License,Software,32013.91,5762.5,26251.41,53
+2024,7,July,Q3,North,P008,Mechanical Keyboard,Electronics,36363.79,15272.79,21091.0,270
+2024,7,July,Q3,South,P008,Mechanical Keyboard,Electronics,28448.62,11948.42,16500.2,38
+2024,7,July,Q3,East,P008,Mechanical Keyboard,Electronics,9053.52,3802.48,5251.04,293
+2024,7,July,Q3,West,P008,Mechanical Keyboard,Electronics,30864.04,12962.9,17901.14,171
+2024,7,July,Q3,Central,P008,Mechanical Keyboard,Electronics,32778.19,13766.84,19011.35,104
+2024,7,July,Q3,North,P009,Webcam HD,Electronics,23629.3,10396.89,13232.41,39
+2024,7,July,Q3,South,P009,Webcam HD,Electronics,31499.92,13859.96,17639.96,30
+2024,7,July,Q3,East,P009,Webcam HD,Electronics,7649.44,3365.75,4283.69,168
+2024,7,July,Q3,West,P009,Webcam HD,Electronics,37240.04,16385.62,20854.42,173
+2024,7,July,Q3,Central,P009,Webcam HD,Electronics,39028.57,17172.57,21856.0,285
+2024,7,July,Q3,North,P010,Headset Pro,Electronics,22038.57,10137.74,11900.83,284
+2024,7,July,Q3,South,P010,Headset Pro,Electronics,8941.13,4112.92,4828.21,146
+2024,7,July,Q3,East,P010,Headset Pro,Electronics,31848.74,14650.42,17198.32,32
+2024,7,July,Q3,West,P010,Headset Pro,Electronics,8674.17,3990.12,4684.05,253
+2024,7,July,Q3,Central,P010,Headset Pro,Electronics,30626.72,14088.29,16538.43,56
+2024,8,August,Q3,North,P001,Laptop Pro 15,Electronics,32909.49,17112.93,15796.56,133
+2024,8,August,Q3,South,P001,Laptop Pro 15,Electronics,33692.39,17520.04,16172.35,178
+2024,8,August,Q3,East,P001,Laptop Pro 15,Electronics,18050.41,9386.21,8664.2,38
+2024,8,August,Q3,West,P001,Laptop Pro 15,Electronics,33183.51,17255.43,15928.08,76
+2024,8,August,Q3,Central,P001,Laptop Pro 15,Electronics,8896.23,4626.04,4270.19,236
+2024,8,August,Q3,North,P002,Wireless Mouse,Electronics,8788.32,3515.33,5272.99,162
+2024,8,August,Q3,South,P002,Wireless Mouse,Electronics,5604.27,2241.71,3362.56,67
+2024,8,August,Q3,East,P002,Wireless Mouse,Electronics,21061.1,8424.44,12636.66,64
+2024,8,August,Q3,West,P002,Wireless Mouse,Electronics,26104.61,10441.84,15662.77,236
+2024,8,August,Q3,Central,P002,Wireless Mouse,Electronics,31543.49,12617.4,18926.09,138
+2024,8,August,Q3,North,P003,Office Chair,Furniture,19629.22,10796.07,8833.15,285
+2024,8,August,Q3,South,P003,Office Chair,Furniture,24785.24,13631.88,11153.36,228
+2024,8,August,Q3,East,P003,Office Chair,Furniture,25344.93,13939.71,11405.22,102
+2024,8,August,Q3,West,P003,Office Chair,Furniture,19256.68,10591.17,8665.51,75
+2024,8,August,Q3,Central,P003,Office Chair,Furniture,36933.08,20313.19,16619.89,33
+2024,8,August,Q3,North,P004,Standing Desk,Furniture,18816.81,10913.75,7903.06,204
+2024,8,August,Q3,South,P004,Standing Desk,Furniture,21627.49,12543.94,9083.55,48
+2024,8,August,Q3,East,P004,Standing Desk,Furniture,24562.51,14246.26,10316.25,112
+2024,8,August,Q3,West,P004,Standing Desk,Furniture,29733.74,17245.57,12488.17,198
+2024,8,August,Q3,Central,P004,Standing Desk,Furniture,18789.63,10897.99,7891.64,77
+2024,8,August,Q3,North,P005,Monitor 27inch,Electronics,36033.16,17295.92,18737.24,253
+2024,8,August,Q3,South,P005,Monitor 27inch,Electronics,18415.06,8839.23,9575.83,252
+2024,8,August,Q3,East,P005,Monitor 27inch,Electronics,19661.5,9437.52,10223.98,175
+2024,8,August,Q3,West,P005,Monitor 27inch,Electronics,33244.61,15957.41,17287.2,99
+2024,8,August,Q3,Central,P005,Monitor 27inch,Electronics,22028.89,10573.87,11455.02,97
+2024,8,August,Q3,North,P006,Accounting Software,Software,17995.45,3599.09,14396.36,198
+2024,8,August,Q3,South,P006,Accounting Software,Software,37058.48,7411.7,29646.78,188
+2024,8,August,Q3,East,P006,Accounting Software,Software,21342.37,4268.47,17073.9,98
+2024,8,August,Q3,West,P006,Accounting Software,Software,36111.97,7222.39,28889.58,218
+2024,8,August,Q3,Central,P006,Accounting Software,Software,39625.88,7925.18,31700.7,67
+2024,8,August,Q3,North,P007,ERP License,Software,21845.44,3932.18,17913.26,143
+2024,8,August,Q3,South,P007,ERP License,Software,22336.63,4020.59,18316.04,83
+2024,8,August,Q3,East,P007,ERP License,Software,37921.88,6825.94,31095.94,219
+2024,8,August,Q3,West,P007,ERP License,Software,35885.69,6459.42,29426.27,240
+2024,8,August,Q3,Central,P007,ERP License,Software,4865.29,875.75,3989.54,71
+2024,8,August,Q3,North,P008,Mechanical Keyboard,Electronics,37609.0,15795.78,21813.22,183
+2024,8,August,Q3,South,P008,Mechanical Keyboard,Electronics,34731.17,14587.09,20144.08,80
+2024,8,August,Q3,East,P008,Mechanical Keyboard,Electronics,11732.59,4927.69,6804.9,193
+2024,8,August,Q3,West,P008,Mechanical Keyboard,Electronics,5871.84,2466.17,3405.67,116
+2024,8,August,Q3,Central,P008,Mechanical Keyboard,Electronics,29400.65,12348.27,17052.38,221
+2024,8,August,Q3,North,P009,Webcam HD,Electronics,23523.09,10350.16,13172.93,293
+2024,8,August,Q3,South,P009,Webcam HD,Electronics,29802.8,13113.23,16689.57,171
+2024,8,August,Q3,East,P009,Webcam HD,Electronics,24303.1,10693.36,13609.74,22
+2024,8,August,Q3,West,P009,Webcam HD,Electronics,19377.34,8526.03,10851.31,141
+2024,8,August,Q3,Central,P009,Webcam HD,Electronics,21677.93,9538.29,12139.64,263
+2024,8,August,Q3,North,P010,Headset Pro,Electronics,11493.46,5286.99,6206.47,222
+2024,8,August,Q3,South,P010,Headset Pro,Electronics,32722.59,15052.39,17670.2,97
+2024,8,August,Q3,East,P010,Headset Pro,Electronics,27004.06,12421.87,14582.19,48
+2024,8,August,Q3,West,P010,Headset Pro,Electronics,23524.04,10821.06,12702.98,108
+2024,8,August,Q3,Central,P010,Headset Pro,Electronics,31812.49,14633.75,17178.74,23
+2024,9,September,Q3,North,P001,Laptop Pro 15,Electronics,8266.89,4298.78,3968.11,76
+2024,9,September,Q3,South,P001,Laptop Pro 15,Electronics,7333.06,3813.19,3519.87,187
+2024,9,September,Q3,East,P001,Laptop Pro 15,Electronics,29272.32,15221.61,14050.71,56
+2024,9,September,Q3,West,P001,Laptop Pro 15,Electronics,31909.18,16592.77,15316.41,152
+2024,9,September,Q3,Central,P001,Laptop Pro 15,Electronics,22965.36,11941.99,11023.37,283
+2024,9,September,Q3,North,P002,Wireless Mouse,Electronics,9278.63,3711.45,5567.18,64
+2024,9,September,Q3,South,P002,Wireless Mouse,Electronics,17104.59,6841.84,10262.75,282
+2024,9,September,Q3,East,P002,Wireless Mouse,Electronics,13403.39,5361.36,8042.03,118
+2024,9,September,Q3,West,P002,Wireless Mouse,Electronics,40688.08,16275.23,24412.85,212
+2024,9,September,Q3,Central,P002,Wireless Mouse,Electronics,8422.66,3369.06,5053.6,227
+2024,9,September,Q3,North,P003,Office Chair,Furniture,32395.0,17817.25,14577.75,131
+2024,9,September,Q3,South,P003,Office Chair,Furniture,8210.45,4515.75,3694.7,154
+2024,9,September,Q3,East,P003,Office Chair,Furniture,35149.0,19331.95,15817.05,258
+2024,9,September,Q3,West,P003,Office Chair,Furniture,20512.52,11281.89,9230.63,231
+2024,9,September,Q3,Central,P003,Office Chair,Furniture,30628.79,16845.83,13782.96,234
+2024,9,September,Q3,North,P004,Standing Desk,Furniture,9190.64,5330.57,3860.07,84
+2024,9,September,Q3,South,P004,Standing Desk,Furniture,9489.78,5504.07,3985.71,291
+2024,9,September,Q3,East,P004,Standing Desk,Furniture,37089.7,21512.03,15577.67,91
+2024,9,September,Q3,West,P004,Standing Desk,Furniture,5892.79,3417.82,2474.97,61
+2024,9,September,Q3,Central,P004,Standing Desk,Furniture,39726.99,23041.65,16685.34,223
+2024,9,September,Q3,North,P005,Monitor 27inch,Electronics,21259.2,10204.42,11054.78,216
+2024,9,September,Q3,South,P005,Monitor 27inch,Electronics,9248.53,4439.29,4809.24,134
+2024,9,September,Q3,East,P005,Monitor 27inch,Electronics,5586.65,2681.59,2905.06,231
+2024,9,September,Q3,West,P005,Monitor 27inch,Electronics,22111.22,10613.39,11497.83,243
+2024,9,September,Q3,Central,P005,Monitor 27inch,Electronics,19694.24,9453.24,10241.0,116
+2024,9,September,Q3,North,P006,Accounting Software,Software,27065.3,5413.06,21652.24,53
+2024,9,September,Q3,South,P006,Accounting Software,Software,33155.22,6631.04,26524.18,242
+2024,9,September,Q3,East,P006,Accounting Software,Software,19865.78,3973.16,15892.62,144
+2024,9,September,Q3,West,P006,Accounting Software,Software,13230.92,2646.18,10584.74,54
+2024,9,September,Q3,Central,P006,Accounting Software,Software,19602.64,3920.53,15682.11,195
+2024,9,September,Q3,North,P007,ERP License,Software,13749.82,2474.97,11274.85,293
+2024,9,September,Q3,South,P007,ERP License,Software,15079.43,2714.3,12365.13,225
+2024,9,September,Q3,East,P007,ERP License,Software,36798.26,6623.69,30174.57,109
+2024,9,September,Q3,West,P007,ERP License,Software,31250.77,5625.14,25625.63,143
+2024,9,September,Q3,Central,P007,ERP License,Software,34565.58,6221.8,28343.78,184
+2024,9,September,Q3,North,P008,Mechanical Keyboard,Electronics,16308.85,6849.72,9459.13,180
+2024,9,September,Q3,South,P008,Mechanical Keyboard,Electronics,17302.39,7267.0,10035.39,232
+2024,9,September,Q3,East,P008,Mechanical Keyboard,Electronics,19984.18,8393.36,11590.82,286
+2024,9,September,Q3,West,P008,Mechanical Keyboard,Electronics,23144.53,9720.7,13423.83,147
+2024,9,September,Q3,Central,P008,Mechanical Keyboard,Electronics,33707.16,14157.01,19550.15,297
+2024,9,September,Q3,North,P009,Webcam HD,Electronics,32046.69,14100.54,17946.15,79
+2024,9,September,Q3,South,P009,Webcam HD,Electronics,8656.4,3808.82,4847.58,133
+2024,9,September,Q3,East,P009,Webcam HD,Electronics,17276.06,7601.47,9674.59,151
+2024,9,September,Q3,West,P009,Webcam HD,Electronics,6126.0,2695.44,3430.56,286
+2024,9,September,Q3,Central,P009,Webcam HD,Electronics,5784.57,2545.21,3239.36,275
+2024,9,September,Q3,North,P010,Headset Pro,Electronics,32096.21,14764.26,17331.95,190
+2024,9,September,Q3,South,P010,Headset Pro,Electronics,26012.4,11965.7,14046.7,48
+2024,9,September,Q3,East,P010,Headset Pro,Electronics,30151.88,13869.86,16282.02,105
+2024,9,September,Q3,West,P010,Headset Pro,Electronics,35214.53,16198.68,19015.85,46
+2024,9,September,Q3,Central,P010,Headset Pro,Electronics,16266.88,7482.76,8784.12,70
+2024,10,October,Q4,North,P001,Laptop Pro 15,Electronics,12644.27,6575.02,6069.25,156
+2024,10,October,Q4,South,P001,Laptop Pro 15,Electronics,31631.55,16448.41,15183.14,259
+2024,10,October,Q4,East,P001,Laptop Pro 15,Electronics,13848.69,7201.32,6647.37,111
+2024,10,October,Q4,West,P001,Laptop Pro 15,Electronics,29371.62,15273.24,14098.38,31
+2024,10,October,Q4,Central,P001,Laptop Pro 15,Electronics,16724.72,8696.85,8027.87,185
+2024,10,October,Q4,North,P002,Wireless Mouse,Electronics,35497.48,14198.99,21298.49,294
+2024,10,October,Q4,South,P002,Wireless Mouse,Electronics,4675.21,1870.08,2805.13,183
+2024,10,October,Q4,East,P002,Wireless Mouse,Electronics,27852.63,11141.05,16711.58,270
+2024,10,October,Q4,West,P002,Wireless Mouse,Electronics,35833.02,14333.21,21499.81,253
+2024,10,October,Q4,Central,P002,Wireless Mouse,Electronics,17345.59,6938.24,10407.35,203
+2024,10,October,Q4,North,P003,Office Chair,Furniture,38539.55,21196.75,17342.8,181
+2024,10,October,Q4,South,P003,Office Chair,Furniture,24664.22,13565.32,11098.9,94
+2024,10,October,Q4,East,P003,Office Chair,Furniture,21923.21,12057.77,9865.44,157
+2024,10,October,Q4,West,P003,Office Chair,Furniture,9146.98,5030.84,4116.14,265
+2024,10,October,Q4,Central,P003,Office Chair,Furniture,19755.5,10865.53,8889.97,253
+2024,10,October,Q4,North,P004,Standing Desk,Furniture,4718.42,2736.68,1981.74,290
+2024,10,October,Q4,South,P004,Standing Desk,Furniture,29749.87,17254.92,12494.95,201
+2024,10,October,Q4,East,P004,Standing Desk,Furniture,32747.05,18993.29,13753.76,257
+2024,10,October,Q4,West,P004,Standing Desk,Furniture,29466.07,17090.32,12375.75,102
+2024,10,October,Q4,Central,P004,Standing Desk,Furniture,30509.22,17695.35,12813.87,169
+2024,10,October,Q4,North,P005,Monitor 27inch,Electronics,14115.86,6775.61,7340.25,35
+2024,10,October,Q4,South,P005,Monitor 27inch,Electronics,5043.04,2420.66,2622.38,205
+2024,10,October,Q4,East,P005,Monitor 27inch,Electronics,32737.44,15713.97,17023.47,36
+2024,10,October,Q4,West,P005,Monitor 27inch,Electronics,38475.75,18468.36,20007.39,105
+2024,10,October,Q4,Central,P005,Monitor 27inch,Electronics,23075.75,11076.36,11999.39,91
+2024,10,October,Q4,North,P006,Accounting Software,Software,36750.9,7350.18,29400.72,107
+2024,10,October,Q4,South,P006,Accounting Software,Software,10894.36,2178.87,8715.49,261
+2024,10,October,Q4,East,P006,Accounting Software,Software,38188.21,7637.64,30550.57,62
+2024,10,October,Q4,West,P006,Accounting Software,Software,15410.03,3082.01,12328.02,137
+2024,10,October,Q4,Central,P006,Accounting Software,Software,35082.18,7016.44,28065.74,168
+2024,10,October,Q4,North,P007,ERP License,Software,37821.7,6807.91,31013.79,114
+2024,10,October,Q4,South,P007,ERP License,Software,4971.94,894.95,4076.99,23
+2024,10,October,Q4,East,P007,ERP License,Software,9210.93,1657.97,7552.96,31
+2024,10,October,Q4,West,P007,ERP License,Software,38359.41,6904.69,31454.72,298
+2024,10,October,Q4,Central,P007,ERP License,Software,33273.69,5989.26,27284.43,55
+2024,10,October,Q4,North,P008,Mechanical Keyboard,Electronics,33164.02,13928.89,19235.13,102
+2024,10,October,Q4,South,P008,Mechanical Keyboard,Electronics,36814.12,15461.93,21352.19,240
+2024,10,October,Q4,East,P008,Mechanical Keyboard,Electronics,18465.23,7755.4,10709.83,187
+2024,10,October,Q4,West,P008,Mechanical Keyboard,Electronics,8382.62,3520.7,4861.92,187
+2024,10,October,Q4,Central,P008,Mechanical Keyboard,Electronics,26092.89,10959.01,15133.88,29
+2024,10,October,Q4,North,P009,Webcam HD,Electronics,6548.39,2881.29,3667.1,61
+2024,10,October,Q4,South,P009,Webcam HD,Electronics,7018.57,3088.17,3930.4,175
+2024,10,October,Q4,East,P009,Webcam HD,Electronics,41094.95,18081.78,23013.17,85
+2024,10,October,Q4,West,P009,Webcam HD,Electronics,12816.11,5639.09,7177.02,108
+2024,10,October,Q4,Central,P009,Webcam HD,Electronics,18684.29,8221.09,10463.2,26
+2024,10,October,Q4,North,P010,Headset Pro,Electronics,17706.03,8144.77,9561.26,251
+2024,10,October,Q4,South,P010,Headset Pro,Electronics,12035.41,5536.29,6499.12,184
+2024,10,October,Q4,East,P010,Headset Pro,Electronics,6514.96,2996.88,3518.08,290
+2024,10,October,Q4,West,P010,Headset Pro,Electronics,17110.72,7870.93,9239.79,117
+2024,10,October,Q4,Central,P010,Headset Pro,Electronics,22804.33,10489.99,12314.34,160
+2024,11,November,Q4,North,P001,Laptop Pro 15,Electronics,18685.6,9716.51,8969.09,189
+2024,11,November,Q4,South,P001,Laptop Pro 15,Electronics,18267.54,9499.12,8768.42,242
+2024,11,November,Q4,East,P001,Laptop Pro 15,Electronics,14978.38,7788.76,7189.62,35
+2024,11,November,Q4,West,P001,Laptop Pro 15,Electronics,12890.88,6703.26,6187.62,222
+2024,11,November,Q4,Central,P001,Laptop Pro 15,Electronics,17571.08,9136.96,8434.12,238
+2024,11,November,Q4,North,P002,Wireless Mouse,Electronics,30949.66,12379.86,18569.8,261
+2024,11,November,Q4,South,P002,Wireless Mouse,Electronics,21644.4,8657.76,12986.64,125
+2024,11,November,Q4,East,P002,Wireless Mouse,Electronics,4754.24,1901.7,2852.54,162
+2024,11,November,Q4,West,P002,Wireless Mouse,Electronics,19169.97,7667.99,11501.98,29
+2024,11,November,Q4,Central,P002,Wireless Mouse,Electronics,26677.62,10671.05,16006.57,220
+2024,11,November,Q4,North,P003,Office Chair,Furniture,21337.2,11735.46,9601.74,22
+2024,11,November,Q4,South,P003,Office Chair,Furniture,6222.93,3422.61,2800.32,167
+2024,11,November,Q4,East,P003,Office Chair,Furniture,24328.38,13380.61,10947.77,189
+2024,11,November,Q4,West,P003,Office Chair,Furniture,36219.75,19920.86,16298.89,188
+2024,11,November,Q4,Central,P003,Office Chair,Furniture,10977.56,6037.66,4939.9,173
+2024,11,November,Q4,North,P004,Standing Desk,Furniture,14224.3,8250.09,5974.21,231
+2024,11,November,Q4,South,P004,Standing Desk,Furniture,15047.17,8727.36,6319.81,86
+2024,11,November,Q4,East,P004,Standing Desk,Furniture,21141.11,12261.84,8879.27,203
+2024,11,November,Q4,West,P004,Standing Desk,Furniture,4817.85,2794.35,2023.5,29
+2024,11,November,Q4,Central,P004,Standing Desk,Furniture,31714.7,18394.53,13320.17,232
+2024,11,November,Q4,North,P005,Monitor 27inch,Electronics,11507.78,5523.73,5984.05,119
+2024,11,November,Q4,South,P005,Monitor 27inch,Electronics,11591.75,5564.04,6027.71,103
+2024,11,November,Q4,East,P005,Monitor 27inch,Electronics,25336.88,12161.7,13175.18,145
+2024,11,November,Q4,West,P005,Monitor 27inch,Electronics,13899.48,6671.75,7227.73,44
+2024,11,November,Q4,Central,P005,Monitor 27inch,Electronics,25016.07,12007.71,13008.36,300
+2024,11,November,Q4,North,P006,Accounting Software,Software,18645.96,3729.19,14916.77,247
+2024,11,November,Q4,South,P006,Accounting Software,Software,22728.06,4545.61,18182.45,158
+2024,11,November,Q4,East,P006,Accounting Software,Software,8727.44,1745.49,6981.95,176
+2024,11,November,Q4,West,P006,Accounting Software,Software,39564.42,7912.88,31651.54,109
+2024,11,November,Q4,Central,P006,Accounting Software,Software,27279.99,5456.0,21823.99,121
+2024,11,November,Q4,North,P007,ERP License,Software,25461.65,4583.1,20878.55,74
+2024,11,November,Q4,South,P007,ERP License,Software,9231.62,1661.69,7569.93,188
+2024,11,November,Q4,East,P007,ERP License,Software,15951.21,2871.22,13079.99,183
+2024,11,November,Q4,West,P007,ERP License,Software,38375.09,6907.52,31467.57,112
+2024,11,November,Q4,Central,P007,ERP License,Software,33628.19,6053.07,27575.12,298
+2024,11,November,Q4,North,P008,Mechanical Keyboard,Electronics,40306.42,16928.7,23377.72,225
+2024,11,November,Q4,South,P008,Mechanical Keyboard,Electronics,6609.47,2775.98,3833.49,247
+2024,11,November,Q4,East,P008,Mechanical Keyboard,Electronics,22138.71,9298.26,12840.45,29
+2024,11,November,Q4,West,P008,Mechanical Keyboard,Electronics,18079.49,7593.39,10486.1,203
+2024,11,November,Q4,Central,P008,Mechanical Keyboard,Electronics,42048.97,17660.57,24388.4,279
+2024,11,November,Q4,North,P009,Webcam HD,Electronics,5206.7,2290.95,2915.75,261
+2024,11,November,Q4,South,P009,Webcam HD,Electronics,12808.25,5635.63,7172.62,241
+2024,11,November,Q4,East,P009,Webcam HD,Electronics,9538.69,4197.02,5341.67,178
+2024,11,November,Q4,West,P009,Webcam HD,Electronics,12163.04,5351.74,6811.3,132
+2024,11,November,Q4,Central,P009,Webcam HD,Electronics,30560.76,13446.73,17114.03,188
+2024,11,November,Q4,North,P010,Headset Pro,Electronics,23739.45,10920.15,12819.3,206
+2024,11,November,Q4,South,P010,Headset Pro,Electronics,14544.63,6690.53,7854.1,200
+2024,11,November,Q4,East,P010,Headset Pro,Electronics,30646.32,14097.31,16549.01,247
+2024,11,November,Q4,West,P010,Headset Pro,Electronics,36717.01,16889.82,19827.19,65
+2024,11,November,Q4,Central,P010,Headset Pro,Electronics,11397.36,5242.79,6154.57,249
+2024,12,December,Q4,North,P001,Laptop Pro 15,Electronics,37788.0,19649.76,18138.24,176
+2024,12,December,Q4,South,P001,Laptop Pro 15,Electronics,25832.23,13432.76,12399.47,93
+2024,12,December,Q4,East,P001,Laptop Pro 15,Electronics,35468.72,18443.73,17024.99,186
+2024,12,December,Q4,West,P001,Laptop Pro 15,Electronics,10093.08,5248.4,4844.68,219
+2024,12,December,Q4,Central,P001,Laptop Pro 15,Electronics,5049.49,2625.73,2423.76,202
+2024,12,December,Q4,North,P002,Wireless Mouse,Electronics,38535.35,15414.14,23121.21,39
+2024,12,December,Q4,South,P002,Wireless Mouse,Electronics,11832.03,4732.81,7099.22,105
+2024,12,December,Q4,East,P002,Wireless Mouse,Electronics,14772.11,5908.84,8863.27,125
+2024,12,December,Q4,West,P002,Wireless Mouse,Electronics,16588.31,6635.32,9952.99,287
+2024,12,December,Q4,Central,P002,Wireless Mouse,Electronics,26452.57,10581.03,15871.54,283
+2024,12,December,Q4,North,P003,Office Chair,Furniture,16225.8,8924.19,7301.61,241
+2024,12,December,Q4,South,P003,Office Chair,Furniture,8333.83,4583.61,3750.22,279
+2024,12,December,Q4,East,P003,Office Chair,Furniture,38659.01,21262.46,17396.55,136
+2024,12,December,Q4,West,P003,Office Chair,Furniture,5186.86,2852.77,2334.09,273
+2024,12,December,Q4,Central,P003,Office Chair,Furniture,21517.83,11834.81,9683.02,74
+2024,12,December,Q4,North,P004,Standing Desk,Furniture,12594.48,7304.8,5289.68,265
+2024,12,December,Q4,South,P004,Standing Desk,Furniture,12913.01,7489.55,5423.46,188
+2024,12,December,Q4,East,P004,Standing Desk,Furniture,32610.25,18913.94,13696.31,132
+2024,12,December,Q4,West,P004,Standing Desk,Furniture,18075.13,10483.58,7591.55,268
+2024,12,December,Q4,Central,P004,Standing Desk,Furniture,41979.04,24347.84,17631.2,200
+2024,12,December,Q4,North,P005,Monitor 27inch,Electronics,14037.42,6737.96,7299.46,282
+2024,12,December,Q4,South,P005,Monitor 27inch,Electronics,30075.18,14436.09,15639.09,73
+2024,12,December,Q4,East,P005,Monitor 27inch,Electronics,41129.15,19741.99,21387.16,152
+2024,12,December,Q4,West,P005,Monitor 27inch,Electronics,21876.62,10500.78,11375.84,259
+2024,12,December,Q4,Central,P005,Monitor 27inch,Electronics,31180.06,14966.43,16213.63,46
+2024,12,December,Q4,North,P006,Accounting Software,Software,5145.05,1029.01,4116.04,260
+2024,12,December,Q4,South,P006,Accounting Software,Software,19985.77,3997.15,15988.62,165
+2024,12,December,Q4,East,P006,Accounting Software,Software,25352.8,5070.56,20282.24,180
+2024,12,December,Q4,West,P006,Accounting Software,Software,35251.14,7050.23,28200.91,149
+2024,12,December,Q4,Central,P006,Accounting Software,Software,22930.1,4586.02,18344.08,42
+2024,12,December,Q4,North,P007,ERP License,Software,32359.75,5824.76,26534.99,107
+2024,12,December,Q4,South,P007,ERP License,Software,29666.8,5340.02,24326.78,195
+2024,12,December,Q4,East,P007,ERP License,Software,23709.28,4267.67,19441.61,172
+2024,12,December,Q4,West,P007,ERP License,Software,35180.27,6332.45,28847.82,75
+2024,12,December,Q4,Central,P007,ERP License,Software,27185.96,4893.47,22292.49,152
+2024,12,December,Q4,North,P008,Mechanical Keyboard,Electronics,19363.53,8132.68,11230.85,283
+2024,12,December,Q4,South,P008,Mechanical Keyboard,Electronics,19515.25,8196.4,11318.85,284
+2024,12,December,Q4,East,P008,Mechanical Keyboard,Electronics,28364.98,11913.29,16451.69,47
+2024,12,December,Q4,West,P008,Mechanical Keyboard,Electronics,36124.15,15172.14,20952.01,239
+2024,12,December,Q4,Central,P008,Mechanical Keyboard,Electronics,28035.18,11774.78,16260.4,180
+2024,12,December,Q4,North,P009,Webcam HD,Electronics,33048.73,14541.44,18507.29,134
+2024,12,December,Q4,South,P009,Webcam HD,Electronics,34775.03,15301.01,19474.02,56
+2024,12,December,Q4,East,P009,Webcam HD,Electronics,28866.32,12701.18,16165.14,178
+2024,12,December,Q4,West,P009,Webcam HD,Electronics,19767.54,8697.72,11069.82,39
+2024,12,December,Q4,Central,P009,Webcam HD,Electronics,38455.26,16920.31,21534.95,127
+2024,12,December,Q4,North,P010,Headset Pro,Electronics,8793.73,4045.12,4748.61,70
+2024,12,December,Q4,South,P010,Headset Pro,Electronics,33766.7,15532.68,18234.02,218
+2024,12,December,Q4,East,P010,Headset Pro,Electronics,11836.36,5444.73,6391.63,118
+2024,12,December,Q4,West,P010,Headset Pro,Electronics,25787.94,11862.45,13925.49,21
+2024,12,December,Q4,Central,P010,Headset Pro,Electronics,36056.6,16586.04,19470.56,131

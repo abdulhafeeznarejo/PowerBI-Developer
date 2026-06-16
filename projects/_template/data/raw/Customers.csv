@@ -1,0 +1,13 @@
+Customer_ID,Customer_Name,Region,Segment,Credit_Limit_USD,Since_Year
+C001,Alpha Corp,North,Enterprise,200000,2015
+C002,Beta Industries,South,SMB,100000,2016
+C003,Gamma LLC,East,SMB,500000,2019
+C004,Delta Systems,West,Enterprise,200000,2016
+C005,Epsilon Trading,Central,SMB,200000,2020
+C006,Zeta Solutions,North,Enterprise,50000,2020
+C007,Eta Retail,South,SMB,100000,2016
+C008,Theta Corp,East,Enterprise,50000,2021
+C009,Iota Ltd,West,SMB,100000,2021
+C010,Kappa Inc,Central,Enterprise,500000,2017
+C011,Lambda Services,North,SMB,100000,2016
+C012,Mu Technologies,South,Enterprise,500000,2016
