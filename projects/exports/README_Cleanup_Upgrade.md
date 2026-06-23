@@ -32,3 +32,11 @@ Validation steps executed:
 Notes:
 - If you'd like these CSVs committed to git, tell me and I'll create a commit.
 - I avoided changing data values; if you want me to apply automated cleaning transformations (trim strings, normalize casing, fill nulls), specify rules.
+ - I avoided changing data values; if you want me to apply automated cleaning transformations (trim strings, normalize casing, fill nulls), specify rules.
+
+Git info:
+- Commit: ab2e429 (salesdb)
+- Tag: v2026-06-24-salesdb
+
+Release:
+- A release can be created for the tag `v2026-06-24-salesdb` (I can create it on request).
